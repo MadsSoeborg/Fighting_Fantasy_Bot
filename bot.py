@@ -16,8 +16,10 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 with open("data/pages.json", "r") as file:
     story = json.load(file)
 
+# Set the starting location
 current_location = "start"
 
+# Initialize the characters dictionary
 characters = {}
 
 
@@ -45,7 +47,7 @@ characters = load_characters()
 
 @bot.command(name="create")
 async def create_character(ctx):
-    user_id = str(ctx.author.id)  # Convert to str for JSON keys
+    user_id = str(ctx.author.id)
     if user_id in characters:
         await ctx.send("You already have a character.")
         return
@@ -62,33 +64,12 @@ async def create_character(ctx):
     }
     characters[user_id] = character_data
 
-    # Save the updated characters to a file
+    # Save character and notify the player of their new character's stats
     save_characters(characters)
-
-    # Notify the player of their new character's stats
     await ctx.send(f"Character created! Here are your stats:\n{str(character)}")
 
 
 user_current_locations = {}
-
-
-@bot.command(name="quit")
-async def quit_game(ctx):
-    user_id = str(ctx.author.id)
-
-    if user_id not in user_current_locations:
-        await ctx.send("You are not currently playing the game.")
-        return
-
-    del user_current_locations[user_id]
-
-    if user_id in characters:
-        del characters[user_id]
-        save_characters(characters)
-
-    await ctx.send(
-        "You have exited the game. You can start over with !play, although you have to create a new character with !create first."
-    )
 
 
 @bot.command(name="play")
@@ -104,7 +85,6 @@ async def start_adventure(ctx):
         "Welcome to the City of Thieves! To choose an option, type the number of the option you want to choose in the chat."
     )
 
-    current_location = "1"  # Starting point
     await present_location(ctx)
 
 
@@ -140,9 +120,29 @@ async def present_location(ctx):
         choice_key = list(location["choices"].keys())[choice_index]
         user_current_locations[user_id] = location["choices"][
             choice_key
-        ]  # Update the user's current location here
-        # Now call present_location with the updated current_location
+        ]  # Update the user's current location
+        # Call present_location with updated current_location
         await present_location(ctx)
+
+
+@bot.command(name="quit")
+async def quit_game(ctx):
+    user_id = str(ctx.author.id)
+
+    if user_id not in user_current_locations:
+        await ctx.send("You are not currently playing the game.")
+        return
+
+    del user_current_locations[user_id]
+
+    if user_id in characters:
+        del characters[user_id]
+        # Save characters to update after deletion
+        save_characters(characters)
+
+    await ctx.send(
+        "You have exited the game. You can start over with !play, although you have to create a new character with !create first."
+    )
 
 
 load_dotenv()
