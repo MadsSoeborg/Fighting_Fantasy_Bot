@@ -1,35 +1,46 @@
 import discord
-import random
-import asyncio
-
-class MyClient(discord.Client):
-    async def on_ready(self):
-        print(f'Logged on as {self.user} (ID: {self.user.id})')
-        print('------')
-    
-    async def on_message(self, message):
-        if message.author == self.user:
-            return
-        
-        if message.content.startswith('!guess'):
-            await message.channel.send('Guess a number between 1 and 10.')
-
-            def is_valid_guess(m):
-                return m.author == message.author and m.content.isdigit()
-
-            answer = random.randint(1, 10)
-
-            try:
-                guess = await self.wait_for('message', check=is_valid_guess, timeout=5.0)
-            except asyncio.TimeoutError:
-                return await message.channel.send(f'Sorry, you took too long it was {answer}.')
-            if int(guess.content) == answer:
-                await message.channel.send(f'You are right! {answer}.')
-            else:
-                await message.channel.send(f'You are wrong. It is actually {answer}')
+import json
+from discord.ext import commands
 
 intents = discord.Intents.default()
+intents.reactions = True
+intents.messages = True
 intents.message_content = True
+bot = commands.Bot(command_prefix="!", intents=intents)
 
-client = MyClient(intents=intents)
-client.run('MTIxNjc5MTU4NTMyMTM5MDE0MQ.Gj9kLY.scdWcdiFI-PM-yvAOGekVs6Zft9qndokc6PUhA')
+# Load story from JSON file
+with open("data/pages.json", "r") as file:
+    story = json.load(file)
+
+current_location = "start"
+
+
+@bot.command(name="start_adventure")
+async def start_adventure(ctx):
+    global current_location
+    current_location = "start"  # Reset to start
+    await present_location(ctx)
+
+
+async def present_location(ctx):
+    location = story[current_location]
+    message = await ctx.send(location["text"])
+    for choice in location["choices"]:
+        await message.add_reaction("🫡")
+
+
+@bot.event
+async def on_reaction_add(reaction, user):
+    global current_location
+    if user == bot.user or reaction.message.author != bot.user:
+        return  # Ignore bot's own reactions and reactions to other messages
+    choice_made = "left" if reaction.emoji == "🫡" else "right"
+    if choice_made in story[current_location]["choices"]:
+        current_location = story[current_location]["choices"][choice_made]
+        await reaction.message.channel.send(story[current_location]["text"])
+        # Check if further choices to present
+        if story[current_location]["choices"]:
+            await present_location(reaction.message.channel)
+
+
+bot.run("MTIxNjc5MTU4NTMyMTM5MDE0MQ.Gj9kLY.scdWcdiFI-PM-yvAOGekVs6Zft9qndokc6PUhA")

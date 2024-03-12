@@ -1,0 +1,18 @@
+{
+    "start": {
+      "text": "You find yourself at a crossroads. Do you go left or right?",
+      "choices": {
+        "left": "left_path",
+        "right": "right_path"
+      }
+    },
+    "left_path": {
+      "text": "You went left and found a treasure chest. You win!",
+      "choices": {}
+    },
+    "right_path": {
+      "text": "You went right and fell into a pit. Game over.",
+      "choices": {}
+    }
+  }
+  
