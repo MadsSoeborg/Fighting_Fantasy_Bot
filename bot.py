@@ -86,7 +86,7 @@ async def quit_game(ctx):
         del characters[user_id]
         save_characters(characters)
 
-    await ctx.send("You have exited the game. You can start over with !play")
+    await ctx.send("You have exited the game. You can start over with !play, although you have to create a new character with !create first.")
 
 
 @bot.command(name="play")
@@ -131,16 +131,17 @@ async def present_location(ctx):
         message = await bot.wait_for("message", check=check, timeout=300.0)
     except asyncio.TimeoutError:
         await ctx.send(
-            "You took too long to decide... Start over with !start_adventure"
+            "You took too long to decide... Start over with !play"
         )
         return
     else:
         choice_index = int(message.content) - 1
         # Fetch choice key based on index
         choice_key = list(location["choices"].keys())[choice_index]
-        current_location = location["choices"][choice_key]
-        # await ctx.send(story[current_location]["text"])
+        user_current_locations[user_id] = location["choices"][choice_key]  # Update the user's current location here
+        # Now call present_location with the updated current_location
         await present_location(ctx)
 
+
 load_dotenv()
-bot.run(os.getenv("DISCORD_TOKEN"))
+bot.run(os.getenv("DISCORD_BOT_TOKEN"))
