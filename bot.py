@@ -7,8 +7,8 @@ from models.character import Character
 from discord.ext import commands
 
 intents = discord.Intents.default()
-intents.reactions = True
-intents.messages = True
+# intents.reactions = True
+# intents.messages = True
 intents.message_content = True
 bot = commands.Bot(command_prefix="!", intents=intents)
 
@@ -86,7 +86,9 @@ async def quit_game(ctx):
         del characters[user_id]
         save_characters(characters)
 
-    await ctx.send("You have exited the game. You can start over with !play, although you have to create a new character with !create first.")
+    await ctx.send(
+        "You have exited the game. You can start over with !play, although you have to create a new character with !create first."
+    )
 
 
 @bot.command(name="play")
@@ -130,15 +132,15 @@ async def present_location(ctx):
     try:
         message = await bot.wait_for("message", check=check, timeout=300.0)
     except asyncio.TimeoutError:
-        await ctx.send(
-            "You took too long to decide... Start over with !play"
-        )
+        await ctx.send("You took too long to decide... Start over with !play")
         return
     else:
         choice_index = int(message.content) - 1
         # Fetch choice key based on index
         choice_key = list(location["choices"].keys())[choice_index]
-        user_current_locations[user_id] = location["choices"][choice_key]  # Update the user's current location here
+        user_current_locations[user_id] = location["choices"][
+            choice_key
+        ]  # Update the user's current location here
         # Now call present_location with the updated current_location
         await present_location(ctx)
 
