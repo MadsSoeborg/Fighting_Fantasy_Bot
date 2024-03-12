@@ -2,6 +2,7 @@ import discord
 import json
 import asyncio
 import os
+from dotenv import load_dotenv
 from models.character import Character
 from discord.ext import commands
 
@@ -68,14 +69,35 @@ async def create_character(ctx):
     await ctx.send(f"Character created! Here are your stats:\n{str(character)}")
 
 
+user_current_locations = {}
+
+
+@bot.command(name="quit")
+async def quit_game(ctx):
+    user_id = str(ctx.author.id)
+
+    if user_id not in user_current_locations:
+        await ctx.send("You are not currently playing the game.")
+        return
+
+    del user_current_locations[user_id]
+
+    if user_id in characters:
+        del characters[user_id]
+        save_characters(characters)
+
+    await ctx.send("You have exited the game. You can start over with !play")
+
+
 @bot.command(name="play")
 async def start_adventure(ctx):
-    user_id = str(ctx.author.id)  # Convert to str for JSON keys
+    user_id = str(ctx.author.id)
     if user_id not in characters:
         await ctx.send("You do not have a character. Create one with !create")
         return
 
-    global current_location
+    user_current_locations[user_id] = "1"
+
     await ctx.send(
         "Welcome to the City of Thieves! To choose an option, type the number of the option you want to choose in the chat."
     )
@@ -85,7 +107,9 @@ async def start_adventure(ctx):
 
 
 async def present_location(ctx):
-    global current_location
+    user_id = str(ctx.author.id)
+    current_location = user_current_locations.get(user_id, "1")
+
     location = story[current_location]
     choices_text = "\n".join(
         [
@@ -118,5 +142,5 @@ async def present_location(ctx):
         # await ctx.send(story[current_location]["text"])
         await present_location(ctx)
 
-
-bot.run("MTIxNjc5MTU4NTMyMTM5MDE0MQ.Gj9kLY.scdWcdiFI-PM-yvAOGekVs6Zft9qndokc6PUhA")
+load_dotenv()
+bot.run(os.getenv("DISCORD_TOKEN"))
