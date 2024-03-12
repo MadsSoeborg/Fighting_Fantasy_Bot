@@ -1,18 +1,51 @@
 {
-    "start": {
-      "text": "You find yourself at a crossroads. Do you go left or right?",
+    "1": {
+      "text": "The walk to Port Blacksand takes you west some fifty miles across plains and over hills; fortunately without any harmful encounters. Eventually you reach the coast and see the high city wall surrounding Port Blacksand and the cluster of buildings projecting into the sea like an ugly black mark. Ships lie anchored in the harbour and smoke rises gently from chimneys. It looks peaceful enough and it is only when the wind changes that you smell the decay in the breeze to remind you of the evil nature of this notorious place. Following the dusty road north along the coast to the city gates, you begin to notice fearful warnings — skulls on wooden spikes, starving men in iron cages suspended from the city wall and black flags everywhere. As you approach the main gate a chill runs down your spine and you instinctively grip the hilt of your broadsword for reassurance. At the gate you are confronted by a tall guard wearing a black chainmail coat and iron helmet. He steps forward, barring the way with his pike, saying, 'Who would enter Port Blacksand uninvited? State the nature of your business or go back the way you came.' Will you: 1. Tell him you wish to be taken to Nicodemus? 2. Tell him you wish to sell some stolen booty? 3. Attack him quickly with your sword?",
       "choices": {
-        "left": "left_path",
-        "right": "right_path"
+        "1": "202",
+        "2": "33",
+        "3": "49"
       }
     },
-    "left_path": {
-      "text": "You went left and found a treasure chest. You win!",
-      "choices": {}
+    "2": {
+        "text": "You remove the bracelet from your wrist and toss it at the oncoming monster. It lands on its armour-like shell and sticks to it like glue. You then watch as the bracelet starts to burn its way through the shell into the body of the Giant Centipede. Smoke rises from the neat round hole and as the bracelet burns deeper, you can see from the frantic movements of the Centipede that it is in its death throes. Finally, it is still, and you manage to squeeze yourself between its body and the roof of the tunnel. You walk further down the tunnel, which ends at an iron grill through which the sewage runs. 1. Do you wish to remove the grill? 2. Do you wish to walk back to the entrance hole?",
+        "choices": {
+          "1": "377",
+          "2": "174"
+        }
+        
     },
-    "right_path": {
-      "text": "You went right and fell into a pit. Game over.",
-      "choices": {}
+    "10": {
+        "text": "The GUARD is really annoyed and charges at you with his pike. CITY GUARD SKILL 8 STAMINA 7. 1. You win and the fight lasts six Attack Rounds or less. 2. The fight lasts longer than six Attack Rounds",
+        "choices": {
+            "1": "212",
+            "2": "130"
+        }
+
+    },
+    "33": {
+        "text": "You tell the guard that you wish to sell some silver chalices that you stole from a tavern in Silverton and that you will pay him a Gold Piece for his advice as to where to go for the best price. The guard looks at you suspiciously, saying, 'Let me look at these chalices in your backpack before I admit you.' Will you: 1. Tell him you know the chalices are cursed and should only be examined by a mage? 2. Try to run past the guard into the main street? 3. Attack him quickly with your sword?",
+        "choices": {
+            "1": "381",
+            "2": "291",
+            "3": "49"
+        }
+      },
+    "49": {
+        "text": "As you draw your sword the guard leaps to his right and attemps to ring a small bell on the wall of the guardhouse. Test your Luck. 1. If you are Lucky, he misses the bell, curses, and turns to fight you with his pike. 2. If you are Unlucky, he manages to grab the belle and rings it loudly before turning to fight you with his pike.",
+        "choices": {
+            "1": "10",
+            "2": "311"
+        }
+      },
+    "202": {
+        "text": "The guard replies that he will send for an escort to take you to Nicodemus. He reaches up to a small bell on the wall of the guardhouse and rings it three times. Almost immediately two other guards come running out of the house, and you are surprised when they each grab hold of one of your arms. The guard with the pike looks up to the sky and laughs, saying, 'So you want to see Nicodemus, do you? How would you like to see the inside of a dungeon cell instead? Guards, take this fool away to be shackled, and throw away the key.' Will you: 1. Allow yourself to be taken away? 2. Attempt to fight the guards? 3. Try to bribe the guards?",
+        "choices": {
+            "1": "151",
+            "2": "69",
+            "3": "276"
+      }
     }
+
   }
   
