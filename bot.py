@@ -44,9 +44,8 @@ async def present_location(ctx):
         await ctx.send("You took too long to decide... Start over with !start_adventure")
         return
     else:
-        # Convert the choice from 1-based to 0-based indexing
         choice_index = int(message.content) - 1
-        # Fetch the actual choice key based on index
+        # Fetch choice key based on index
         choice_key = list(location["choices"].keys())[choice_index]
         current_location = location["choices"][choice_key]
         await ctx.send(story[current_location]["text"])

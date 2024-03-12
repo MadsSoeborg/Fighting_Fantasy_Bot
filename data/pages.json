@@ -12,8 +12,7 @@
         "choices": {
           "1": "377",
           "2": "174"
-        }
-        
+        } 
     },
     "3": {
         "text": "The man stops playing and tells you that he can bring you good fortune. For the sum of 3 Gold Pieces he will sing you a song that will bring you luck. If you wish to pay the musician, choose 1. If you do not believe him, you may walk to the next stall",
@@ -58,7 +57,7 @@
     "9": {
       "text": "You step back from the vile body of Zanbar Bone, waiting for him to decay. However, you have chosen wrongly!!! He pulls the arrow from his chest and rubs the compound from his eyes. He sees you and laughs. You are mesmerized by his power and are unable to move. He walks up to you and touches your face with his skeletal fingers. Your life is draining quickly away and you will soon begin your undead existence as a servant of Zanbar Bone.",
       "choices": {
-        "1": "DEAD"
+        "1": "GAME OVER"
       }
     },
     "10": {
@@ -125,27 +124,2643 @@
   },
   "19": {
     
-      "text": "The darts are poison-tipped. Lose 4 STAMINA points and 1 SKILL point. If you are still alive and wish to continue picking the lock,",
+      "text": "The darts are poison-tipped. Lose 4 STAMINA points and 1 SKILL point. If you are still alive and wish to continue picking the lock, turn to 340. If you would rather leave the room and climb the stairs to the floor above, turn to 60.",
       "choices": {
           "1": "340",
           "2": "60"
       }
   },
-    "49": {
-        "text": "As you draw your sword the guard leaps to his right and attemps to ring a small bell on the wall of the guardhouse. Test your Luck. 1. If you are Lucky, he misses the bell, curses, and turns to fight you with his pike. 2. If you are Unlucky, he manages to grab the belle and rings it loudly before turning to fight you with his pike.",
-        "choices": {
-            "1": "10",
-            "2": "311"
-        }
-      },
-    "202": {
-        "text": "The guard replies that he will send for an escort to take you to Nicodemus. He reaches up to a small bell on the wall of the guardhouse and rings it three times. Almost immediately two other guards come running out of the house, and you are surprised when they each grab hold of one of your arms. The guard with the pike looks up to the sky and laughs, saying, 'So you want to see Nicodemus, do you? How would you like to see the inside of a dungeon cell instead? Guards, take this fool away to be shackled, and throw away the key.' Will you: 1. Allow yourself to be taken away? 2. Attempt to fight the guards? 3. Try to bribe the guards?",
-        "choices": {
-            "1": "151",
-            "2": "69",
-            "3": "276"
-      }
+  "20": {
+    "text": "The pirate’s pockets contain nothing apart from a piece of stale bread. You leave him to start a search of the wooden boxes and barrels on the ship’s deck (turn to 84). ",
+    "choices": {
+        "1": "a"
     }
+},
+"21": {
+    "text": "Looking up, you see that the staircase goes all the way up to the top of the tower. You stop off at the first floor and walk along the landing to a door. The door opens into a large room which contains a comfortable, made-up bed. If you wish to lock the door and go to sleep for the night, turn to 288. If you . wish to explore the tower further, turn to 77.",
+    "choices": {
+        "1": "288",
+        "2": "77"
+    }
+},
+"22": {
+    "text": "As you sit down at the table the GOBLINS stop their quarrelling and stare at you coldly. You see hatred in their brown warty faces. Suddenly they stand up and draw their swords. You must fight them one at a time. SKILL STAMINA First GOBLIN 4 5 Second GOBLIN 5 5 If you win, turn to 198. ",
+    "choices": {
+        "1": "198"
+    }
+},
+"23": {
+    "text": "The man grabs a wooden club from behind a chair and prepares to fight you. He is strong but not a good fighter. SILVERSMITH SKILL 4 STAMINA 8 if you win, turn to 146. ",
+    "choices": {
+        "1": "146"
+    }
+},
+"24": {
+    "text": "There is another shop on the left side of the street. An iron grill over the window prevents you seeing what kind of shop it is. You try the handle on the door and it turns. If you want to enter the shop, turn to 336. If you wish to continue west, without looking into the shop, turn to 196. ",
+    "choices": {
+        "1": "336",
+        "2": "196"
+    }
+},
+"25": {
+    "text": "You soon realize you are in a stable when you see a large, bare-chested man wearing a grubby white apron busy at work at an open fire. He takes a red-hot iron bar from the fire with his gloved hand and starts to hammer it into the shape of a horseshoe on his anvil. Sweat pours from his brow as he toils with the hammer. Will you: Make conversation with the blacksmith? Turn to 169. Attack him with your sword? Turn to 323. Leave him to his labours and continue north? Turn to 115 ",
+    "choices": {
+        "1": "169",
+        "2": "323",
+        "3": "115"
+    }
+},
+"26": {
+    "text": "You sheathe your sword and look round at the circle of spectators. Having witnessed your excellent swordsmanship each goes quietly back to his table, not wishing to anger you any further. The innkeeper apologizes for his unfriendliness and invites you to sit at the bar and enjoy a drink at his expense. You ask him if he knows the whereabouts of Nicodemus. The innkeeper frowns and looks at you inquiringly. Then he says, ‘I don’t know what you want from that wily old wizard. He keeps himself to himself and lives alone in a small hut under Singing Bridge. Keep walking north along Market Street, through the market-place, and you'll come to a bridge that crosses Catfish River and leads to the old part of the city and the harbour. Nicodemus won’t talk to you and he knows enough magic to keep even the toughest away from his door.’ You tell the innkeeper not to be so discourteous to strangers next time, and leave the tavern to head north (turn to 296). ",
+    "choices": {
+        "1": "296"
+    }
+},
+"27": {
+    "text": "You enter a small candlelit room with no windows. It is empty apart froma table and two chairs. A man wearing black robes and a skullcap is standing in a corner. He smiles and asks you to sit down at the table. He sits opposite you and, after placing six white pills on top of six skulls on the table, looks up to you and says, ‘One of the pills before you is deadly poisonous, the others are harmless. Swallow one of your choice. If you live, I will give you 20 Gold Pieces. If you die, I keep all your possessions.’ If you wish to play this deadly game, turn to 223. If you would rather leave this room and walk back up the alley to Candle Street, turn to 165. ",
+    "choices": {
+        "1": "223",
+        "2": "165"
+    }
+},
+"28": {
+    "text": "While you were fighting the Giant Rats, you thought you saw someone or something skulking in the shadows ahead. If you wish to continue further north along the tunnel, turn to 265. If you would rather turn round and walk back to the entrance hole, turn to 104. ",
+    "choices": {
+        "1": "265",
+        "2": "104"
+    }
+},
+"29": {
+    "text": "You squat down on the mattress and consider what to do next. If you wish to feign illness and throw the iron pail against the bars of the cell to attract the guards’ attention, turn to 143. If you wish to inspect the cell closely in the hope of finding a secret escape route, turn to 230. ",
+    "choices": {
+        "1": "143",
+        "2": "230"
+    }
+},
+"30": {
+    "text": "Tower Street soon ends ata junction, where it meets Stable Street running north and south. You decide to go north (turn to 76). ",
+    "choices": {
+        "1": "76"
+    }
+},
+"31": {
+    "text": "Ahead you see a wooden bridge stretching over a dirty river. Various bits of rubbish are floating down to the sea on its black surface, and you squirm at the sight of a human hand passing by. The bridge supports and columns reach high above and you see skulls, both human and non-human, tied to them. The wind makes an eerie noise as it whistles through the bridge structures, reminding you of tortured souls crying out for help. Almost hidden from view is a small flight of steps going down underneath the bridge from where you are standing. A one-legged man carrying a sack is crossing the bridge from the northern bank. If you wish to climb down the steps, turn to 329. If you wish to wait to talk to the man, turn to 364. ",
+    "choices": {
+        "1": "329",
+        "2": "364"
+    }
+},
+"32": {
+  "text": "Before you reach the door, the Serpent Queen extends her head and bites you on the neck, causing the loss of 4 STAMINA points and 1 skILt point. If you are still alive, you draw your sword to attack the Serpent Queen (turn to 249). ",
+  "choices": {
+      "1": "249"
+  }
+},
+"33": {
+    "text": "You tell the guard that you wish to sell some silver chalices that you stole froma tavern in Silverton and that you will pay him a Gold Piece for his advice as to where to go for the best price. The guard looks at you suspiciously, saying, ‘Let me look at these chalices in your backpack before I admit you.’ Will you: Tell him that you know the chalices are cursed and should only be examined by a mage? Turn to 381 Try to run past the guard into the main street? Turn to 291 Attack him quickly with your sword? Turn to 49 ",
+    "choices": {
+        "1": "381",
+        "2": "291",
+        "3": "49"
+    }
+},
 
+"34": {
+    "text": "The carriage thunders by and you see its driver urging on the four horses as though his life de- pended on it. As the noise of the carriage fades into the distance, you step out on to the street and continue west (turn to 171). ",
+    "choices": {
+        "1": "171"
+    }
+},
+"35": {
+    "text": "You push the man through the doorway and run him through with your sword. Much to your sur- prise he is unaffected by the wound. Slowly he advances towards you, trying to touch your skin with his skeletal, decayed hands. He grabs your arm but you manage to kick him away. He has left a mark on your arm which looks like a burn, but it emits a revolting smell of putrid flesh. Lose 2 stamINA points. Then you realize that before you stands a Spirit Stalker, one of the faithful servants of Zanbar Bone. As he advances towards you again with his arms outstretched, you try to remember what you must do. Will you: Fire the silver arrow at him? Turn to 189 Reflect his stare in your mirror (if you have one)? Turn to 305 Fire your Ring of Ice at him (if you have one)? Turn to 382",
+    "choices": {
+        "1": "189",
+        "2": "305",
+        "3": "382"
+    }
+},
+"36": {
+    "text": "The man leans on the counter and tells you that a Ring of Invisibility costs 10 Gold Pieces, a Ring of Fire costs 8 Gold Pieces, and a Ring of Ice costs 7 Gold Pieces. If you wish to buy one of the rings, make the necessary deduction on your Adventure Sheet. Bidding the man farewell, you slip the ring on your finger and leave the shop to head west (turn to 196). ",
+    "choices": {
+        "1": "196"
+    }
+},
+"37": {
+    "text": "The man strums his lyre and sings a merry song all about you and your good fortune — he does have the power to make you lucky. Add 2 LucK points and walk on to the next stall (turn to 398). ",
+    "choices": {
+        "1": "398"
+    }
+},
+"38": {
+    "text": "One of the men reaches into a pocket inside his green jacket and produces a thin silver bracelet. He gives it to you and you see the outline of an insect etched into its surface. The man explains that the insect bracelet has the power to kill even giant insects. After placing the bracelet on your wrist you leave the tavern and head north again (turn to 296). ",
+    "choices": {
+        "1": "296"
+    }
+},
+"39": {
+    "text": "You open your backpack and pretend to search for the silver item. The Serpent Queen starts to fidget and you can see her becoming increasingly impatient. You cannot think of a good plan and start to panic. If you wish to run to the front door, turn to 32. If you wish to draw your sword to attack the Serpent Queen, turn to 249. ",
+    "choices": {
+        "1": "249"
+    }
+},
+"40": {
+  "text": "From the top of the wall you see that it encircles a group of brown creatures playing some kind of game with a wooden stick and a small leather ball. One of the creatures has just hit the ball and is running towards a creature from the other team who has his foot on a cloth bag. You realize that these creatures are Bays playing their favourite game, Bays’ Ball. If you wish to ask to join in their game, turn to 168. If you would rather climb back down the wall, return to the junction and head west down Harbour Street, turn to 91. ",
+  "choices": {
+      "1": "168",
+      "2": "91"
+  }
+},
+"41": {
+  "text": "The two guards holding you look at each other and then at the other guard for a decision. He nods at them and they release their grip on you. As you pay him the 15 Gold Pieces he gives you a piercing look, saying, ‘If Lord Azzur finds out that you are in the city without a pass, you are as good as dead. I'd get one if I were you. And as for Nicodemus, find him yourself.’ Repressing an urge to draw your sword you turn and walk into the city (turn to 74). ",
+  "choices": {
+      "1": "74"
+  }
+},
+"42": {
+    "text": "You tell the man that you cannot pay the price he is asking. He shrugs his shoulders and says, ‘Well, do you have any food?’ You open your backpack and he takes all your remaining Provisions. He then starts to cast the silver arrow and you wait patiently as he makes it. Finally he presents you with it and assures you that it will be accurate in flight. You thank him for his trouble and leave his shop. Outside you set off east once again (turn to 100).  ",
+    "choices": {
+        "1": "100"
+    }
+},
+
+"43": {
+    "text": "You cry out in pain as the goblet changes into a burning coal in your hand. You are badly burnt. Lose 2 SKILL and 2 LUCK points. If you have not done so already you may lift goblet A (turn to 175) or goblet B (turn to 209). If you are not interested in the goblets, you may either walk through the archway (turn to 107) or climb the stairs (turn to 60). ",
+    "choices": {
+        "1": "175",
+        "2": "209",
+        "3": "107",
+        "4": "60"
+    }
+},
+"44": {
+    "text": "Standing in a line across the street are three tall men each armed with a spiked club. You notice that each has a red star tattooed on his forehead. They are vagabonds intent on robbing you. If you have a Throwing Knife you may be able to cut one down before they reach you (turn to 18). If you do not have a Throwing Knife you will have to fight all three with your sword (turn to 225). ",
+    "choices": {
+        "1": "18",
+        "2": "225"
+    }
+},
+"45": {
+    "text": "The glass ball shatters on impact with the cobbled street. On contact with the air the smoke turns a golden colour and begins to take the shape of a winged helmet. The helmet solidifies and rests on the street, sparkling in the sunlight. It is the most magnificent helmet you have ever seen. If you wish to place it on your head, turn to 376. If you would rather leave it alone and set off east again, turn to 161. ",
+    "choices": {
+        "1": "376",
+        "2": "161"
+    }
+},
+"46": {
+    "text": "The blacksmith takes your money and walks over to some bales of hay in the corner. He lifts one up and underneath it you see the chainmail coat. He turns to youand says, ‘You have to hide everything in this place. You can’t trust anybody.’ The coat fits perfectly and its workmanship is excellent. Add 2 SKILL points. You leave the stables with your new armour and continue north (turn to 115). ",
+    "choices": {
+        "1": "115"
+    }
+},
+"47": {
+    "text": "The lightning bolt slams into your chest and knocks you to the floor. Lose 3 STAMINA points. If you are still alive you see the fat man roaring with laughter. Perhaps he is off his guard? You decide to throw your sword at him from your prone position. Roll two dice. If the number rolled is less than or equal to your SKILL score, the sword pierces the chest of the man and kills him (turn to 313). If the number is greater than your SKILL score, the sword flies past him and clatters on to the marble floor (turn to 81).",
+    "choices": {
+        "1": "313",
+        "2": "81"
+    }
+},
+"48": {
+    "text": "There is an iron ladder secured to the rim of a hole, descending into a tunnel below. It is dark, and a very unpleasant smell rises up from below. If you wish to climb down the ladder, turn to 321. If you wish to replace the manhole cover and continue east, turn to 205. ",
+    "choices": {
+        "1": "321",
+        "2": "205"
+    }
+},
+"49": {
+    "text": "As you draw your sword the guard leaps to his right and attempts to ring a small bell on the wall of the guardhouse. Test your Luck. If you are Lucky, he misses the bell, curses, and turns to fight you with his pike (turn to 10). If you are Unlucky, he manages to grab the bell and rings it loudly before turning to fight you with his pike (turn to 311). ",
+    "choices": {
+        "1": "10",
+        "2": "311"
+    }
+},
+"50": {
+    "text": "The stairs lead down into the ship’s cargo hold. It is empty. Opposite you a corridor leads from the hold to two closed doors. You walk along the corridor and listen at the doors. From the door on your left you hear loud snoring. From the door on your right you hear nothing. If you wish to open the door on the left, turn to 271. If you wish to open the door on the right, turn to 232. ",
+    "choices": {
+        "1": "271",
+        "2": "232"
+    }
+},
+"51": {
+    "text": "You walk over to the old man and help him to his feet. He is very grateful and offers to buy youa drink at a nearby tavern. If you wish to go fora drink, turn to 325. If you would rather continue your quest, turn to 348. ",
+    "choices": {
+        "1": "325",
+        "2": "348"
+    }
+},
+"52": {
+    "text": "Behind the next stall is a young man selling small weapons and items of equipment. The prices of his wares are chalked up ona slate: Throwing Knife 4 Gold Pieces Climbing Rope 2 Gold Pieces Butcher’s Meat Hook 2 Gold Pieces Iron Spike 1 Gold Piece Lantern 3 Gold Pieces If you wish to buy some or all of the items, make the necessary adjustments on your Adventure Sheet. You then walk north (turn to 200). ",
+    "choices": {
+        "1": "200"
+    }
+},
+"53": {
+    "text": "The silk curtains in front of the archway are pulled aside and a strange creature steps into the room. It has a snake’s head, which sits oddly atop the body of a young woman wearing a lavish gown. Its mouth opens and a forked tongue darts in and out as the Serpent Queen says, ‘Don’t try to fool me, I know that scoundrel Borryman never sends flowers. What silver gift have you brought me?’ If you have a silver item in your backpack that you wish to give to the Serpent Queen, turn to 328. If you have not gota silver item that you wish to give away, turn to 39. ",
+    "choices": {
+        "1": "328",
+        "2": "39"
+    }
+},
+"54": {
+    "text": "You search the guardhouse and find 2 Gold Pieces anda merchant's pass permitting the holder to trade in Port Blacksand. Taking your findings with you, you creep outside. The guard at the main gate does not see you and you walk into the city (turn to 74). ",
+    "choices": {
+        "1": "74"
+    }
+},
+"55": {
+    "text": "You dip the petals of the flower in the spilled blood of the dead dogs. On contact with blood the petals sparkle and make a popping noise. On the floor are 10 Gold Pieces. You pick up the gold and walk back up the alleyway to Harbour Street, where you turn left (turn to 180). ",
+    "choices": {
+        "1": "180"
+    }
+},
+"56": {
+    "text": "There are over twenty guards coming to get you and it is useless to put up a fight. They drag you off toa room at the bottom of the tower and chain you to a wall. To your horror you see the two Trolls enter the room. They take it in turns to beat you before passing a sentence of five years’ solitary confinement in a dungeon cell. A few minutes later a hunchbacked jailer arrives carrying a bull-hide whip. He fixes a ball and chain to your leg before leading you downstairs to begin your jail sentence. You have failed in your mission. ",
+    "choices": {
+        "1": "GAME OVER"
+    }
+},
+"57": {
+    "text": "The Dwarf jumps up off his stool, his face full of hatred. He calls out two names loudly and two huge black dogs immediately appear from under a table with long fangs protruding from their slavering mouths. Wraggins points a finger at you, shouting ‘Kill the friend of Nicodemus!’ and the dogs leap at you, barking wildly. You must fight them for your life, one at a time. SKILL STAMINA First WOLF DOG 7 7 Second WOLF DOG 7 5 If you win, turn to 360. ",
+    "choices": {
+        "1": "360"
+    }
+},
+"58": {
+    "text": "As the carriage thunders by, the driver lashes out at you with his whip. Lose 1 sTAMINA point. You curse the driver of the carriage as it races out of view, rubbing your neck where the whip has raised a weal. You set off west again (turn to 171). ",
+    "choices": {
+        "1": "171"
+    }
+},
+"59": {
+    "text": "The Hag laughs as she watches you in the throes of your nightmare. Then from out of her clothing she pulls a dagger with a long shimmering blade. You are helpless and unable to stop her plunging the dagger into your chest. Tonight her stew-pot will contain more than rat meat. Your adventure ends here. ",
+    "choices": {
+        "1": "GAME OVER"
+    }
+},
+"60": {
+    "text": "At the top of the stairs you reach a landing with two closed doors. As you are deciding which door to enter, you hear a noise from downstairs — somebody is entering the front door. Then you hear a man’s voice saying, ‘Off you fly, my little beauty, find the intruder.’ If you wish to draw your sword in readiness, turn to 349. If you would rather make a break for it, you may jump out of the window at the head of the landing into the street below (turn to 192). ",
+    "choices": {
+        "1": "349",
+        "2": "192"
+    }
+},
+"61": {
+    "text": "The silk curtains in front of the archway are pulled aside and a strange creature steps into the room. It has a snake’s head, which sits oddly atop the body of a young woman wearing a lavish gown. You feel uncomfortable and are undecided whether or not to draw your sword. Then the snake’s mouth opens and a forked tongue darts in and out as the Serpent Queen asks to see the flowers sent to her by Lord Azzur. If you have a bunch of flowers, turn to 172. If you do not have a bunch of flowers, turn to 350. ",
+    "choices": {
+        "1": "172",
+        "2": "350"
+    }
+},
+"62": {
+    "text": "The old wooden doors open into a dingy, smokefilled room. There are eight round tables in the centre of the room with some of the most mean and shifty-looking rogues you have ever seen sitting at them. At the back of the tavern is a long wooden bar covered with bottles and mugs. Behind the bar stands the innkeeper wearing a grubby apron. He is quite old, bald and has an ugly black scar running down his right cheek. Not all the customers are human. Will you: Walk to the bar to talk to the innkeeper? Turn to 136 Sit down at a table with three Dwarfs who are playing a dice game? Turn to 173 Sit down at a table with two Goblins who are arguing? Turn to 22 Sit down with three men who are sticking daggers quickly between their fingers on the table? Turn to 190 Leave the tavern and walk north? Turn to 296 ",
+    "choices": {
+        "1": "136",
+        "2": "173",
+        "3": "22",
+        "4": "190",
+        "5": "296"
+    }
+},
+"63": {
+    "text": "The Elf leads you into a room lit by purple candles, which give a strange glow. You stand and stare blankly at the candles and drift off into a world of vivid dreams. While you are in this trance, the Elf takes two items and 5 Gold Pieces from your backpack (if you have them). When you awake, you have no recollection of the theft and leave the shop thanking the Elf for showing you his beautiful candles. Outside you head east again (turn to 280).",
+    "choices": {
+        "1": "280"
+    }
+},
+"64": {
+    "text": "You hear growls and loud barking coming from inside the kennel, and suddenly an enormous black wolf rushes out of the kennel straight at you. A long chain is attached to its collar and this may stop it from reaching you. Test your Luck. If you are Lucky, the chain pulls taut and the wolf jerks to a halt (turn to 353). If you are Unlucky, the chain remains slack and the wolf leaps up and bites your arm. Lose 1 STAMINA point and turn to 309. ",
+    "choices": {
+        "1": "355",
+        "2": "309"
+    }
+},
+"65": {
+    "text": "On the next floor there are two doors adjacent to one another on the landing. One is painted white and the other black. Suddenly a voice calls out from nowhere, saying, ‘Oh foolish adventurer, why do you even consider it a remote possibility that you can defeat me, the almighty Zanbar Bone. I am following your every move, but you do not know where I am. Ha! Ha! Ha!’ Will you: Open the white door? Turn to 319 Open the black door? Turn to 96 Carry on up the stairs? Turn to 197 ",
+    "choices": {
+        "1": "319",
+        "2": "96",
+        "3": "197"
+    }
+},
+"66": {
+    "text": "The Dwarf smiles and boasts that he can make a key to open any lock in Port Blacksand. He says that his special keys are priced at 10 Gold Pieces each. If you want to buy a key, make the necessary deduction on your Adventure Sheet. Whether or not you buy a key you leave the’shop and continue west (turn to 300). ",
+    "choices": {
+        "1": "300"
+    }
+},
+"67": {
+    "text": "The woman’s voice sounds excited as she calls through the curtains, ‘Oh, I wonder which kind dear has sent me flowers? Can you tell me who they are from?’ If you wish to tell her a name, turn to 195. If you wish to tell her that you do not know who they are from, turn to 79. ",
+    "choices": {
+        "1": "195",
+        "2": "79"
+    }
+},
+"68": {
+    "text": "The soup tastes absolutely disgusting. If you wish to swallow it, turn to 380. If you wish to spit it out, turn to 262. ",
+    "choices": {
+        "1": "380",
+        "2": "262"
+    }
+},
+"69": {
+    "text": "Just as the guards are about to lead you away, you try with all your might to pull your arms from their grip. Roll two dice. If the number rolled is less than or equal to your SKILL score, you succeed — turn to 355. If the number rolled is greater than your SKILL, you fail to release yourself, and are led away, struggling violently (turn to 151). ",
+    "choices": {
+        "1": "355",
+        "2": "151"
+    }
+},
+"70": {
+    "text": "As you reach the chest it disappears before your eyes. You hear laughter behind you and suddenly see in the mirror the hideous reflection of a blackrobed skeleton with green, translucent eyes, wearing a golden crown on its skull. You spin round but it’s too late. Zanbar Bone’s skeletal fingers are touching your flesh and are draining your life away. You are now one of his undead servants. ",
+    "choices": {
+        "1": "GAME OVER"
+    }
+},
+"71": {
+    "text": "The Ogre’s room is full of clutter and discarded bits and pieces. It does not appear to have been tidied for years. Rummaging through the jumble, you find a polished wooden box with a hand made of white shell inlaid on the lid. The box is locked and you . cannot find the key to open it. If you wish to smash it open with your sword, turn to 324. If you wish to leave the house to continue north, without trying to open the box, turn to 282. ",
+    "choices": {
+        "1": "324",
+        "2": "282"
+    }
+},
+"72": {
+    "text": "As you bend down to help the injured boy, he suddenly rolls over and you see the flashing blade of a dagger before your eyes. The boy is in fact a GOBLIN thief and you must fight him for your life. GOBLIN SKILL 5 STAMINA 4 If you win, turn to 208. ",
+    "choices": {
+        "1": "208"
+    }
+},
+"73": {
+    "text": "You draw your sword and stand ready to fight the Trolls. They seem pleased that you are going to give them a chance to practise their beloved sport of killing humans, and advance towards you swinging their battle-axes. Sourbelly snarls and says, ‘Stand back, Fatnose — let me deal with this dog alone.’ Fight them one at a time. SKILL STAMINA SOURBELLY 10 11 FATNOSE 9 10 If you win, turn to 110. You may Escape after killing Sourbelly by throwing your shield at Fatnose and running off west along Mill Street. Lose 1 SKILL point and turn to 239. ",
+    "choices": {
+        "1": "110",
+        "2": "239"
+    }
+},
+"74": {
+    "text": "Through the main gates you see that the rubbishfilled streets of the port are narrow and cobbled. Old and decrepit buildings line them closely, with their upper storeys overhanging menacingly. You may: Go west down Key Street Turn to 95 Head north along Market Street Turn to 116 Go east down Clock Street Turn to 17 ",
+    "choices": {
+        "1": "95",
+        "2": "116",
+        "3": "17"
+    }
+},
+"75": {
+    "text": "Outside the rain has stopped and you set off north again",
+    "choices": {
+        "1": "31"
+    }
+},
+"76": {
+    "text": "To your left you see a large wooden barn set back from the houses. Two horses are tied to a post outside the barn, and smoke rises from a crooked chimney on top of its low flat roof. If you wish to_ walk through the barn doors, turn to 25. If you would rather continue north, turn to 115. ",
+    "choices": {
+        "1": "25",
+        "2": "115"
+    }
+},
+"77": {
+    "text": "You walk quietly back to the staircase and climb up to the second floor. Again there is a door at the end of the landing. If you wish to open the door, turn to 292. If you wish to climb up to the third floor, turn to _ 310. ",
+    "choices": {
+        "1": "292",
+        "2": "310"
+    }
+},
+"78": {
+    "text": "The street runs north along the quayside for a few hundred metres before arriving at a junction. If you wish to continue north up Harbour Street, turn to 256. If you wish to walk east along Clog Street, turn to 216. ",
+    "choices": {
+        "1": "256",
+        "2": "216"
+    }
+},
+"79": {
+    "text": "The silk curtains in front of the archway are suddenly pulled aside and a strange creature steps into the room. It has a snake’s head, which sits oddly atop the body of a young woman wearing a lavish gown. Its mouth opens and a forked tongue darts in and out as the SERPENT QUEEN challenges you, saying, ‘Do not lie to me, scoundrel. No doubt you are an assassin come here to kill me. But you shall die instead!’ Suddenly the Serpent Queen stretches out her head and bites you on the neck. Lose 4 STAMINA points and 1 SKILL point. If you are still alive, you draw your sword to defend yourself. SERPENT QUEEN _ SKILL9g STAMINA 7 If you win, turn to 295. ",
+    "choices": {
+        "1": "295"
+    }
+},
+"80": {
+    "text": "The stairs lead into a small room, again painted red. Sitting at a table is a strange creature with a long snout and deep red, scaly skin. From its jaw protrude rows of sharp teeth and a long pink tongue darts quickly in and out between them. The creature looks up and stares at you. Are you wearing a scorpion brooch? If you are, turn to 392. If not, turn to 215. ",
+    "choices": {
+        "1": "392",
+        "2": "215"
+    }
+},
+"81": {
+    "text": "The man laughs even louder and mocks your attempt to kill him. You decide to leap up and make a dash for the front door, picking up your sword as you run. The man sees what you are doing and fires another lightning bolt at you. Test your Luck. If you are Lucky, the lightning bolt misses you, and you manage to open the door and run north up the street (turn to 304). If you are Unlucky, the lightning bolt thuds into your back and you cry out in pain (turn to 243). ",
+    "choices": {
+        "1": "304",
+        "2": "243"
+    }
+},
+"82": {
+    "text": "Before the Hag can complete her spell, you reach into your backpack and take out the bottle containing the potion. You gulp down the liquid and feel its effects immediately. The Hag is still mouthing her vile sorcery but you cannot hear her. Safe from her - evil, you draw your sword and step forward. You grab hold of her matted hair and cut a clump from her head. She writhes and kicks and spits at you. At this close range you can see fresh blood on her face — no doubt she could not wait to cook some of the rats she had killed. Despite your repulsion you are excited about having gained one of the items necessary to defeat the Night Prince. You throw the Hag into the sewer and walk back to the entrance hole (turn to 104).",
+    "choices": {
+        "1": "104"
+    }
+},
+"83": {
+    "text": "Fortunately, the contents of the jar are as the label reads, although the strength of the mixture is unpredictable. Roll 1 die. The number rolled is the number of STAMINA points that will be restored. If you wish to continue searching the shop, turn to 322. If you would rather leave the shop to head north, turn to 93. ",
+    "choices": {
+        "1": "322",
+        "2": "93"
+    }
+},
+"84": {
+    "text": "The barrels all contain rotten fruit and the boxes contain manacles and leg irons. Perhaps this is a slave-trading ship. There is nothing else of interest to you on deck. If you wish to walk over to the deck cabin to climb down the stairs to the lower decks, turn to 50. If you would rather leave the ship, walk back along the jetty, turn left and walk north up Harbour Street, turn to 78. ",
+    "choices": {
+        "1": "50",
+        "2": "78"
+    }
+},
+"85": {
+    "text": "You pay the silversmith and wait patiently while he makes a silver arrow for you. Finally he presents you with it and assures you that it will be completely accurate in flight. You thank him for his trouble and leave his shop. Outside you set off east once again (turn to 100). ",
+    "choices": {
+        "1": "100"
+    }
+},
+"86": {
+    "text": "A leather pouch hanging round the neck of the man contains a small glass ball containing what looks like swirling smoke. Will you: Smash the ball on the ground? Turn to 45 Put the ball in your backpack? Turn to 194 Leave the ball behind and continue east? Turn to 161 ",
+    "choices": {
+        "1": "45",
+        "2": "194",
+        "3": "161"
+    }
+},
+"87": {
+    "text": "You reach the top of the ladder and peer over the handrail to survey the ship’s deck. There are two large masts rising into the air from the deck. Wooden boxes, barrels and coils of rope lie all around, and one of the ship’s crew stands on guard at the top of the gangplank. In the centre of the deck there is a small cabin with an open door. Through the door you see stairs leading down to the lower decks. If you wish to inspect any of the wooden boxes and barrels, you will have to deal with the pirate on guard (turn to 120). If you wish to creep _ along the deck to the stairs, turn to 50. ",
+    "choices": {
+        "1": "120",
+        "2": "50"
+    }
+},
+"88": {
+    "text": "You pull back the curtains and walk into a very lavish boudoir. In it isa young woman with her back towards you. As you approach her she spins round and you are stunned to see, not the young woman’s face you are expecting, but a large snake’s head. It extends out from the shoulders and bites you on the neck. You are caught somewhat off-balance by the SERPENT QUEEN and suffer the loss of 4 STAMINA points and 1 SKILL point before you can draw your sword to defend yourself. SERPENT QUEEN _ SKILLg STAMINA 7 If you win, turn to 295. You may Escape after three Attack Rounds by running out of the house and north along Stable Street (turn to 333). ",
+    "choices": {
+        "1": "295",
+        "2": "333"
+    }
+},
+"89": {
+    "text": "As you slide your hand into the glove, it seems to come alive and cling tightly to your hand. Then it changes texture and becomes hot and you feel as though your hand is covered with burning tar which you are unable to shake off. Mercifully it cools down, but a thin white film remains on your hand, making it difficult to open and close. Lose 2 SKILL points. You curse and leave the house to head north (turn to 282). ",
+    "choices": {
+        "1": "282"
+    }
+},
+"90": {
+    "text": "You swing your sword with all your strength and bring it down on the heavy chain. Much to your surprise it bounces off. Before you have time to try again, you are surrounded by four town guards who are pointing their pikes at you. Will you: Tell them you have caught the escaped prisoner for them? Turn to 199 Offer them a bribe to let you and the prisoner go free? Turn to 187 ",
+    "choices": {
+        "1": "199",
+        "2": "187"
+    }
+},
+"91": {
+    "text": "You pass a beggar in the street. He is sitting in the gutter and holds an empty tin in his hand. If you wish to toss a Gold Piece into his tin, turn to 332. If you would rather walk past him, turn to 124. ",
+    "choices": {
+        "1": "332",
+        "2": "124"
+    }
+},
+"92": {
+    "text": "You are slowly feeling your way along the bricks when your hand comes into contact with a smooth flat object. You pull it out and see that you are holding a mirror. You pack it away and walk back to the entrance hole (turn to 174). ",
+    "choices": {
+        "1": "174"
+    }
+},
+"93": {
+    "text": "On the right-hand side of the street you see a tavern called the Spotted Dog. If you wish to enter the tavern, turn to 62. If you would rather continue north, turn to 296. ",
+    "choices": {
+        "1": "62",
+        "2": "296"
+    }
+},
+"94": {
+    "text": "The little man smiles and says, ‘Easy.’ He reaches into his pocket and produces some sparkling dust which he throws up at you. As it settles on your clothes, a feeling of strength surges through your body. Add 6 stamina points. He then tells you that as he is feeling particularly grateful he will grant you another wish. With your strength returned you feel you can now deal with Zanbar Bone and ask the little man of his whereabouts (turn to 234). ",
+    "choices": {
+        "1": "234"
+    }
+},
+"95": {
+    "text": "On the left side of the street you see a large iron key | hanging over the doorway of a small shop. A signin the window reads ‘J. B. Wraggins, Locksmith’. If you want to enter the shop, turn to 224. If you would rather continue walking west, turn to 300. ",
+    "choices": {
+        "1": "224",
+        "2": "300"
+    }
+},
+"96": {
+    "text": "You open the door and enter a room which is adorned with macabre objects and paintings. A black cat is sitting in front of a table covered in black cloth. Two black candles are burning on either side of a mirror on the far wall. On the table lies an open chest containing a golden skull. Will you: Walk over to the chest? Turn to 257 Close the door and open the white door (if you have not done so already)? Turn to 319 Close the door and walk back to the staircase to climb up to the next floor? Turn to 197 ",
+    "choices": {
+        "1": "257",
+        "2": "319",
+        "3": "197"
+    }
+},
+"97": {
+    "text": "You decide to take a quick look inside the kennel. Hanging ona hook is an iron key which you place in your pocket. Add 1 LUcK point and turn to 353. ",
+    "choices": {
+        "1": "353"
+    }
+},
+"98": {
+    "text": "You uncork the bottle with your teeth and take a long gulp of the liquid. Fortunately the liquid is what the man claims it to be. Add 3 STAMINA points and 1 LuCK point. Well-refreshed, you set off east again, bidding the old man farewell (turn to 363). ",
+    "choices": {
+        "1": "363"
+    }
+},
+"99": {
+    "text": "You are unable to explain why you are in Port Blacksand and the guards draw their swords, telling you that you are under arrest. You draw your sword and fight them one at a time. SKILL STAMINA First CITY GUARD U 4 Second CITY GUARD 6 6 If you win, turn to 285. ",
+    "choices": {
+        "1": "285"
+    }
+},
+"100": {
+    "text": "You soon arrive at a junction. If you wish to turn north into Tower Street, turn to 127. If you wish to continue east into Stable Street, turn to 246. ",
+    "choices": {
+        "1": "127",
+        "2": "246"
+    }
+},
+"101": {
+    "text": "You enter the shop and see the Man-Orc standing behind the counter. He is smiling at your misfortune and says, ‘Huh, can’t even take Old Trollborn. And don’t think Iam going to give you your money back.’ If you wish to attack the impudent Man-Orc, turn to 5. If you would rather leave the shop and head north again, containing your anger, turn to 93. ",
+    "choices": {
+        "1": "5",
+        "2": "93"
+    }
+},
+"102": {
+    "text": "The other two vagabonds stop to aid their friend, but it is too late, as he is already dead. They seem undecided as to what to do next. After a brief conversation they pick up their dead friend and carry him off down a narrow alleyway to your right. You walk quickly north before they have time to reappear with more of their gang (turn to 372). ",
+    "choices": {
+        "1": "372"
+    }
+},
+"103": {
+    "text": "You arrive at a four-way junction in the street. The street continuing east changes its name to Clock Street and the street running north and south is called Market Street. Looking north you see a crowd of people walking up the street cheering loudly and waving their arms in the air. You decide to follow them (turn to 148). ",
+    "choices": {
+        "1": "148"
+    }
+},
+"104": {
+    "text": "Back at the entrance hole you may either climb up the ladder to the street in order to continue east (turn to 205) or, if you have not done so already, you may walk south along the sewer (turn to 118). ",
+    "choices": {
+        "1": "205",
+        "2": "118"
+    }
+},
+"105": {
+    "text": "Most of the houses in the street are joined in a long terrace, but you see one on the left side that stands alone and is set back. There appears to be a large wooden kennel outside the heavy oak front door. If you wish to approach the front door, turn to 64. If you wish to keep walking north, turn to 304. ",
+    "choices": {
+        "1": "64",
+        "2": "304"
+    }
+},
+"106": {
+    "text": "The Lantern breaks on impact with the Mummy and covers it with burning oil. Flames spread quickly along the dry bandages and the Mummy is soon consumed by fire. If you wish to inspect the open sarcophagus, turn to 163. If you wish to leave the room immediately, turn to 231. ",
+    "choices": {
+        "1": "163",
+        "2": "231"
+    }
+},
+"107": {
+    "text": "The back room is as lavishly furnished as the front room. In the far corner you see a wooden chest bolted to the floor. It is securely locked. If you wish to try to pick the lock, turn to 128. If you wish to leave the room and climb the stairs to the floor above, turn to 60. ",
+    "choices": {
+        "1": "128",
+        "2": "60"
+    }
+},
+"108": {
+    "text": "You lower yourself slowly to the ground. Above you the guards are waving their fists at you from the battlements. You are now outside Port Blacksand. Do you have all the necessary items required to slay the Night Prince? If you have them all and have been tattooed, turn to 201. If you lack any of the items or have not been tattooed, turn to 299. ",
+    "choices": {
+        "1": "201",
+        "2": "299"
+    }
+},
+"109": {
+    "text": "The guards look at each other and burst out laughing. Then one says, ‘Do you think we would risk letting you in Port Blacksand for the sake of 5 Gold Pieces? If Lord Azzur found out that we let you in without a pass, we would be dead men. Let’s hear no more about bribes, it’s the dungeon for you.’ Turn to 151. ",
+    "choices": {
+        "1": "151"
+    }
+},
+"110": {
+    "text": "Your fight attracted a group of onlookers. Some of the beggars even cheered when you cut down old Sourbelly. But one sly-looking character sloped off with the obvious intention of finding more guards. It is dangerous to stay here any longer, so you run off west along Mill Street (turn to 239). ",
+    "choices": {
+        "1": "239"
+    }
+},
+"111": {
+    "text": "You cut the pouch from round the pirate’s neck and open it. Inside you find six black pearls. Add 2 Luck points. You leave the room with your valuable treasure. Outside in the corridor you may either open the other door if you have not done so already (turn to 232) or leave the ship and continue your search of Port Blacksand, walking north up Harbour Street (turn to 78). ",
+    "choices": {
+        "1": "232",
+        "2": "78"
+    }
+},
+"112": {
+    "text": "While most of the houses in the street are small, cramped and dark, you see one ahead that stands alone and is painted bright red. The door has a ‘Welcome’ sign hanging from it. If you wish to enter the house, turn to 154. If you prefer to keep walking north, turn to 334. ",
+    "choices": {
+        "1": "154",
+        "2": "334"
+    }
+},
+"113": {
+    "text": "You enter the house and find yourself standing ina room full of toys. But they are not ordinary toys. These are stuffed creatures with nails through their heads, dolls’ houses that are made to look as if they are on fire, and many other unpleasant objects. In the middle of the room stand two old women dressed as though they were little girls. They are squabbling over a carved wooden duck. Each looks eager to destroy the duck with the knives they are holding. On seeing you the women both start to shout, ‘Give us toys! Give us toys!’ If you wish to give them something from your backpack, make the necessary deduction on your Adventure Sheet and turn to 141. If you would rather leave these strange old ladies and continue east, turn to 375. ",
+    "choices": {
+        "1": "141",
+        "2": "375"
+    }
+},
+"114": {
+    "text": "There are three bejewelled rings under the counter and 13 Gold Pieces in a drawer. Take what you will and leave the shop to continue west (turn to 196). ",
+    "choices": {
+        "1": "196"
+    }
+},
+"115": {
+    "text": "Coming towards you as fast as he is able is a man in tattered rags with a ball and chain attached to his leg. He is exhausted and collapses in your arms. His face is dirty and unshaven. With great difficulty he manages to speak, saying, ‘Please cut me free. The town guards are not far behind me. I have been -locked in a dungeon for two years but managed to tunnel my way out. I was robbed and unable to pay my taxes, so Lord Azzur ordered I should be jailed for five years. Please help me.’ Farther up the street you hear shouting voices and then armed men come into view. If you want to cut through his chains with your sword, turn to go. If you want to hand him over to the town guards, turn to 274. ",
+    "choices": {
+        "1": "90",
+        "2": "274"
+    }
+},
+"116": {
+    "text": "Walking north along the street you see the entrance to a small herbalist’s shop to your left. Looking through the window you see a wooden counter with a pair of scales upon it, and many sacks of different herbs crowding the floor. There is a small archway leading out of the back of the shop to another room. There is an ‘Open’ sign on the door but the shop is empty. If you wish to enter the shop, turn to 250. If you would rather continue walking north up Market Street, turn to 93. ",
+    "choices": {
+        "1": "250",
+        "2": "93"
+    }
+},
+"117": {
+    "text": "At the end of the market, a street named Bridge Street runs north out of the square. You decide to walk down it in the hope of finding the elusive Nicodemus. It starts to rain and the tumbledown houses huddled together on either side of the street look as if they need shelter themselves. Most have their windows boarded up and are empty. The door to one flaps noisily in the wind. If you wish to take refuge in the derelict house until the rain stops, turn to 188. If you would rather press on ahead, turn to 31",
+    "choices": {
+        "1": "188",
+        "2": "31"
+    }
+},
+"118": {
+    "text": "You can hear some scratching sounds in the tunnel ahead. Then you see a long shadow appear on the curved brick wall. In the dim light you can just make out the large shape of something black and shiny moving towards you. The scratching becomes louder and you also hear clicking sounds. The monster is only a couple of metres ahead of you when you recognize it as a Giant Centipede. Do you possess an insect bracelet? If you do, turn to 2. If not, turn to 166. ",
+    "choices": {
+        "1": "2",
+        "2": "166"
+    }
+},
+"119": {
+    "text": "The small boy smiles and thrusts a tin mug into your hand. He tells you the barrel contains sparkling water which cures ills, wounds and diseases. To fill the mug costs 3 Gold Pieces. If you wish to drink the water, turn to 233. If you would rather keep your gold and walk north, turn to 247. ",
+    "choices": {
+        "1": "233",
+        "2": "247"
+    }
+},
+"120": {
+    "text": "You pick up a piece of wood and run as quietly as possible over to the pirate to try to knock him unconscious. Test your Luck. If you are Lucky, he does not hear you approach and you hit him on the back of the head. He falls to the deck unconscious and you begin your search (turn to 84). If you are Unlucky, you stumble on a coil of rope and the pirate turns to face you (turn to 152). ",
+    "choices": {
+        "1": "84",
+        "2": "152"
+    }
+},
+"121": {
+    "text": "The Ogre gulps down the food in no time at all. Licking his lips, he turns to you and tells you to get out of his home. If you wish to obey the ungrateful Ogre, and leave the house heading north, turn to 282. If you wish to draw your sword to teach him a lesson, turn to 140. ",
+    "choices": {
+        "1": "282",
+        "2": "140"
+    }
+},
+"122": {
+    "text": "The room you enter is full of debris and rotting food. Standing in the middle of all the mess are two men wearing tattered clothing. They have hollow eyes and vacant expressions. On seeing you, they pick up wooden sticks and advance towards you. If you wish to back out of the room and shut them in, turn to 277. If you wish to attack them, turn to 361. ",
+    "choices": {
+        "1": "277",
+        "2": "361"
+    }
+},
+"123": {
+    "text": "Inside a box on a wooden shelf you find 3 Gold Pieces and an iron key. On examining it you realize that it is a very special key. It is a skeleton key that will open just about any lock you care to try. Add 1 LUCK point and leave the shop to head west. Turn to 300. ",
+    "choices": {
+        "1": "300"
+    }
+},
+"124": {
+    "text": "A narrow alleyway runs south off the street between two houses. If you wish to walk down the alleyway, turn to 326. If you would rather continue along Harbour Street, turn to 180. ",
+    "choices": {
+        "1": "326",
+        "2": "180"
+    }
+},
+"125": {
+    "text": "This shield is cursed by Zanbar Bone. Anybody who is not undead will suffer if they use it. Lose 1 SKILL point. Unable to rid yourself of this handicap, you walk over to the spiral staircase and climb up it (turn to 21). ",
+    "choices": {
+        "1": "21"
+    }
+},
+"126": {
+    "text": "The little girl grabs hold of your arm and leads you into a back room. Saying nothing, she motions you to lie down on a sheepskin rug. Suddenly you are aware of a very old man sitting opposite. He rises slowly from his rocking chair and walks over to you. ’ You watch transfixed as he takes hold of an arrow protruding from your arm and gently pulls it free without causing you any pain. The wound made by the arrow disappears before your eyes. Other arrows are treated similarly if you suffered more than one wound. You may restore 2 STAMINA points for each arrow pulled free by the old man. Then in a slow and almost inaudible voice he tells you that he wants the broadsword that Owen Carralif gave you in payment for the healing. You feel obliged to give him your sword, though reluctantly. In exchange he gives you an ordinary fighting sword. Reduce your SKILL score by 1. You leave the house and head north (turn to 112).",
+    "choices": {
+        "1": "112"
+    }
+},
+"127": {
+    "text": "Just ahead of you, three men are involved ina fight — the two younger men appear to be attacking an older man with iron bars. If you wish to help the old man, turn to 177. If you would rather avoid the brawling men and continue north, turn to 348. ",
+    "choices": {
+        "1": "177",
+        "2": "348"
+    }
+},
+"128": {
+    "text": "As you try to turn the lock with a piece of bent wire, you are alarmed by the sound of two clicks. Two tiny panels in the chest flick open to expose two needle darts which shoot out at you. Test your Luck twice, once for each dart. If you are Lucky both times, the darts bounce harmlessly off your armour (turn to 340). If you are Unlucky once, a dart flies into your hand (turn to 149). If you are Unlucky twice, both darts fly into your hand (turn to 19). ",
+    "choices": {
+        "1": "340",
+        "2": "149",
+        "3": "19"
+    }
+},
+"129": {
+    "text": "You step back from the vile body of Zanbar Bone, waiting for him to decay. However, you have chosen wrongly! He pulls the arrow from his chest and rubs the compound from his eyes. He sees you and laughs. You are mesmerized by his power and are unable to move. He walks up to youand touches your face with his skeletal fingers. Your life is being quickly drained away, and soon you will begin your undead existence as a servant of Zanbar Bone. ",
+    "choices": {
+        "1": "GAME OVER"
+    }
+},
+"130": {
+    "text": "As the guard slumps to the ground, two more armed men appear from a stone guardhouse by the gate, obviously attracted by the noise of your battle. There is no time to run so you must fight them one at a time. ; SKILL STAMINA First CITY GUARD 6 6 Second CITY GUARD , 5 If you win, turn to 74. ",
+    "choices": {
+        "1": "74"
+    }
+},
+"131": {
+    "text": "You walk into a room with sparse furnishings and a polished wooden floor. Silk curtains hang down over an archway on the far wall. As you start to walk across the wooden floor, a woman’s voice calls out ‘Who is it?’ You may: Tell her you are delivering flowers Turn to 67 Tell her you have come to collect old rags Turn to 6 Tell her you are a tax collector Turn to 179 ",
+    "choices": {
+        "1": "67",
+        "2": "6",
+        "3": "179"
+    }
+},
+"132": {
+    "text": "The creature pins the silver brooch to your leather tunic and you pay the price demanded. You have bought an item with healing properties. After surviving any battle, the brooch will immediately restore 1 STAMINA point to your total. Pleased with your purchase, you leave the house and head north (turn to 334). ",
+    "choices": {
+        "1": "334"
+    }
+},
+"133": {
+    "text": "The street ends at a junction with Mill Street, which runs east and west along the city wall. Looking east you see a group of town guards marching towards you and you decide to walk quickly west along Mill Street. On your left you see a narrow lane and ahead you see a young lad coming towards you pushing a barrow laden with fruit. If you wish to walk down the lane, turn to 182. If you wish to buy some fruit from the barrow-boy, turn to 160. ",
+    "choices": {
+        "1": "182",
+        "2": "160"
+    }
+},
+"134": {
+    "text": "You wake up feeling dazed, with a large lump on your head. Your backpack lies open by your side and you are annoyed to discover that all your gold has been stolen. Those thieving Dwarfs! You stand up and set off west down the street (turn to 396). ",
+    "choices": {
+        "1": "396"
+    }
+},
+"135": {
+    "text": "When you draw your sword the man cries out and runs into a back room. You follow him into the room. He is apparently unarmed, but is holding an egg and a small key in his hands. He warns you that the egg contains a deadly gas and he will throw it at you. He also threatens to swallow the key to his silver cupboard. If you still wish to attack him, turn to 229. If you wish to run out of the shop and go further up Clog Street, turn to 100. ",
+    "choices": {
+        "1": "229",
+        "2": "100"
+    }
+},
+"136": {
+    "text": "You walk over to the bar and order a drink. The old innkeeper scowls and tells you that he doesn’t serve people from out of town. He pulls a dagger from his belt and, stabbing it in the bar top, tells you to leave. If you want to fight the innkeeper, turn to 270. If you want to leave the tavern and head north, turn to 296. ",
+    "choices": {
+        "1": "270",
+        "2": "296"
+    }
+},
+"137": {
+    "text": "As you take your first step forwards you are alarmed to hear the familiar whistle of arrows flying through the air. They are coming from windows on either side of the street. Roll one die. This is the number of arrows that will hit you and each will cause you to lose 3 STAMINA points. If you are still alive, lose 2 LUCK points and turn to 327. ",
+    "choices": {
+        "1": "327"
+    }
+},
+"138": {
+    "text": "If you fought the Ape Man, turn to 312. If you fought any of the other creatures, turn to 283. ",
+    "choices": {
+        "1": "312",
+        "2": "283"
+    }
+},
+"139": {
+    "text": "Walking along the street you are suddenly halted by a plant pot smashing on to the cobblestones in front of you. You look to the left and see an open window. Inside, voices can be heard arguing. The door to the house is open. If you wish to enter the house to find out what the argument is about, turn to 113. If you would rather ignore the argument and continue east, turn to 375. ",
+    "choices": {
+        "1": "113",
+        "2": "375"
+    }
+},
+"140": {
+    "text": "The OGRE looks unimpressed by your aggressive action and, picking up a large bone as a weapon, lumbers towards you. You must fight him. OGRE SKILL 8 STAMINA 9 If you defeat him, turn to 71. After the third Attack Round, you may Escape by running out of the house to head north (turn to 282). ",
+    "choices": {
+        "1": "71",
+        "2": "282"
+    }
+},
+"141": {
+    "text": "The women immediately start arguing again over your gift to them, ignoring you completely. You look around the room and see a table set for a meal. There are two bowls of hot soup on top of the table waiting to be drunk. If you wish to pick up a wooden spoon and drink some of the soup, turn to 68. If you would rather leave the old ladies and continue east, turn to 375. ",
+    "choices": {
+        "1": "68",
+        "2": "375"
+    }
+},
+"142": {
+    "text": "The crossbow bolt has a poisoned tip. You stagger back from the force of the bolt and fall to the ground. _ The poison spreads through your body quickly and you sink into a deep sleep from which you will not awaken. ",
+    "choices": {
+        "1": "GAME OVER"
+    }
+},
+"143": {
+    "text": "When you hear the guards coming down the stairs, you lie on the floor and start to groan. They unlock the cell door and enter. If you wish to continue with your feigned illness and tell them that you think you've got the plague, turn to 306. If you wish to fight them unarmed, turn to 157. ",
+    "choices": {
+        "1": "306",
+        "2": "157"
+    }
+},
+"144": {
+    "text": "The Hag screams as your sword cuts deep into her arm. Her concentration is lost and the spell is broken. Your mind clears and you are able to face her with your senses acute again. From out of her clothing the Hag pulls a dagger with a long shimmering blade. You are eager to fight her: HAG ‘SKILL 7 STAMINA 7 If you win, turn to 303. ",
+    "choices": {
+        "1": "303"
+    }
+},
+"145": {
+    "text": "Inside the shop an old woman is busily watering the flowers and plants. She looks up and smiles, saying, ‘Good afternoon, my name is Mrs Pipe. Can I interest you in one of my special flowers?’ If you wish to see what she has to offer, turn to 293. If you wish to leave the shop, refuse politely and head west (turn to 24). ",
+    "choices": {
+        "1": "293",
+        "2": "24"
+    }
+},
+"146": {
+    "text": "You walk back into the shop. You try to open the glass cupboard but it is locked. Inside you see two silver goblets, a silver chalice and a silver spoon. Do you have a skeleton key? If you have a key, turn to 220. If you do not have a key, turn to 388. ",
+    "choices": {
+        "1": "220",
+        "2": "388"
+    }
+},
+"147": {
+    "text": "A search through the leather bags of the thieves produces 16 Gold Pieces and a glass phial containing a green liquid. If you wish to drink the liquid, turn to 338. If you would rather just take the gold and press on northwards, turn to 105. ",
+    "choices": {
+        "1": "338",
+        "2": "105"
+    }
+},
+"148": {
+    "text": "As you catch up with the chanting crowd, you see that they are carrying eggs and rotten tomatoes. Soon the street opens out into a large market square. Allround the edge are stalls with vendors, hawkers, musicians and entertainers carrying on their business. In the middle of the square is an elevated pillory. Above the noise of the crowd a trumpet sounds and the crowd start to pelt the man in the pillory with rotten food. An old woman standing next to you offers you two eggs to throw. Not wishing to appear to be an outsider, you take the eggs and hurl them. But as you do so, the old woman picks your pocket without you noticing. Lose 1 Gold Piece or any one item you may have. _Unaware of your loss, you walk away from the crowd to look at the various stalls (turn to 287). ",
+    "choices": {
+        "1": "287"
+    }
+},
+"149": {
+    "text": "The dart is poison-tipped. Lose 2 STAMINA points. If you are still alive and wish to continue picking the lock, turn to 340. If you would rather leave the room and climb the stairs to the floor above, turn to 60. ",
+    "choices": {
+        "1": "340",
+        "2": "60"
+    }
+},
+"150": {
+    "text": "The Troll bursts out laughing and says, ‘Fooled you! There isn’t a Pepper Street in Port Blacksand!’ His face folds into a sickly grin and he tells you that you are under arrest for being in Port Blacksand without authorization. He tells you that he is feeling generous, however, and offers you a choice. You can pay a fine of all the gold in your backpack and be thrown out of the city, or spend a year with rats and cockroaches in a dirty dungeon cell. The other Troll bursts out laughing, saying, ‘Generous? Ho! Ho! Ho! Ah, Sourbelly, you’ve got such a sense of humour!’ If you wish to pay the fine and be thrown out of the city, turn to 367. If you wish to resist arrest, turn to 73.",
+    "choices": {
+        "1": "367",
+        "2": "73"
+    }
+},
+"151": {
+    "text": "The two guards lead you into the guardhouse and take you immediately downstairs to the cells below. There are four cells and all are empty except for one which houses a frail, white-haired old man. The guards unlock the cell next to the old man’s and throw you in, placing your sword ona table outside. The only contents of the cell are a straw mattress and a pail of water. The guards go back upstairs and as they disappear the old man gets up off his bed and starts to speak. ‘You're an outsider, aren’t you? Don’t reply, it’s obvious. Do you want me to set you free? Give me 10 Gold Pieces and I'll have you out in five minutes.’ The old man then puts his arm through the bars of your cell with the palm of his hand upturned. If you wish to give the old man 10 Gold Pieces, turn to 351. If you would rather ignore the old man, turn to 29. ",
+    "choices": {
+        "1": "351",
+        "2": "29"
+    }
+},
+"152": {
+    "text": "The PIRATE draws his cutlass. As he approaches, his toothless grin unnerves you a little. » PIRATE SKILL 7 STAMINA 5 You do not have time to draw your sword and must fight the pirate with the wooden stick. During each Attack Round you must deduct 2 points from your Attack Strength. If you win, turn to 20. ",
+    "choices": {
+        "1": "20"
+    }
+},
+"153": {
+    "text": "Holding the golden owl in your hand, you are able to see into the pitch-black room. Just in time, you see the trip-wire across the doorway at your feet and the large crossbow pointing at you on the opposite wall. There is nothing else in the room. You decide to walk back to the staircase to climb up to the next floor (turn to 65). ",
+    "choices": {
+        "1": "65"
+    }
+},
+"154": {
+    "text": "Inside the house you find yourself in a room painted red and empty apart froma table on top of which are two glass bowls. In one there is a small golden scorpion and in the other lies a silver scorpion. In the far corner of the room there are stairs that lead up to another floor. You may: Pick up the golden scorpion Turn to 273 Pick up the silver scorpion Turn to 13 Climb the stairs Turn to 80 Leave the house and head north Turn to 334 ",
+    "choices": {
+        "1": "273",
+        "2": "13",
+        "3": "80",
+        "4": "334"
+        
+    }
+},
+"155": {
+    "text": "Lose 3 STAMINA points. If you are still alive, you stand up and brush yourself down. The carriage races out of view and you set off west again, hoping |that you will have another opportunity to meet the |infamous Lord Azzur (turn to 171). ",
+    "choices": {
+        "1": "171"
+    }
+},
+"156": {
+    "text": "Standing on either side of you, the Trolls march you along Mill Street until you reach the city’s North Gate at the junction with Goose Street. They tell the two guards on duty not to let you back into Port Blacksand. They give you a forceful boot up the backside and you land sprawling on the dusty road outside. Do you have all the items required to slay the Night Prince? If you have them all and have been tattooed, turn to 201. If you are missing any of the items or have not been tattooed, turn to 299. ",
+    "choices": {
+        "1": "201",
+        "2": "299"
+    }
+},
+"157": {
+    "text": "You leap up and punch the first guard. He staggers back and draws his sword. You fight them one at a time in the small cell. SKILL STAMINA First CITY GUARD 6 6 Second CITY GUARD 7 5 During each Attack Round you must deduct 3 from your Attack Strength because you are fighting barehanded. If you manage to defeat the guards, you leave the cell and climb the stairs, picking up your sword off the table (turn to 54). ",
+    "choices": {
+        "1": "54"
+    }
+},
+"158": {
+    "text": "You must react quickly to escape the advancing Suit of Armour. If you wish to open the door in front of you, turn to 122. If you wish to run back to the staircase and climb up to the next floor, turn to 207. ",
+    "choices": {
+        "1": "122",
+        "2": "207"
+    }
+},
+"159": {
+    "text": "The owner of the house is obviously quite wealthy. Lavish furnishing and fine objets d’art adorn the marble-floored room in which you stand. An archway leads into a back room and stairs to your right lead up to another floor. Will you: Search the room you are in? Turn to 278 Walk through the archway? Turn to 107 Climb the stairs? Turn to 60 ",
+    "choices": {
+        "1": "278",
+        "2": "107",
+        "3": "60"
+    }
+},
+"160": {
+    "text": "The boy puts down his barrow and asks you what you would like to buy. He recommends his plums as being particularly refreshing. If you wish to pay 1 Gold Piece for a bag of plums, turn to 211. If you wish to buy a bag of red apples for 1 Gold Piece, turn p tO-242. ",
+    "choices": {
+        "1": "211",
+        "2": "242"
+    }
+},
+"161": {
+    "text": "The street makes a sudden left turn and continues north as far as you can see. However, you notice that round the corner the houses are much bigger, with doorways some four metres high. On the left side of the street you see that a door to one of the houses is open. If you wish to enter the house, turn to 245. If you wish to keep going northwards, turn to 282. ",
+    "choices": {
+        "1": "245",
+        "2": "282"
+    }
+},
+"162": {
+    "text": "Test your Luck. If you are Lucky, you manage to cut the pouch loose without waking the pirates (turn to 7). If you are Unlucky, the man’s eyes flick open as you try to cut the cord and he grabs hold of your arm while calling out to his mates for help (turn to 226). ",
+    "choices": {
+        "1": "7",
+        "2": "226"
+        
+    }
+},
+"163": {
+    "text": "The sarcophagus contains a gold ring which has an ’ eye etched into its top. You have found the long-lost Ring of the Golden Eye, fabled for its ability to allow its wearer to detect illusions. Add 2 LucK points and leave the room (turn to 231). ",
+    "choices": {
+        "1": "231"
+    }
+},
+"164": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"165": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"166": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"167": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"168": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"169": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"170": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"171": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"172": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"173": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"174": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"175": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"176": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"177": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"178": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"179": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"180": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"181": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"182": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"183": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"184": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"185": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"186": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"187": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"188": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"189": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"190": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"191": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"192": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"193": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"194": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"195": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"196": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"197": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"198": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"199": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"200": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"201": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"202": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"203": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"204": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"205": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"206": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"207": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"208": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"209": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"210": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"211": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"212": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"213": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"214": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"215": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"216": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"217": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"218": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"219": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"220": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"221": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"222": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"223": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"224": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"225": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"226": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"227": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"228": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"229": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"230": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"231": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"232": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"233": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"234": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"235": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"236": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"237": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"238": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"239": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"240": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"241": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"242": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"243": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"244": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"245": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"246": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"247": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"248": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"249": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"250": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"251": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"252": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"253": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"254": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"255": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"256": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"257": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"258": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"259": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"260": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"261": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"262": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"263": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"264": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"265": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"266": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"267": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"268": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"269": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"270": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"271": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"272": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"273": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"274": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"275": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"276": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"277": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"278": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"279": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"280": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"281": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"282": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"283": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"284": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"285": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"286": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"287": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"288": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"289": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"290": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"291": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"292": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"293": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"294": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"295": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"296": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"297": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"298": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"299": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"300": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"301": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"302": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"303": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"304": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"305": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"306": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"307": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"308": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"309": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"310": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"311": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"312": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"313": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"314": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"315": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"316": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"317": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"318": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"319": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"320": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"321": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"322": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"323": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"324": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"325": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"326": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"327": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"328": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"329": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"330": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"331": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"332": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"333": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"334": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"335": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"336": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"337": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"338": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"339": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"340": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"341": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"342": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"343": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"344": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"345": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"346": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"347": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"348": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"349": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"350": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"351": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"352": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"353": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"354": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"355": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"356": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"357": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"358": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"359": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"360": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"361": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"362": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"363": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"364": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"365": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"366": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"367": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"368": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"369": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"370": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"371": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"372": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"373": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"374": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"375": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"376": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"377": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"378": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"379": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"380": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"381": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"382": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"383": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"384": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"385": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"386": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"387": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"388": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"389": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"390": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"391": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"392": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"393": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"394": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"395": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"396": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"397": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"398": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"399": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+},
+"400": {
+    "text": "txt ",
+    "choices": {
+        "1": "a",
+        "2": "b"
+    }
+}
   }
   
