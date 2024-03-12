@@ -1,6 +1,6 @@
 {
     "1": {
-      "text": "The walk to Port Blacksand takes you west some fifty miles across plains and over hills; fortunately without any harmful encounters. Eventually you reach the coast and see the high city wall surrounding Port Blacksand and the cluster of buildings projecting into the sea like an ugly black mark. Ships lie anchored in the harbour and smoke rises gently from chimneys. It looks peaceful enough and it is only when the wind changes that you smell the decay in the breeze to remind you of the evil nature of this notorious place. Following the dusty road north along the coast to the city gates, you begin to notice fearful warnings — skulls on wooden spikes, starving men in iron cages suspended from the city wall and black flags everywhere. As you approach the main gate a chill runs down your spine and you instinctively grip the hilt of your broadsword for reassurance. At the gate you are confronted by a tall guard wearing a black chainmail coat and iron helmet. He steps forward, barring the way with his pike, saying, 'Who would enter Port Blacksand uninvited? State the nature of your business or go back the way you came.' Will you: 1. Tell him you wish to be taken to Nicodemus? 2. Tell him you wish to sell some stolen booty? 3. Attack him quickly with your sword?",
+      "text": "The walk to Port Blacksand takes you west some fifty miles across plains and over hills; fortunately without any harmful encounters. Eventually you reach the coast and see the high city wall surrounding Port Blacksand and the cluster of buildings projecting into the sea like an ugly black mark. Ships lie anchored in the harbour and smoke rises gently from chimneys. It looks peaceful enough and it is only when the wind changes that you smell the decay in the breeze to remind you of the evil nature of this notorious place. Following the dusty road north along the coast to the city gates, you begin to notice fearful warnings - skulls on wooden spikes, starving men in iron cages suspended from the city wall and black flags everywhere. As you approach the main gate a chill runs down your spine and you instinctively grip the hilt of your broadsword for reassurance. At the gate you are confronted by a tall guard wearing a black chainmail coat and iron helmet. He steps forward, barring the way with his pike, saying, 'Who would enter Port Blacksand uninvited? State the nature of your business or go back the way you came.' Will you: 1. Tell him you wish to be taken to Nicodemus? 2. Tell him you wish to sell some stolen booty? 3. Attack him quickly with your sword?",
       "choices": {
         "1": "202",
         "2": "33",
@@ -131,7 +131,7 @@
       }
   },
   "20": {
-    "text": "The pirate’s pockets contain nothing apart from a piece of stale bread. You leave him to start a search of the wooden boxes and barrels on the ship’s deck (turn to 84). ",
+    "text": "The pirate's pockets contain nothing apart from a piece of stale bread. You leave him to start a search of the wooden boxes and barrels on the ship's deck (turn to 84). ",
     "choices": {
         "1": "a"
     }
@@ -171,13 +171,13 @@
     }
 },
 "26": {
-    "text": "You sheathe your sword and look round at the circle of spectators. Having witnessed your excellent swordsmanship each goes quietly back to his table, not wishing to anger you any further. The innkeeper apologizes for his unfriendliness and invites you to sit at the bar and enjoy a drink at his expense. You ask him if he knows the whereabouts of Nicodemus. The innkeeper frowns and looks at you inquiringly. Then he says, ‘I don’t know what you want from that wily old wizard. He keeps himself to himself and lives alone in a small hut under Singing Bridge. Keep walking north along Market Street, through the market-place, and you'll come to a bridge that crosses Catfish River and leads to the old part of the city and the harbour. Nicodemus won’t talk to you and he knows enough magic to keep even the toughest away from his door.’ You tell the innkeeper not to be so discourteous to strangers next time, and leave the tavern to head north (turn to 296). ",
+    "text": "You sheathe your sword and look round at the circle of spectators. Having witnessed your excellent swordsmanship each goes quietly back to his table, not wishing to anger you any further. The innkeeper apologizes for his unfriendliness and invites you to sit at the bar and enjoy a drink at his expense. You ask him if he knows the whereabouts of Nicodemus. The innkeeper frowns and looks at you inquiringly. Then he says, 'I don't know what you want from that wily old wizard. He keeps himself to himself and lives alone in a small hut under Singing Bridge. Keep walking north along Market Street, through the market-place, and you'll come to a bridge that crosses Catfish River and leads to the old part of the city and the harbour. Nicodemus won't talk to you and he knows enough magic to keep even the toughest away from his door.' You tell the innkeeper not to be so discourteous to strangers next time, and leave the tavern to head north (turn to 296). ",
     "choices": {
         "1": "296"
     }
 },
 "27": {
-    "text": "You enter a small candlelit room with no windows. It is empty apart froma table and two chairs. A man wearing black robes and a skullcap is standing in a corner. He smiles and asks you to sit down at the table. He sits opposite you and, after placing six white pills on top of six skulls on the table, looks up to you and says, ‘One of the pills before you is deadly poisonous, the others are harmless. Swallow one of your choice. If you live, I will give you 20 Gold Pieces. If you die, I keep all your possessions.’ If you wish to play this deadly game, turn to 223. If you would rather leave this room and walk back up the alley to Candle Street, turn to 165. ",
+    "text": "You enter a small candlelit room with no windows. It is empty apart froma table and two chairs. A man wearing black robes and a skullcap is standing in a corner. He smiles and asks you to sit down at the table. He sits opposite you and, after placing six white pills on top of six skulls on the table, looks up to you and says, 'One of the pills before you is deadly poisonous, the others are harmless. Swallow one of your choice. If you live, I will give you 20 Gold Pieces. If you die, I keep all your possessions.' If you wish to play this deadly game, turn to 223. If you would rather leave this room and walk back up the alley to Candle Street, turn to 165. ",
     "choices": {
         "1": "223",
         "2": "165"
@@ -191,7 +191,7 @@
     }
 },
 "29": {
-    "text": "You squat down on the mattress and consider what to do next. If you wish to feign illness and throw the iron pail against the bars of the cell to attract the guards’ attention, turn to 143. If you wish to inspect the cell closely in the hope of finding a secret escape route, turn to 230. ",
+    "text": "You squat down on the mattress and consider what to do next. If you wish to feign illness and throw the iron pail against the bars of the cell to attract the guards' attention, turn to 143. If you wish to inspect the cell closely in the hope of finding a secret escape route, turn to 230. ",
     "choices": {
         "1": "143",
         "2": "230"
@@ -217,7 +217,7 @@
   }
 },
 "33": {
-    "text": "You tell the guard that you wish to sell some silver chalices that you stole froma tavern in Silverton and that you will pay him a Gold Piece for his advice as to where to go for the best price. The guard looks at you suspiciously, saying, ‘Let me look at these chalices in your backpack before I admit you.’ Will you: Tell him that you know the chalices are cursed and should only be examined by a mage? Turn to 381 Try to run past the guard into the main street? Turn to 291 Attack him quickly with your sword? Turn to 49 ",
+    "text": "You tell the guard that you wish to sell some silver chalices that you stole froma tavern in Silverton and that you will pay him a Gold Piece for his advice as to where to go for the best price. The guard looks at you suspiciously, saying, 'Let me look at these chalices in your backpack before I admit you.' Will you: Tell him that you know the chalices are cursed and should only be examined by a mage? Turn to 381 Try to run past the guard into the main street? Turn to 291 Attack him quickly with your sword? Turn to 49 ",
     "choices": {
         "1": "381",
         "2": "291",
@@ -246,7 +246,7 @@
     }
 },
 "37": {
-    "text": "The man strums his lyre and sings a merry song all about you and your good fortune — he does have the power to make you lucky. Add 2 LucK points and walk on to the next stall (turn to 398). ",
+    "text": "The man strums his lyre and sings a merry song all about you and your good fortune - he does have the power to make you lucky. Add 2 LucK points and walk on to the next stall (turn to 398). ",
     "choices": {
         "1": "398"
     }
@@ -264,20 +264,20 @@
     }
 },
 "40": {
-  "text": "From the top of the wall you see that it encircles a group of brown creatures playing some kind of game with a wooden stick and a small leather ball. One of the creatures has just hit the ball and is running towards a creature from the other team who has his foot on a cloth bag. You realize that these creatures are Bays playing their favourite game, Bays’ Ball. If you wish to ask to join in their game, turn to 168. If you would rather climb back down the wall, return to the junction and head west down Harbour Street, turn to 91. ",
+  "text": "From the top of the wall you see that it encircles a group of brown creatures playing some kind of game with a wooden stick and a small leather ball. One of the creatures has just hit the ball and is running towards a creature from the other team who has his foot on a cloth bag. You realize that these creatures are Bays playing their favourite game, Bays' Ball. If you wish to ask to join in their game, turn to 168. If you would rather climb back down the wall, return to the junction and head west down Harbour Street, turn to 91. ",
   "choices": {
       "1": "168",
       "2": "91"
   }
 },
 "41": {
-  "text": "The two guards holding you look at each other and then at the other guard for a decision. He nods at them and they release their grip on you. As you pay him the 15 Gold Pieces he gives you a piercing look, saying, ‘If Lord Azzur finds out that you are in the city without a pass, you are as good as dead. I'd get one if I were you. And as for Nicodemus, find him yourself.’ Repressing an urge to draw your sword you turn and walk into the city (turn to 74). ",
+  "text": "The two guards holding you look at each other and then at the other guard for a decision. He nods at them and they release their grip on you. As you pay him the 15 Gold Pieces he gives you a piercing look, saying, 'If Lord Azzur finds out that you are in the city without a pass, you are as good as dead. I'd get one if I were you. And as for Nicodemus, find him yourself.' Repressing an urge to draw your sword you turn and walk into the city (turn to 74). ",
   "choices": {
       "1": "74"
   }
 },
 "42": {
-    "text": "You tell the man that you cannot pay the price he is asking. He shrugs his shoulders and says, ‘Well, do you have any food?’ You open your backpack and he takes all your remaining Provisions. He then starts to cast the silver arrow and you wait patiently as he makes it. Finally he presents you with it and assures you that it will be accurate in flight. You thank him for his trouble and leave his shop. Outside you set off east once again (turn to 100).  ",
+    "text": "You tell the man that you cannot pay the price he is asking. He shrugs his shoulders and says, 'Well, do you have any food?' You open your backpack and he takes all your remaining Provisions. He then starts to cast the silver arrow and you wait patiently as he makes it. Finally he presents you with it and assures you that it will be accurate in flight. You thank him for his trouble and leave his shop. Outside you set off east once again (turn to 100).  ",
     "choices": {
         "1": "100"
     }
@@ -307,7 +307,7 @@
     }
 },
 "46": {
-    "text": "The blacksmith takes your money and walks over to some bales of hay in the corner. He lifts one up and underneath it you see the chainmail coat. He turns to youand says, ‘You have to hide everything in this place. You can’t trust anybody.’ The coat fits perfectly and its workmanship is excellent. Add 2 SKILL points. You leave the stables with your new armour and continue north (turn to 115). ",
+    "text": "The blacksmith takes your money and walks over to some bales of hay in the corner. He lifts one up and underneath it you see the chainmail coat. He turns to youand says, 'You have to hide everything in this place. You can't trust anybody.' The coat fits perfectly and its workmanship is excellent. Add 2 SKILL points. You leave the stables with your new armour and continue north (turn to 115). ",
     "choices": {
         "1": "115"
     }
@@ -334,7 +334,7 @@
     }
 },
 "50": {
-    "text": "The stairs lead down into the ship’s cargo hold. It is empty. Opposite you a corridor leads from the hold to two closed doors. You walk along the corridor and listen at the doors. From the door on your left you hear loud snoring. From the door on your right you hear nothing. If you wish to open the door on the left, turn to 271. If you wish to open the door on the right, turn to 232. ",
+    "text": "The stairs lead down into the ship's cargo hold. It is empty. Opposite you a corridor leads from the hold to two closed doors. You walk along the corridor and listen at the doors. From the door on your left you hear loud snoring. From the door on your right you hear nothing. If you wish to open the door on the left, turn to 271. If you wish to open the door on the right, turn to 232. ",
     "choices": {
         "1": "271",
         "2": "232"
@@ -348,13 +348,13 @@
     }
 },
 "52": {
-    "text": "Behind the next stall is a young man selling small weapons and items of equipment. The prices of his wares are chalked up ona slate: Throwing Knife 4 Gold Pieces Climbing Rope 2 Gold Pieces Butcher’s Meat Hook 2 Gold Pieces Iron Spike 1 Gold Piece Lantern 3 Gold Pieces If you wish to buy some or all of the items, make the necessary adjustments on your Adventure Sheet. You then walk north (turn to 200). ",
+    "text": "Behind the next stall is a young man selling small weapons and items of equipment. The prices of his wares are chalked up ona slate: Throwing Knife 4 Gold Pieces Climbing Rope 2 Gold Pieces Butcher's Meat Hook 2 Gold Pieces Iron Spike 1 Gold Piece Lantern 3 Gold Pieces If you wish to buy some or all of the items, make the necessary adjustments on your Adventure Sheet. You then walk north (turn to 200). ",
     "choices": {
         "1": "200"
     }
 },
 "53": {
-    "text": "The silk curtains in front of the archway are pulled aside and a strange creature steps into the room. It has a snake’s head, which sits oddly atop the body of a young woman wearing a lavish gown. Its mouth opens and a forked tongue darts in and out as the Serpent Queen says, ‘Don’t try to fool me, I know that scoundrel Borryman never sends flowers. What silver gift have you brought me?’ If you have a silver item in your backpack that you wish to give to the Serpent Queen, turn to 328. If you have not gota silver item that you wish to give away, turn to 39. ",
+    "text": "The silk curtains in front of the archway are pulled aside and a strange creature steps into the room. It has a snake's head, which sits oddly atop the body of a young woman wearing a lavish gown. Its mouth opens and a forked tongue darts in and out as the Serpent Queen says, 'Don't try to fool me, I know that scoundrel Borryman never sends flowers. What silver gift have you brought me?' If you have a silver item in your backpack that you wish to give to the Serpent Queen, turn to 328. If you have not gota silver item that you wish to give away, turn to 39. ",
     "choices": {
         "1": "328",
         "2": "39"
@@ -373,13 +373,13 @@
     }
 },
 "56": {
-    "text": "There are over twenty guards coming to get you and it is useless to put up a fight. They drag you off toa room at the bottom of the tower and chain you to a wall. To your horror you see the two Trolls enter the room. They take it in turns to beat you before passing a sentence of five years’ solitary confinement in a dungeon cell. A few minutes later a hunchbacked jailer arrives carrying a bull-hide whip. He fixes a ball and chain to your leg before leading you downstairs to begin your jail sentence. You have failed in your mission. ",
+    "text": "There are over twenty guards coming to get you and it is useless to put up a fight. They drag you off toa room at the bottom of the tower and chain you to a wall. To your horror you see the two Trolls enter the room. They take it in turns to beat you before passing a sentence of five years' solitary confinement in a dungeon cell. A few minutes later a hunchbacked jailer arrives carrying a bull-hide whip. He fixes a ball and chain to your leg before leading you downstairs to begin your jail sentence. You have failed in your mission. ",
     "choices": {
         "1": "GAME OVER"
     }
 },
 "57": {
-    "text": "The Dwarf jumps up off his stool, his face full of hatred. He calls out two names loudly and two huge black dogs immediately appear from under a table with long fangs protruding from their slavering mouths. Wraggins points a finger at you, shouting ‘Kill the friend of Nicodemus!’ and the dogs leap at you, barking wildly. You must fight them for your life, one at a time. SKILL STAMINA First WOLF DOG 7 7 Second WOLF DOG 7 5 If you win, turn to 360. ",
+    "text": "The Dwarf jumps up off his stool, his face full of hatred. He calls out two names loudly and two huge black dogs immediately appear from under a table with long fangs protruding from their slavering mouths. Wraggins points a finger at you, shouting 'Kill the friend of Nicodemus!' and the dogs leap at you, barking wildly. You must fight them for your life, one at a time. SKILL STAMINA First WOLF DOG 7 7 Second WOLF DOG 7 5 If you win, turn to 360. ",
     "choices": {
         "1": "360"
     }
@@ -397,14 +397,14 @@
     }
 },
 "60": {
-    "text": "At the top of the stairs you reach a landing with two closed doors. As you are deciding which door to enter, you hear a noise from downstairs — somebody is entering the front door. Then you hear a man’s voice saying, ‘Off you fly, my little beauty, find the intruder.’ If you wish to draw your sword in readiness, turn to 349. If you would rather make a break for it, you may jump out of the window at the head of the landing into the street below (turn to 192). ",
+    "text": "At the top of the stairs you reach a landing with two closed doors. As you are deciding which door to enter, you hear a noise from downstairs - somebody is entering the front door. Then you hear a man's voice saying, 'Off you fly, my little beauty, find the intruder.' If you wish to draw your sword in readiness, turn to 349. If you would rather make a break for it, you may jump out of the window at the head of the landing into the street below (turn to 192). ",
     "choices": {
         "1": "349",
         "2": "192"
     }
 },
 "61": {
-    "text": "The silk curtains in front of the archway are pulled aside and a strange creature steps into the room. It has a snake’s head, which sits oddly atop the body of a young woman wearing a lavish gown. You feel uncomfortable and are undecided whether or not to draw your sword. Then the snake’s mouth opens and a forked tongue darts in and out as the Serpent Queen asks to see the flowers sent to her by Lord Azzur. If you have a bunch of flowers, turn to 172. If you do not have a bunch of flowers, turn to 350. ",
+    "text": "The silk curtains in front of the archway are pulled aside and a strange creature steps into the room. It has a snake's head, which sits oddly atop the body of a young woman wearing a lavish gown. You feel uncomfortable and are undecided whether or not to draw your sword. Then the snake's mouth opens and a forked tongue darts in and out as the Serpent Queen asks to see the flowers sent to her by Lord Azzur. If you have a bunch of flowers, turn to 172. If you do not have a bunch of flowers, turn to 350. ",
     "choices": {
         "1": "172",
         "2": "350"
@@ -434,7 +434,7 @@
     }
 },
 "65": {
-    "text": "On the next floor there are two doors adjacent to one another on the landing. One is painted white and the other black. Suddenly a voice calls out from nowhere, saying, ‘Oh foolish adventurer, why do you even consider it a remote possibility that you can defeat me, the almighty Zanbar Bone. I am following your every move, but you do not know where I am. Ha! Ha! Ha!’ Will you: Open the white door? Turn to 319 Open the black door? Turn to 96 Carry on up the stairs? Turn to 197 ",
+    "text": "On the next floor there are two doors adjacent to one another on the landing. One is painted white and the other black. Suddenly a voice calls out from nowhere, saying, 'Oh foolish adventurer, why do you even consider it a remote possibility that you can defeat me, the almighty Zanbar Bone. I am following your every move, but you do not know where I am. Ha! Ha! Ha!' Will you: Open the white door? Turn to 319 Open the black door? Turn to 96 Carry on up the stairs? Turn to 197 ",
     "choices": {
         "1": "319",
         "2": "96",
@@ -442,13 +442,13 @@
     }
 },
 "66": {
-    "text": "The Dwarf smiles and boasts that he can make a key to open any lock in Port Blacksand. He says that his special keys are priced at 10 Gold Pieces each. If you want to buy a key, make the necessary deduction on your Adventure Sheet. Whether or not you buy a key you leave the’shop and continue west (turn to 300). ",
+    "text": "The Dwarf smiles and boasts that he can make a key to open any lock in Port Blacksand. He says that his special keys are priced at 10 Gold Pieces each. If you want to buy a key, make the necessary deduction on your Adventure Sheet. Whether or not you buy a key you leave the'shop and continue west (turn to 300). ",
     "choices": {
         "1": "300"
     }
 },
 "67": {
-    "text": "The woman’s voice sounds excited as she calls through the curtains, ‘Oh, I wonder which kind dear has sent me flowers? Can you tell me who they are from?’ If you wish to tell her a name, turn to 195. If you wish to tell her that you do not know who they are from, turn to 79. ",
+    "text": "The woman's voice sounds excited as she calls through the curtains, 'Oh, I wonder which kind dear has sent me flowers? Can you tell me who they are from?' If you wish to tell her a name, turn to 195. If you wish to tell her that you do not know who they are from, turn to 79. ",
     "choices": {
         "1": "195",
         "2": "79"
@@ -462,20 +462,20 @@
     }
 },
 "69": {
-    "text": "Just as the guards are about to lead you away, you try with all your might to pull your arms from their grip. Roll two dice. If the number rolled is less than or equal to your SKILL score, you succeed — turn to 355. If the number rolled is greater than your SKILL, you fail to release yourself, and are led away, struggling violently (turn to 151). ",
+    "text": "Just as the guards are about to lead you away, you try with all your might to pull your arms from their grip. Roll two dice. If the number rolled is less than or equal to your SKILL score, you succeed - turn to 355. If the number rolled is greater than your SKILL, you fail to release yourself, and are led away, struggling violently (turn to 151). ",
     "choices": {
         "1": "355",
         "2": "151"
     }
 },
 "70": {
-    "text": "As you reach the chest it disappears before your eyes. You hear laughter behind you and suddenly see in the mirror the hideous reflection of a blackrobed skeleton with green, translucent eyes, wearing a golden crown on its skull. You spin round but it’s too late. Zanbar Bone’s skeletal fingers are touching your flesh and are draining your life away. You are now one of his undead servants. ",
+    "text": "As you reach the chest it disappears before your eyes. You hear laughter behind you and suddenly see in the mirror the hideous reflection of a blackrobed skeleton with green, translucent eyes, wearing a golden crown on its skull. You spin round but it's too late. Zanbar Bone's skeletal fingers are touching your flesh and are draining your life away. You are now one of his undead servants. ",
     "choices": {
         "1": "GAME OVER"
     }
 },
 "71": {
-    "text": "The Ogre’s room is full of clutter and discarded bits and pieces. It does not appear to have been tidied for years. Rummaging through the jumble, you find a polished wooden box with a hand made of white shell inlaid on the lid. The box is locked and you . cannot find the key to open it. If you wish to smash it open with your sword, turn to 324. If you wish to leave the house to continue north, without trying to open the box, turn to 282. ",
+    "text": "The Ogre's room is full of clutter and discarded bits and pieces. It does not appear to have been tidied for years. Rummaging through the jumble, you find a polished wooden box with a hand made of white shell inlaid on the lid. The box is locked and you . cannot find the key to open it. If you wish to smash it open with your sword, turn to 324. If you wish to leave the house to continue north, without trying to open the box, turn to 282. ",
     "choices": {
         "1": "324",
         "2": "282"
@@ -488,7 +488,7 @@
     }
 },
 "73": {
-    "text": "You draw your sword and stand ready to fight the Trolls. They seem pleased that you are going to give them a chance to practise their beloved sport of killing humans, and advance towards you swinging their battle-axes. Sourbelly snarls and says, ‘Stand back, Fatnose — let me deal with this dog alone.’ Fight them one at a time. SKILL STAMINA SOURBELLY 10 11 FATNOSE 9 10 If you win, turn to 110. You may Escape after killing Sourbelly by throwing your shield at Fatnose and running off west along Mill Street. Lose 1 SKILL point and turn to 239. ",
+    "text": "You draw your sword and stand ready to fight the Trolls. They seem pleased that you are going to give them a chance to practise their beloved sport of killing humans, and advance towards you swinging their battle-axes. Sourbelly snarls and says, 'Stand back, Fatnose - let me deal with this dog alone.' Fight them one at a time. SKILL STAMINA SOURBELLY 10 11 FATNOSE 9 10 If you win, turn to 110. You may Escape after killing Sourbelly by throwing your shield at Fatnose and running off west along Mill Street. Lose 1 SKILL point and turn to 239. ",
     "choices": {
         "1": "110",
         "2": "239"
@@ -530,7 +530,7 @@
     }
 },
 "79": {
-    "text": "The silk curtains in front of the archway are suddenly pulled aside and a strange creature steps into the room. It has a snake’s head, which sits oddly atop the body of a young woman wearing a lavish gown. Its mouth opens and a forked tongue darts in and out as the SERPENT QUEEN challenges you, saying, ‘Do not lie to me, scoundrel. No doubt you are an assassin come here to kill me. But you shall die instead!’ Suddenly the Serpent Queen stretches out her head and bites you on the neck. Lose 4 STAMINA points and 1 SKILL point. If you are still alive, you draw your sword to defend yourself. SERPENT QUEEN _ SKILL9g STAMINA 7 If you win, turn to 295. ",
+    "text": "The silk curtains in front of the archway are suddenly pulled aside and a strange creature steps into the room. It has a snake's head, which sits oddly atop the body of a young woman wearing a lavish gown. Its mouth opens and a forked tongue darts in and out as the SERPENT QUEEN challenges you, saying, 'Do not lie to me, scoundrel. No doubt you are an assassin come here to kill me. But you shall die instead!' Suddenly the Serpent Queen stretches out her head and bites you on the neck. Lose 4 STAMINA points and 1 SKILL point. If you are still alive, you draw your sword to defend yourself. SERPENT QUEEN _ SKILL9g STAMINA 7 If you win, turn to 295. ",
     "choices": {
         "1": "295"
     }
@@ -550,7 +550,7 @@
     }
 },
 "82": {
-    "text": "Before the Hag can complete her spell, you reach into your backpack and take out the bottle containing the potion. You gulp down the liquid and feel its effects immediately. The Hag is still mouthing her vile sorcery but you cannot hear her. Safe from her - evil, you draw your sword and step forward. You grab hold of her matted hair and cut a clump from her head. She writhes and kicks and spits at you. At this close range you can see fresh blood on her face — no doubt she could not wait to cook some of the rats she had killed. Despite your repulsion you are excited about having gained one of the items necessary to defeat the Night Prince. You throw the Hag into the sewer and walk back to the entrance hole (turn to 104).",
+    "text": "Before the Hag can complete her spell, you reach into your backpack and take out the bottle containing the potion. You gulp down the liquid and feel its effects immediately. The Hag is still mouthing her vile sorcery but you cannot hear her. Safe from her - evil, you draw your sword and step forward. You grab hold of her matted hair and cut a clump from her head. She writhes and kicks and spits at you. At this close range you can see fresh blood on her face - no doubt she could not wait to cook some of the rats she had killed. Despite your repulsion you are excited about having gained one of the items necessary to defeat the Night Prince. You throw the Hag into the sewer and walk back to the entrance hole (turn to 104).",
     "choices": {
         "1": "104"
     }
@@ -584,14 +584,14 @@
     }
 },
 "87": {
-    "text": "You reach the top of the ladder and peer over the handrail to survey the ship’s deck. There are two large masts rising into the air from the deck. Wooden boxes, barrels and coils of rope lie all around, and one of the ship’s crew stands on guard at the top of the gangplank. In the centre of the deck there is a small cabin with an open door. Through the door you see stairs leading down to the lower decks. If you wish to inspect any of the wooden boxes and barrels, you will have to deal with the pirate on guard (turn to 120). If you wish to creep _ along the deck to the stairs, turn to 50. ",
+    "text": "You reach the top of the ladder and peer over the handrail to survey the ship's deck. There are two large masts rising into the air from the deck. Wooden boxes, barrels and coils of rope lie all around, and one of the ship's crew stands on guard at the top of the gangplank. In the centre of the deck there is a small cabin with an open door. Through the door you see stairs leading down to the lower decks. If you wish to inspect any of the wooden boxes and barrels, you will have to deal with the pirate on guard (turn to 120). If you wish to creep _ along the deck to the stairs, turn to 50. ",
     "choices": {
         "1": "120",
         "2": "50"
     }
 },
 "88": {
-    "text": "You pull back the curtains and walk into a very lavish boudoir. In it isa young woman with her back towards you. As you approach her she spins round and you are stunned to see, not the young woman’s face you are expecting, but a large snake’s head. It extends out from the shoulders and bites you on the neck. You are caught somewhat off-balance by the SERPENT QUEEN and suffer the loss of 4 STAMINA points and 1 SKILL point before you can draw your sword to defend yourself. SERPENT QUEEN _ SKILLg STAMINA 7 If you win, turn to 295. You may Escape after three Attack Rounds by running out of the house and north along Stable Street (turn to 333). ",
+    "text": "You pull back the curtains and walk into a very lavish boudoir. In it isa young woman with her back towards you. As you approach her she spins round and you are stunned to see, not the young woman's face you are expecting, but a large snake's head. It extends out from the shoulders and bites you on the neck. You are caught somewhat off-balance by the SERPENT QUEEN and suffer the loss of 4 STAMINA points and 1 SKILL point before you can draw your sword to defend yourself. SERPENT QUEEN _ SKILLg STAMINA 7 If you win, turn to 295. You may Escape after three Attack Rounds by running out of the house and north along Stable Street (turn to 333). ",
     "choices": {
         "1": "295",
         "2": "333"
@@ -631,13 +631,13 @@
     }
 },
 "94": {
-    "text": "The little man smiles and says, ‘Easy.’ He reaches into his pocket and produces some sparkling dust which he throws up at you. As it settles on your clothes, a feeling of strength surges through your body. Add 6 stamina points. He then tells you that as he is feeling particularly grateful he will grant you another wish. With your strength returned you feel you can now deal with Zanbar Bone and ask the little man of his whereabouts (turn to 234). ",
+    "text": "The little man smiles and says, 'Easy.' He reaches into his pocket and produces some sparkling dust which he throws up at you. As it settles on your clothes, a feeling of strength surges through your body. Add 6 stamina points. He then tells you that as he is feeling particularly grateful he will grant you another wish. With your strength returned you feel you can now deal with Zanbar Bone and ask the little man of his whereabouts (turn to 234). ",
     "choices": {
         "1": "234"
     }
 },
 "95": {
-    "text": "On the left side of the street you see a large iron key | hanging over the doorway of a small shop. A signin the window reads ‘J. B. Wraggins, Locksmith’. If you want to enter the shop, turn to 224. If you would rather continue walking west, turn to 300. ",
+    "text": "On the left side of the street you see a large iron key | hanging over the doorway of a small shop. A signin the window reads 'J. B. Wraggins, Locksmith'. If you want to enter the shop, turn to 224. If you would rather continue walking west, turn to 300. ",
     "choices": {
         "1": "224",
         "2": "300"
@@ -677,7 +677,7 @@
     }
 },
 "101": {
-    "text": "You enter the shop and see the Man-Orc standing behind the counter. He is smiling at your misfortune and says, ‘Huh, can’t even take Old Trollborn. And don’t think Iam going to give you your money back.’ If you wish to attack the impudent Man-Orc, turn to 5. If you would rather leave the shop and head north again, containing your anger, turn to 93. ",
+    "text": "You enter the shop and see the Man-Orc standing behind the counter. He is smiling at your misfortune and says, 'Huh, can't even take Old Trollborn. And don't think Iam going to give you your money back.' If you wish to attack the impudent Man-Orc, turn to 5. If you would rather leave the shop and head north again, containing your anger, turn to 93. ",
     "choices": {
         "1": "5",
         "2": "93"
@@ -731,7 +731,7 @@
     }
 },
 "109": {
-    "text": "The guards look at each other and burst out laughing. Then one says, ‘Do you think we would risk letting you in Port Blacksand for the sake of 5 Gold Pieces? If Lord Azzur found out that we let you in without a pass, we would be dead men. Let’s hear no more about bribes, it’s the dungeon for you.’ Turn to 151. ",
+    "text": "The guards look at each other and burst out laughing. Then one says, 'Do you think we would risk letting you in Port Blacksand for the sake of 5 Gold Pieces? If Lord Azzur found out that we let you in without a pass, we would be dead men. Let's hear no more about bribes, it's the dungeon for you.' Turn to 151. ",
     "choices": {
         "1": "151"
     }
@@ -743,21 +743,21 @@
     }
 },
 "111": {
-    "text": "You cut the pouch from round the pirate’s neck and open it. Inside you find six black pearls. Add 2 Luck points. You leave the room with your valuable treasure. Outside in the corridor you may either open the other door if you have not done so already (turn to 232) or leave the ship and continue your search of Port Blacksand, walking north up Harbour Street (turn to 78). ",
+    "text": "You cut the pouch from round the pirate's neck and open it. Inside you find six black pearls. Add 2 Luck points. You leave the room with your valuable treasure. Outside in the corridor you may either open the other door if you have not done so already (turn to 232) or leave the ship and continue your search of Port Blacksand, walking north up Harbour Street (turn to 78). ",
     "choices": {
         "1": "232",
         "2": "78"
     }
 },
 "112": {
-    "text": "While most of the houses in the street are small, cramped and dark, you see one ahead that stands alone and is painted bright red. The door has a ‘Welcome’ sign hanging from it. If you wish to enter the house, turn to 154. If you prefer to keep walking north, turn to 334. ",
+    "text": "While most of the houses in the street are small, cramped and dark, you see one ahead that stands alone and is painted bright red. The door has a 'Welcome' sign hanging from it. If you wish to enter the house, turn to 154. If you prefer to keep walking north, turn to 334. ",
     "choices": {
         "1": "154",
         "2": "334"
     }
 },
 "113": {
-    "text": "You enter the house and find yourself standing ina room full of toys. But they are not ordinary toys. These are stuffed creatures with nails through their heads, dolls’ houses that are made to look as if they are on fire, and many other unpleasant objects. In the middle of the room stand two old women dressed as though they were little girls. They are squabbling over a carved wooden duck. Each looks eager to destroy the duck with the knives they are holding. On seeing you the women both start to shout, ‘Give us toys! Give us toys!’ If you wish to give them something from your backpack, make the necessary deduction on your Adventure Sheet and turn to 141. If you would rather leave these strange old ladies and continue east, turn to 375. ",
+    "text": "You enter the house and find yourself standing ina room full of toys. But they are not ordinary toys. These are stuffed creatures with nails through their heads, dolls' houses that are made to look as if they are on fire, and many other unpleasant objects. In the middle of the room stand two old women dressed as though they were little girls. They are squabbling over a carved wooden duck. Each looks eager to destroy the duck with the knives they are holding. On seeing you the women both start to shout, 'Give us toys! Give us toys!' If you wish to give them something from your backpack, make the necessary deduction on your Adventure Sheet and turn to 141. If you would rather leave these strange old ladies and continue east, turn to 375. ",
     "choices": {
         "1": "141",
         "2": "375"
@@ -770,14 +770,14 @@
     }
 },
 "115": {
-    "text": "Coming towards you as fast as he is able is a man in tattered rags with a ball and chain attached to his leg. He is exhausted and collapses in your arms. His face is dirty and unshaven. With great difficulty he manages to speak, saying, ‘Please cut me free. The town guards are not far behind me. I have been -locked in a dungeon for two years but managed to tunnel my way out. I was robbed and unable to pay my taxes, so Lord Azzur ordered I should be jailed for five years. Please help me.’ Farther up the street you hear shouting voices and then armed men come into view. If you want to cut through his chains with your sword, turn to go. If you want to hand him over to the town guards, turn to 274. ",
+    "text": "Coming towards you as fast as he is able is a man in tattered rags with a ball and chain attached to his leg. He is exhausted and collapses in your arms. His face is dirty and unshaven. With great difficulty he manages to speak, saying, 'Please cut me free. The town guards are not far behind me. I have been -locked in a dungeon for two years but managed to tunnel my way out. I was robbed and unable to pay my taxes, so Lord Azzur ordered I should be jailed for five years. Please help me.' Farther up the street you hear shouting voices and then armed men come into view. If you want to cut through his chains with your sword, turn to go. If you want to hand him over to the town guards, turn to 274. ",
     "choices": {
         "1": "90",
         "2": "274"
     }
 },
 "116": {
-    "text": "Walking north along the street you see the entrance to a small herbalist’s shop to your left. Looking through the window you see a wooden counter with a pair of scales upon it, and many sacks of different herbs crowding the floor. There is a small archway leading out of the back of the shop to another room. There is an ‘Open’ sign on the door but the shop is empty. If you wish to enter the shop, turn to 250. If you would rather continue walking north up Market Street, turn to 93. ",
+    "text": "Walking north along the street you see the entrance to a small herbalist's shop to your left. Looking through the window you see a wooden counter with a pair of scales upon it, and many sacks of different herbs crowding the floor. There is a small archway leading out of the back of the shop to another room. There is an 'Open' sign on the door but the shop is empty. If you wish to enter the shop, turn to 250. If you would rather continue walking north up Market Street, turn to 93. ",
     "choices": {
         "1": "250",
         "2": "93"
@@ -845,13 +845,13 @@
     }
 },
 "126": {
-    "text": "The little girl grabs hold of your arm and leads you into a back room. Saying nothing, she motions you to lie down on a sheepskin rug. Suddenly you are aware of a very old man sitting opposite. He rises slowly from his rocking chair and walks over to you. ’ You watch transfixed as he takes hold of an arrow protruding from your arm and gently pulls it free without causing you any pain. The wound made by the arrow disappears before your eyes. Other arrows are treated similarly if you suffered more than one wound. You may restore 2 STAMINA points for each arrow pulled free by the old man. Then in a slow and almost inaudible voice he tells you that he wants the broadsword that Owen Carralif gave you in payment for the healing. You feel obliged to give him your sword, though reluctantly. In exchange he gives you an ordinary fighting sword. Reduce your SKILL score by 1. You leave the house and head north (turn to 112).",
+    "text": "The little girl grabs hold of your arm and leads you into a back room. Saying nothing, she motions you to lie down on a sheepskin rug. Suddenly you are aware of a very old man sitting opposite. He rises slowly from his rocking chair and walks over to you. ' You watch transfixed as he takes hold of an arrow protruding from your arm and gently pulls it free without causing you any pain. The wound made by the arrow disappears before your eyes. Other arrows are treated similarly if you suffered more than one wound. You may restore 2 STAMINA points for each arrow pulled free by the old man. Then in a slow and almost inaudible voice he tells you that he wants the broadsword that Owen Carralif gave you in payment for the healing. You feel obliged to give him your sword, though reluctantly. In exchange he gives you an ordinary fighting sword. Reduce your SKILL score by 1. You leave the house and head north (turn to 112).",
     "choices": {
         "1": "112"
     }
 },
 "127": {
-    "text": "Just ahead of you, three men are involved ina fight — the two younger men appear to be attacking an older man with iron bars. If you wish to help the old man, turn to 177. If you would rather avoid the brawling men and continue north, turn to 348. ",
+    "text": "Just ahead of you, three men are involved ina fight - the two younger men appear to be attacking an older man with iron bars. If you wish to help the old man, turn to 177. If you would rather avoid the brawling men and continue north, turn to 348. ",
     "choices": {
         "1": "177",
         "2": "348"
@@ -878,7 +878,7 @@
     }
 },
 "131": {
-    "text": "You walk into a room with sparse furnishings and a polished wooden floor. Silk curtains hang down over an archway on the far wall. As you start to walk across the wooden floor, a woman’s voice calls out ‘Who is it?’ You may: Tell her you are delivering flowers Turn to 67 Tell her you have come to collect old rags Turn to 6 Tell her you are a tax collector Turn to 179 ",
+    "text": "You walk into a room with sparse furnishings and a polished wooden floor. Silk curtains hang down over an archway on the far wall. As you start to walk across the wooden floor, a woman's voice calls out 'Who is it?' You may: Tell her you are delivering flowers Turn to 67 Tell her you have come to collect old rags Turn to 6 Tell her you are a tax collector Turn to 179 ",
     "choices": {
         "1": "67",
         "2": "6",
@@ -912,7 +912,7 @@
     }
 },
 "136": {
-    "text": "You walk over to the bar and order a drink. The old innkeeper scowls and tells you that he doesn’t serve people from out of town. He pulls a dagger from his belt and, stabbing it in the bar top, tells you to leave. If you want to fight the innkeeper, turn to 270. If you want to leave the tavern and head north, turn to 296. ",
+    "text": "You walk over to the bar and order a drink. The old innkeeper scowls and tells you that he doesn't serve people from out of town. He pulls a dagger from his belt and, stabbing it in the bar top, tells you to leave. If you want to fight the innkeeper, turn to 270. If you want to leave the tavern and head north, turn to 296. ",
     "choices": {
         "1": "270",
         "2": "296"
@@ -966,13 +966,13 @@
     }
 },
 "144": {
-    "text": "The Hag screams as your sword cuts deep into her arm. Her concentration is lost and the spell is broken. Your mind clears and you are able to face her with your senses acute again. From out of her clothing the Hag pulls a dagger with a long shimmering blade. You are eager to fight her: HAG ‘SKILL 7 STAMINA 7 If you win, turn to 303. ",
+    "text": "The Hag screams as your sword cuts deep into her arm. Her concentration is lost and the spell is broken. Your mind clears and you are able to face her with your senses acute again. From out of her clothing the Hag pulls a dagger with a long shimmering blade. You are eager to fight her: HAG 'SKILL 7 STAMINA 7 If you win, turn to 303. ",
     "choices": {
         "1": "303"
     }
 },
 "145": {
-    "text": "Inside the shop an old woman is busily watering the flowers and plants. She looks up and smiles, saying, ‘Good afternoon, my name is Mrs Pipe. Can I interest you in one of my special flowers?’ If you wish to see what she has to offer, turn to 293. If you wish to leave the shop, refuse politely and head west (turn to 24). ",
+    "text": "Inside the shop an old woman is busily watering the flowers and plants. She looks up and smiles, saying, 'Good afternoon, my name is Mrs Pipe. Can I interest you in one of my special flowers?' If you wish to see what she has to offer, turn to 293. If you wish to leave the shop, refuse politely and head west (turn to 24). ",
     "choices": {
         "1": "293",
         "2": "24"
@@ -1006,14 +1006,14 @@
     }
 },
 "150": {
-    "text": "The Troll bursts out laughing and says, ‘Fooled you! There isn’t a Pepper Street in Port Blacksand!’ His face folds into a sickly grin and he tells you that you are under arrest for being in Port Blacksand without authorization. He tells you that he is feeling generous, however, and offers you a choice. You can pay a fine of all the gold in your backpack and be thrown out of the city, or spend a year with rats and cockroaches in a dirty dungeon cell. The other Troll bursts out laughing, saying, ‘Generous? Ho! Ho! Ho! Ah, Sourbelly, you’ve got such a sense of humour!’ If you wish to pay the fine and be thrown out of the city, turn to 367. If you wish to resist arrest, turn to 73.",
+    "text": "The Troll bursts out laughing and says, 'Fooled you! There isn't a Pepper Street in Port Blacksand!' His face folds into a sickly grin and he tells you that you are under arrest for being in Port Blacksand without authorization. He tells you that he is feeling generous, however, and offers you a choice. You can pay a fine of all the gold in your backpack and be thrown out of the city, or spend a year with rats and cockroaches in a dirty dungeon cell. The other Troll bursts out laughing, saying, 'Generous? Ho! Ho! Ho! Ah, Sourbelly, you've got such a sense of humour!' If you wish to pay the fine and be thrown out of the city, turn to 367. If you wish to resist arrest, turn to 73.",
     "choices": {
         "1": "367",
         "2": "73"
     }
 },
 "151": {
-    "text": "The two guards lead you into the guardhouse and take you immediately downstairs to the cells below. There are four cells and all are empty except for one which houses a frail, white-haired old man. The guards unlock the cell next to the old man’s and throw you in, placing your sword ona table outside. The only contents of the cell are a straw mattress and a pail of water. The guards go back upstairs and as they disappear the old man gets up off his bed and starts to speak. ‘You're an outsider, aren’t you? Don’t reply, it’s obvious. Do you want me to set you free? Give me 10 Gold Pieces and I'll have you out in five minutes.’ The old man then puts his arm through the bars of your cell with the palm of his hand upturned. If you wish to give the old man 10 Gold Pieces, turn to 351. If you would rather ignore the old man, turn to 29. ",
+    "text": "The two guards lead you into the guardhouse and take you immediately downstairs to the cells below. There are four cells and all are empty except for one which houses a frail, white-haired old man. The guards unlock the cell next to the old man's and throw you in, placing your sword ona table outside. The only contents of the cell are a straw mattress and a pail of water. The guards go back upstairs and as they disappear the old man gets up off his bed and starts to speak. 'You're an outsider, aren't you? Don't reply, it's obvious. Do you want me to set you free? Give me 10 Gold Pieces and I'll have you out in five minutes.' The old man then puts his arm through the bars of your cell with the palm of his hand upturned. If you wish to give the old man 10 Gold Pieces, turn to 351. If you would rather ignore the old man, turn to 29. ",
     "choices": {
         "1": "351",
         "2": "29"
@@ -1048,7 +1048,7 @@
     }
 },
 "156": {
-    "text": "Standing on either side of you, the Trolls march you along Mill Street until you reach the city’s North Gate at the junction with Goose Street. They tell the two guards on duty not to let you back into Port Blacksand. They give you a forceful boot up the backside and you land sprawling on the dusty road outside. Do you have all the items required to slay the Night Prince? If you have them all and have been tattooed, turn to 201. If you are missing any of the items or have not been tattooed, turn to 299. ",
+    "text": "Standing on either side of you, the Trolls march you along Mill Street until you reach the city's North Gate at the junction with Goose Street. They tell the two guards on duty not to let you back into Port Blacksand. They give you a forceful boot up the backside and you land sprawling on the dusty road outside. Do you have all the items required to slay the Night Prince? If you have them all and have been tattooed, turn to 201. If you are missing any of the items or have not been tattooed, turn to 299. ",
     "choices": {
         "1": "201",
         "2": "299"
@@ -1068,7 +1068,7 @@
     }
 },
 "159": {
-    "text": "The owner of the house is obviously quite wealthy. Lavish furnishing and fine objets d’art adorn the marble-floored room in which you stand. An archway leads into a back room and stairs to your right lead up to another floor. Will you: Search the room you are in? Turn to 278 Walk through the archway? Turn to 107 Climb the stairs? Turn to 60 ",
+    "text": "The owner of the house is obviously quite wealthy. Lavish furnishing and fine objets d'art adorn the marble-floored room in which you stand. An archway leads into a back room and stairs to your right lead up to another floor. Will you: Search the room you are in? Turn to 278 Walk through the archway? Turn to 107 Climb the stairs? Turn to 60 ",
     "choices": {
         "1": "278",
         "2": "107",
@@ -1090,7 +1090,7 @@
     }
 },
 "162": {
-    "text": "Test your Luck. If you are Lucky, you manage to cut the pouch loose without waking the pirates (turn to 7). If you are Unlucky, the man’s eyes flick open as you try to cut the cord and he grabs hold of your arm while calling out to his mates for help (turn to 226). ",
+    "text": "Test your Luck. If you are Lucky, you manage to cut the pouch loose without waking the pirates (turn to 7). If you are Unlucky, the man's eyes flick open as you try to cut the cord and he grabs hold of your arm while calling out to his mates for help (turn to 226). ",
     "choices": {
         "1": "7",
         "2": "226"
@@ -1098,7 +1098,7 @@
     }
 },
 "163": {
-    "text": "The sarcophagus contains a gold ring which has an ’ eye etched into its top. You have found the long-lost Ring of the Golden Eye, fabled for its ability to allow its wearer to detect illusions. Add 2 LucK points and leave the room (turn to 231). ",
+    "text": "The sarcophagus contains a gold ring which has an ' eye etched into its top. You have found the long-lost Ring of the Golden Eye, fabled for its ability to allow its wearer to detect illusions. Add 2 LucK points and leave the room (turn to 231). ",
     "choices": {
         "1": "231"
     }
