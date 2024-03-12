@@ -15,22 +15,122 @@
         }
         
     },
+    "3": {
+        "text": "The man stops playing and tells you that he can bring you good fortune. For the sum of 3 Gold Pieces he will sing you a song that will bring you luck. If you wish to pay the musician, choose 1. If you do not believe him, you may walk to the next stall",
+        "choices": {
+          "1": "37",
+          "2": "398"
+        }
+    },
+    "4": {
+        "text": "You hear a bell ring on the other side of the door and a few minutes later the door is opened by a thin, pale-skinned man with dark, hollow eyes, who is wearing a servant's uniform. In a cold, hissing voice he says, 'Yes?' If you wish to tell him you are a lost traveller, choose 1. If you wish to attack him with your sword, choose 2.",
+        "choices": {
+          "1": "339",
+          "2": "35"
+        }
+    },
+    "5": {
+      "text": "Drawing your sword you leap over the counter to attack the MAN-ORC, who swiftly grabs his hand-axe. You soon realize that the Man-Orc has used his weapon before. MAN-ORC SKILL 8 STAMINA 5. If you win, choose 1",
+      "choices": {
+        "1": "371"
+      }
+    },
+    "6": {
+      "text:": "Her tone becomes unpleasant and she tells you to get out of her house because there are certainly no rags in it, nor any other kind of jumble for that matter. If you wish to obey her, leave the house and head further north along stable street, choose 1. If you wish to go through the curtains and see who is being so rude to you, choose 2",
+      "choices": {
+        "1": "333",
+        "2": "88"
+      }
+    },
+    "7": {
+      "text": "You tiptoe quietly out of the room and close the door. In the corridor you open the pouch and find six black pearls. Add 2 Luck points. If you have not already done so, you may open the other door (choose 1), or leave the ship to continue your search of Port Blacksand by walking north up Harbour Street, choose 2.",
+      "choices": {
+        "1": "232",
+        "2": "78"
+      }
+    },
+    "8": {
+      "text": "The creature pins the golden brooch to your leather tunic and you pay the price demanded. You have bought a lucky charm - add 2 Luck points to your total. Pleased with your purchase you leave the house and head north",
+      "choices": {
+        "1": "334"
+      }
+    },
+    "9": {
+      "text": "You step back from the vile body of Zanbar Bone, waiting for him to decay. However, you have chosen wrongly!!! He pulls the arrow from his chest and rubs the compound from his eyes. He sees you and laughs. You are mesmerized by his power and are unable to move. He walks up to you and touches your face with his skeletal fingers. Your life is draining quickly away and you will soon begin your undead existence as a servant of Zanbar Bone.",
+      "choices": {
+        "1": "DEAD"
+      }
+    },
     "10": {
         "text": "The GUARD is really annoyed and charges at you with his pike. CITY GUARD SKILL 8 STAMINA 7. 1. You win and the fight lasts six Attack Rounds or less. 2. The fight lasts longer than six Attack Rounds",
         "choices": {
             "1": "212",
             "2": "130"
         }
-
     },
-    "33": {
-        "text": "You tell the guard that you wish to sell some silver chalices that you stole from a tavern in Silverton and that you will pay him a Gold Piece for his advice as to where to go for the best price. The guard looks at you suspiciously, saying, 'Let me look at these chalices in your backpack before I admit you.' Will you: 1. Tell him you know the chalices are cursed and should only be examined by a mage? 2. Try to run past the guard into the main street? 3. Attack him quickly with your sword?",
-        "choices": {
-            "1": "381",
-            "2": "291",
-            "3": "49"
-        }
-      },
+    "11": {
+      "text": "The Trolls see what you are doing and run towards the tree. You are forced to leave your shield behind. Lose 1 Skill point. After climbing quickly up the tree you realize that you must jump a distance of two metres between the branch and the top of the wall. If you are wearing a chainmail coat you will have to take it off in order to jump safely across to the wall (lose 2 Skill points). Below, you see the two Trolls running round the tree waving their swords at you. There is no alternative but to jump.",
+      "choices": {
+        "1": "358"
+      }
+    },
+    "12": {
+      "text": "After a few minutes you hear footsteps coming down the corridor. The door opens and a man walks into the room wearing nothing but a towel round his fat stomach. You watch as he drops the towel and lowers himself gently into the tub with a loud sigh. If you wish to surprise him by drawing your sword and uttering a loud 'Ahem!', choose 1. If you would rather creep out of the room back into the corridor while he submerges himself, choose 2",
+      "choices": {
+        "1": "176",
+        "2": "383"
+      }
+    },
+    "13": {
+      "text": "Inspecting the scorpion you see that it is a brooch. You decide to pin it to your leather tunic. The brooch has magic healing properties: After any battle, the brooch will immediately restore 1 STAMINA point to your total. What will you do next? You may, if you have not already done so, pick up the golden scorpion (choose 1). If you would rather ignore it, you may either climb the stairs (choose 2), or leave the house and head north, choose 3.",
+      "choices": {
+        "1": "273",
+        "2": "80",
+        "3": "334"
+      }
+    },
+    "14": {
+      "text": "As soon as you pluck one of the flowers you hear the noise of rustling leaves. Three of the animal-shaped hedges have uprooted themselves and are closing in on you. Do you have a Ring of Fire? if you have, choose 1. If not, choose 2",
+      "choices": {
+        "1": "237",
+        "2": "191"
+      }
+    },
+    "15": {
+      "text": "You leap over the snakes and run for the door. Test your Luck. If you are Lucky, you reach the door safety, choose 1. If you are Unlucky, one of the snakes strikes out and bites you on the leg, choose 2",
+      "choices": {
+        "1": "75",
+        "2": "298"
+      }
+    },
+    "16": {
+      "text": "The bag holds 12 Gold Pieces. Add 1 LUCK point. You leave the house quickly before the owner discovers you are not who you say you are. You then walk further north along stable street",
+      "choices": {
+        "1": "333"
+      }
+    },
+    "17": {
+      "text": "Walking along the narrow street you see a man wearing tattered rags sitting in the gutter. His head rests on his hands and he looks thoroughly miserable. If you wish to stop to talk to him, choose 1. If you woudl rather continue walking east, choose 2.",
+      "choices": {
+        "1": "331",
+        "2": "161"
+      }
+    },
+    "18": {
+      "text": "You take aim carefully and throw the knife at the leading vagabond. Roll two dice. If the total is the same or less than your SKILL score, the knife sinks deep into the vagabond\u2019s chest, stopping him dead in his tracks ",
+      "choices": {
+          "1": "102",
+          "2": "225"
+      }
+  },
+  "19": {
+    
+      "text": "The darts are poison-tipped. Lose 4 STAMINA points and 1 SKILL point. If you are still alive and wish to continue picking the lock,",
+      "choices": {
+          "1": "340",
+          "2": "60"
+      }
+  },
     "49": {
         "text": "As you draw your sword the guard leaps to his right and attemps to ring a small bell on the wall of the guardhouse. Test your Luck. 1. If you are Lucky, he misses the bell, curses, and turns to fight you with his pike. 2. If you are Unlucky, he manages to grab the belle and rings it loudly before turning to fight you with his pike.",
         "choices": {
