@@ -2,7 +2,7 @@ import discord
 import os
 import json
 from discord.ext import commands
-from dotenv import load_dotenv
+from dotenv import load_dotenv, find_dotenv 
 
 # --- Bot Setup ---
 intents = discord.Intents.default()
@@ -31,9 +31,16 @@ async def on_ready():
 
 # --- Main Execution ---
 if __name__ == "__main__":
-    load_dotenv()
+    dotenv_path = os.path.join(os.path.dirname(__file__), '.env')
+    print(f"--- Attempting to load .env from explicit path: {dotenv_path} ---")
+    # Have to override otherwise it will load the wrong token
+    load_dotenv(dotenv_path=dotenv_path, override=True) 
     discord_token = os.getenv("DISCORD_BOT_TOKEN")
+
+    print(f"Token loaded into environment: '{discord_token}'") 
+
     if not discord_token:
-        print("FATAL: DISCORD_BOT_TOKEN not found in .env file.")
+        print("FATAL: Token could not be loaded even with explicit path. Check file permissions.")
         exit()
+        
     bot.run(discord_token)
