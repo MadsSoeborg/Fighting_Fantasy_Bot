@@ -37,8 +37,6 @@ if __name__ == "__main__":
     load_dotenv(dotenv_path=dotenv_path, override=True) 
     discord_token = os.getenv("DISCORD_BOT_TOKEN")
 
-    print(f"Token loaded into environment: '{discord_token}'") 
-
     if not discord_token:
         print("FATAL: Token could not be loaded even with explicit path. Check file permissions.")
         exit()

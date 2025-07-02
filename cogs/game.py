@@ -269,5 +269,56 @@ class GameCog(commands.Cog, name="Fighting Fantasy"):
             await ctx.send("You are not currently in a game.")
 
 
+    @commands.command(name="info", aliases=["help"])
+    async def show_info(self, ctx):
+        """Displays a help message with instructions on how to play."""
+        
+        embed = discord.Embed(
+            title="⚔️ How to Play Fighting Fantasy Bot ⚔️",
+            description="Welcome, adventurer! Here's how to navigate the world and complete your quest.",
+            color=discord.Color.blue()
+        )
+        
+        embed.add_field(
+            name="1. Create Your Character",
+            value="Every great adventure starts with a hero. Use `!create` to roll your character's stats. You can only have one character at a time.",
+            inline=False
+        )
+        
+        embed.add_field(
+            name="2. Start Your Adventure",
+            value="Use `!play` to begin your journey or to resume from where you last stopped. Your progress is saved automatically!",
+            inline=False
+        )
+
+        embed.add_field(
+            name="3. Making Choices",
+            value="When the story presents you with a numbered list of options, simply type the number of your choice in the chat (e.g., `1`, `2`, etc.) and press Enter.",
+            inline=False
+        )
+
+        embed.add_field(
+            name="4. Automatic Actions",
+            value="Combat, `Test Your Luck`, and `Test Your Skill` checks are all handled automatically by the bot. Just sit back and watch the events unfold!",
+            inline=False
+        )
+
+        embed.add_field(
+            name="Essential Commands",
+            value=(
+                "`!create` - Creates your adventurer.\n"
+                "`!play` - Starts or resumes the game.\n"
+                "`!stats` - Shows your current character sheet (stats, inventory, etc.).\n"
+                "`!quit` - Safely exits the game, saving your progress.\n"
+                "`!delete` - **Permanently** deletes your character to start over.\n"
+                "`!info` or `!help` - Shows this help message."
+            ),
+            inline=False
+        )
+
+        embed.set_footer(text="Good luck in the City of Thieves!")
+
+        await ctx.send(embed=embed)
+
 async def setup(bot):
     await bot.add_cog(GameCog(bot))

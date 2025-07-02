@@ -1,1 +1,20 @@
-{}
+{
+    "135817561789956096": {
+        "name": "Maximus",
+        "user_id": "135817561789956096",
+        "skill": 9,
+        "stamina": 18,
+        "luck": 10,
+        "max_skill": 9,
+        "max_stamina": 18,
+        "max_luck": 10,
+        "inventory": [
+            "Sword",
+            "Leather Armour",
+            "Backpack"
+        ],
+        "gold": 12,
+        "provisions": 10,
+        "current_location": "1"
+    }
+}
