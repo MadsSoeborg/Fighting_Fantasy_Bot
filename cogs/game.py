@@ -120,6 +120,7 @@ class GameCog(commands.Cog, name="Fighting Fantasy"):
             # Save progress unless the game ended
             if user_id in self.bot.active_games:
                 self.save_character(game.character)
+            await asyncio.sleep(1)  # Short pause to let user read
 
     async def handle_choice(self, ctx, game, page_data):
         """Handles a standard choice page."""
@@ -257,7 +258,52 @@ class GameCog(commands.Cog, name="Fighting Fantasy"):
         await ctx.send(f"Error: Handler for page type `{page_type}` not implemented. Ending game.")
         if game.character.user_id in self.bot.active_games:
             del self.bot.active_games[game.character.user_id]
+
+    async def handle_transaction(self, ctx, game, page_data):
+        """Handles a page with choices that may cost gold"""
+        choices = page_data["choices"]
+        options_text_list = []
+        for i, (text, data) in enumerate(choices.items(), 1):
+            cost = data.get("cost", 0)
+            if cost > 0:
+                options_text_list.append(f"**{i}**. {text} (Cost: {cost} Gold)")
+            else:
+                options_text_list.append(f"**{i}**. {text}")
+        
+        options_text = "\n".join(options_text_list)
+        prompt = f"```\nPage {game.character.current_location}\n```\n{page_data['text']}\n\n{options_text}"
+
+        await ctx.send(prompt)
+
+        def check(m):
+            return m.author.id == int(game.character.user_id) and m.channel == ctx.channel and m.content.isdigit() and 1 <= int(m.content) <= len(choices)
+        
+        try:
+            msg = await self.bot.wait_for('message', check=check, timeout=300.0)
+            choice_index = int(msg.content) - 1
+
+            # Get the selected choice and its data
+            chosen_option_data = list(choices.values())[choice_index]
+            cost = chosen_option_data.get("cost", 0)
+
+            # Check if the character can afford the cost
+            if game.character.gold < cost:
+                await ctx.send(f"You don't have enough gold for that! You need {cost} Gold, but you only have {game.character.gold}.")
+                # Loop back to the same page
+                return
+            if cost > 0:
+                game.character.gold -= cost
+                await ctx.send(f"You pay {cost} Gold. (Remaining: {game.character.gold} Gold)")
             
+            if "effect" in chosen_option_data:
+                effect_summary = game.character.apply_effects(chosen_option_data["effect"])
+                await ctx.send(f"**Effect**: {effect_summary}")
+            
+            game.character.current_location = chosen_option_data["next"]
+        except asyncio.TimeoutError:
+            await ctx.send("You took too long to respond. Your adventure is paused. Use `!play` to resume.")
+            del self.bot.active_games[game.character.user_id]
+
     @commands.command(name="quit")
     async def quit_game(self, ctx):
         """Quits the current game, saving your progress."""

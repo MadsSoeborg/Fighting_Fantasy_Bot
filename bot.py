@@ -31,13 +31,14 @@ async def on_ready():
 # --- Main Execution ---
 if __name__ == "__main__":
     dotenv_path = os.path.join(os.path.dirname(__file__), '.env')
-    print(f"--- Attempting to load .env from explicit path: {dotenv_path} ---")
-    # Have to override otherwise it will load the wrong token
+
+    # Load the .env file, overriding any existing system variables.
     load_dotenv(dotenv_path=dotenv_path, override=True) 
+    
     discord_token = os.getenv("DISCORD_BOT_TOKEN")
 
     if not discord_token:
-        print("FATAL: Token could not be loaded even with explicit path. Check file permissions.")
+        print("FATAL: DISCORD_BOT_TOKEN not found in .env file. Please check the file.")
         exit()
         
     bot.run(discord_token)

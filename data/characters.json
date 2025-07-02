@@ -2,19 +2,19 @@
     "135817561789956096": {
         "name": "Maximus",
         "user_id": "135817561789956096",
-        "skill": 9,
-        "stamina": 18,
-        "luck": 10,
-        "max_skill": 9,
-        "max_stamina": 18,
-        "max_luck": 10,
+        "skill": 7,
+        "stamina": 20,
+        "luck": 7,
+        "max_skill": 7,
+        "max_stamina": 20,
+        "max_luck": 7,
         "inventory": [
             "Sword",
             "Leather Armour",
             "Backpack"
         ],
-        "gold": 12,
+        "gold": 14,
         "provisions": 10,
-        "current_location": "1"
+        "current_location": "74"
     }
 }
