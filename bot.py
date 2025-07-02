@@ -93,6 +93,7 @@ async def present_location(ctx):
     current_location = user_current_locations.get(user_id, "1")
 
     location = story[current_location]
+    # Format the choices as a numbered list
     choices_text = "\n".join(
         [
             f"{num}. {option}"

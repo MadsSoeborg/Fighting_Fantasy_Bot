@@ -1104,1663 +1104,1589 @@
     }
 },
 "164": {
-    "text": "txt ",
+    "text": "You stagger forward beyond the angle of fire of the unseen archers. Ahead you see some sacks lying outside a house and you slump down on top of them. Slowly and painfully you pull the arrows from your body. After bandaging your wounds you rise to your feet and continue north (turn to 112). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "112"
     }
 },
 "165": {
-    "text": "txt ",
+    "text": "You may either turn right down Candle Street (turn to 139) or walk back to the junction and go down Harbour Street (turn to 91). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "139",
+        "2": "91"
     }
 },
 "166": {
-    "text": "txt ",
+    "text": "You will have to swing your sword with all your might to pierce the armour-like shell of this monster. GIANT CENTIPEDE SKILL 10 STAMINA 5 If you win, turn to 272. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "272"
     }
 },
 "167": {
-    "text": "txt ",
+    "text": "When you have paid the Man-Orc the 4 Gold Pieces, he explains that placing the herbs on a wound will help to heal it. Unfortunately the strength of the mixture varies. When required, roll 1 die. The number rolled is the number of STAMINA points that will be restored. Somewhat surprised at your good fortune you leave the shop and walk north. Add 1 LUCK point and turn to 93. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "93"
     }
 },
 "168": {
-    "text": "txt ",
+    "text": "The Bays have difficulty in explaining themselves, but you manage to understand that one of the other team is going to throw the ball at you. You are handed the wooden stick and told that if you hit the ball over the wall, you will win the game for them. Roll two dice. If the number rolled is equal to or less than your SKILL score, you hit the ball powerfully in the middle of the bat and watch it soar over the wall '(turn to 359). If the number rolled is greater than your SKILL score, the ball goes whistling by your midriff as you swing, and a voice behind you calls, 'You're out!' (turn to 266). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "359",
+        "2": "266"
     }
 },
 "169": {
-    "text": "txt ",
+    "text": "The blacksmith removes his gloves and wipes his hands on his apron before asking you what you want. You answer by asking if he makes anything besides horseshoes. He replies that in his spare time he enjoys making chaini.:+i! coats. In fact it has become quite a profitable sideline of his, especially in a place like Port Blacksand. He tells you in great detail of the skill and labour that goes into making one and finally inquires if you are interested in buying one. They are not cheap. If you wish to pay 20 Gold Pieces for a chainmail coat, turn to 46. If you wish to leave the stables without buying a coat, turn to 115. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "46",
+        "2": "115"
     }
 },
 "170": {
-    "text": "txt ",
+    "text": "The man sees you drawing your sword and snatches his battle-axe off the wall. He walks around the counter to fight you. JEWELLER SKILL 9 STAMINA 8 If you win, turn to 114. You may Escape by running out of the shop and west along the street (turn to 196). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "114",
+        "2": "196"
     }
 },
 "171": {
-    "text": "txt ",
+    "text": "The street gradually starts to run downhill. The houses end at a tavern called the Black Lobster and the street opens out on to a quayside. A stone jetty runs out to sea and tied to it is an old galleon. It is flying the skull and crossbones and is probably one of the many pirate ships that anchor in Port Blacksand to off-load their booty. Harbour Street turns right at the jetty and runs north parallel to the shore as far as you can see. If you wish to walk down the jetty to climb on board the ship, turn to 399. If you wish to walk north up Harbour Street, turn to 78. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "399",
+        "2": "78"
     }
 },
 "172": {
-    "text": "txt ",
+    "text": "You take the bunch of flowers out of your backpack and hand it to the Serpent Queen. She thanks you and hands youa tip of 2 Gold Pieces before showing you to the front door. Outside you set off north along Stable Street (turn to 333). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "333"
     }
 },
 "173": {
-    "text": "txt ",
+    "text": "The three old bearded Dwarfs are so involved with their game that they pay you no attention as you sit down at their table. Finally, one turns to you and asks if you would like to join in their game. If you wish to gamble some of your Gold Pieces, turn to 206. If you would rather leave the smoky tavern and walk north, turn to 296. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "206",
+        "2": "296"  
     }
 },
 "174": {
-    "text": "txt ",
+    "text": "Back at the entrance hole you may either climb up the ladder to the street in order to continue east (turn to 205) or, if you have not done so already, you may walk north along the sewer (turn to 356). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "205",
+        "2": "356"
     }
 },
 "175": {
-    "text": "txt ",
+    "text": "Slowly lifting the goblet, you are surprised to see a yellow scorpion underneath. It darts forward and tries to sting you on the hand with its poisonous tail. Test your Luck. If you are Lucky, the tail stabs the goblet (turn to 204). If you are Unlucky, the barb on its tail sinks into your hand (turn to 373). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "204",
+        "2": "373"
     }
 },
 "176": {
-    "text": "txt ",
+    "text": "You tell the worried bather that, despite your hatred for pirates, you will not harm him if he cooperates with you. You ask himif he has any of the items that 'you are searching for, but he replies that as captain of a pirate ship he does not need such things. You press the blade of your sword against his fat neck to make sure he is not lying. He looks terrified and assures you that he is telling the truth. Then he says, 'But 1 do know where you can get a silver arrow. Ben Borryman the silversmith will make anything in silver at a price. You will find him. in Clog Street.' Making a mental note of the information you leave the shivering captain alone in his room, locking the door behind you. Outside in the corridor you may either open the other door if you have not done so already (turn to 271) or leave the ship and continue your search of Port Blacksand by walking north up Harbour Street (turn to 78).",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "271",
+        "2": "78"
     }
 },
 "177": {
-    "text": "txt ",
+    "text": "You draw your sword and rush to help the old man. He is lying on the ground and the other two men are beating him and trying to take his leather bag. You call out and they turn and attack you. SKILL STAMINA First ROBBER 7, 8 Second ROBBER 8 6 Fight them one at a time. If you win, turn to 51. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "51"
     }
 },
 "178": {
-    "text": "txt ",
+    "text": "The archway leads into a large room in the centre of which crouches a human-like creature, some three metres tall. He looks very worried and is muttering to himself.-The lumps on his face are the distinguishing marks of an Ogre. Will you: Attempt to speak with him? Turn to 264 Attack him with your sword? Turn to 140 Leave the house to head north? Turn to 282 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "264",
+        "2": "140",
+        "3": "282"
     }
 },
 "179": {
-    "text": "txt ",
+    "text": "The silk curtains in front of the archway are pulled aside and a brown leather bag flies out and lands in front of you, making a dull jingling sound. If you wish to open the bag, turn to 16. If you wish to leave the house without opening the bag and continue north along Stable Street, turn to 333. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "16",
+        "2": "333"
     }
 },
 "180": {
-    "text": "txt ",
+    "text": "Ahead you hear the noisy clatter of galloping hooves on the cobblestones. You hear the noise of wooden wheels and an urging voice followed by the crack of a whip. Someone is rapidly approaching in a horse-drawn carriage; if you wish to see who it is, turn to 344. If you would rather hide out of sight behind a barrel and watch the carriage pass by, turn to 34. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "344",
+        "2": "34"
     }
 },
 "181": {
-    "text": "txt ",
+    "text": "The key fits the lock and the handle turns. Turn to 159. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "159"
     }
 },
 "182": {
-    "text": "txt ",
+    "text": "The lane ends at a small shop. On the glass-paned door is painted a sign: 'Jimmy Quicktint, Best Tattooist in Town'. A tiny bell rings as you push the door open and a fat man wearing purple silk smiles in greeting. You are surprised to see that his arms, hands, feet and even his face are completely covered in colourful tattoos. He grins and says, 'Practise what you preach!' You tell him that you require a yellow sun to be tattooed on your forehead witha white unicorn in the centre of it. He replies that itis a simple task but it will cost you 10 Gold Pieces. If you can afford his high price, turn to 279. If you cannot, turn to 354. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "279",
+        "2": "354"
     }
 },
 "183": {
-    "text": "txt ",
+    "text": "You are told that smoking mixture and a pipe costs 1 Gold Piece, and healing mixture costs 4 Gold Pieces per portion. You may: Buy some smoking mixture Turn to 366 Buy some healing mixture Turn to 167 Leave the shop and head north Turn to 93 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "366",
+        "2": "167",
+        "3": "93"
     }
 },
 "184": {
-    "text": "txt ",
+    "text": "Do you have any of Mrs Pipe's golden flowers? If you do, turn to 55. If not, turn to 308. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "55",
+        "2": "308"
     }
 },
 "185": {
-    "text": "txt ",
+    "text": "The suit of armour breaks up as it crashes on to the floor. It is no threat to you and you may either open the door in front of you (turn to 122) or walk back to the staircase and climb up to the next floor (turn to 207). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "122",
+        "2": "207"
     }
 },
 "186": {
-    "text": "txt ",
+    "text": "On top of the Lizardine's table you find 4 Gold Pieces and a scorpion brooch made of copper. If you wish to pick up the brooch and pin it to your tunic, turn to 387. If you would rather just take the gold, go back down the stairs and leave the house, heading north, turn to 334. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "387",
+        "2": "334"
     }
 },
 "187": {
-    "text": "txt ",
+    "text": "You tell the town guards that you have something special for them if they let the two of you go. They reply that the prisoner is a murderer and that you should not help him, but they insist that you bribe them or else you too will be taken to the jail. They say they are interested in any of the following items: magic armour, magic rings or magic potions. If you wish to give them one of the items they require, turn to 260. If you do not have any of the items that the guards require, turn to 341. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "260",
+        "2": "341"
     }
 },
 "188": {
-    "text": "txt ",
+    "text": "It is gloomy in the house but you can make out the shapes of abandoned furniture. Litter and rubble is strewn all over the floor. You find a broken chair and slump down in it to rest. Suddenly you notice something slither across the floor, and before you can get to your feet you see in the half-light that you are encircled by six snakes, each a metre long. If you wish to hack at them with your sword, turn to 253. If you would rather make a dash for the door, turn to 15.",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "253",
+        "2": "15"
     }
 },
-"189": {
-    "text": "txt ",
+    "189": {
+    "text": "You take aim with your bow and fire the arrow at the Spirit Stalker. The arrow plunges into its chest and the agonized look on the face of the Spirit Stalker tells you that the arrow has pierced its heart. It falls to the floor, and smoke starts to rise from its rotten flesh. Its mouth opens to release a deafening howl that echoes around the hallway and makes you shudder. Finally it is still, and you retrieve your silver arrow. You see that you are in a beautiful marble-floored hallway. On three of the four walls hang portraits of evil-looking men and women, but - on the far wall hang two iron shields. The crest on one is a tower, and on the other a unicorn. A spiral staircase leads up from the centre of the hallway to the floor above. Will you: Take the shield with the tower crest? Turn to125 Take the shield with the unicorn crest? Turn to 374 Climb the spiral staircase? Turnto 21 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "125",
+        "2": "374",
+        "3": "21"
     }
 },
 "190": {
-    "text": "txt ",
+    "text": "Sitting down at the table the men invite you to join in their game of pin-finger. You feel obliged to accept their challenge and take hold of a dagger offered to you. The men tell you that you must stick the point of the dagger back and forth between your fingers into the table top as fast as you can for a minute. If you manage not to stab yourself they will give you a magic item. If you do stab yourself you must give them 5 Gold Pieces. Roll two dice. If the number rolled is less than or equal to your SKILL score, you succeed (turn to 38). If the number rolled is greater than your SKILL, you are unable to control the fast movement of the dagger and stab one of your fingers. You toss 5 Gold Pieces on the table and stand up to leave the tavern. Outside you head north again (turn to 296). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "38",
+        "2": "296"
     }
 },
 "191": {
-    "text": "txt ",
+    "text": "You draw your sword to defend yourself against the advancing LEAF BEASTS. They all attack you at once, seemingly trying to crush and smother you. Treat the Leaf Beasts as a single creature. 'LEAF BEASTS SKILL 6 STAMINA 6 If you win, you run back to the turnstile still clutching the lotus and make your getaway into Stable Street (turn to 133). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "133"
     }
 },
 "192": {
-    "text": "txt ",
+    "text": "It is a drop of some five metres to the ground and you land heavily. Test your Luck. If you are Lucky, you escape injury and set off north again (turn to 304). If you are Unlucky, you twist your sword arm badly. Lose 1 SKILL point. Once again, you head north (turn to 304). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "304"
     }
 },
 "193": {
-    "text": "txt ",
+    "text": "If you have a Ring of Fire, it will be the best weapon against the Mummy (turn to 286). Otherwise you - must use your sword. MUMMY SKILL 7 STAMINA 12 If you win, turn to 163. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "286",
+        "2": "163"
     }
 },
 "194": {
-    "text": "txt ",
+    "text": "The smoke in the glass ball appears to vanish as you place it carefully in your backpack. Feeling slightly uneasy about your new treasure you set off east again (turn to 161). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "161"
     }
 },
 "195": {
-    "text": "txt ",
+    "text": "Which person will you say sent the flowers? You may: Tell her it is Lord Azzur Turn to 61 Tell her it is Mrs Pipe Turn to 268 Tell her it is Ben Borryman Turn to 53 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "61",
+        "2": "268",
+        "3": "53"
     }
 },
 "196": {
-    "text": "txt ",
+    "text": "You arrive at a four-way junction in the street. The street continuing west changes its name to Key Street, and the street running north and south is called Market Street. Looking north you see a crowd of people walking up the street cheering loudly and waving their arms in the air. You decide to follow them (turn to 148). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "148"
     }
 },
 "197": {
-    "text": "txt ",
+    "text": "On the next landing there is a door with a black tower carved in ebony attached to it. There is also a black suit of armour standing outside the door. Will you: Inspect the suit of armour? Turn to 301 Open the door? Turn to 122 Carry on up the stairs? Turn to 207 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "301",
+        "2": "122",
+        "3": "207"
     }
 },
 "198": {
-    "text": "txt ",
+    "text": "You look around at the rest of the crowd but they remain seated out of respect for your swordsmanship. You search through the dirty clothing of the Goblins and find 9 Gold Pieces and a small carved ivory skull on a silver chain. You take your findings and leave the tavern to head north (turn to 296). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "296"
     }
 },
 "199": {
-    "text": "txt ",
+    "text": "You tell the town guards that you are a bounty hunter. They seem pleased that you have caught their wanted man. The chief guard walks over to you and hands you 5 Gold Pieces, saying, 'This murderer won't escape again. Here's your reward.' He then rejoins the other guards who are busy chaining up the escaped murderer. You decide to head quickly north in case the murderer tries to implicate you (turn to 222). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "222"
     }
 },
 "200": {
-    "text": "txt ",
+    "text": "In the next stall area there is a small, brightly coloured tent. Attached to it is a small sign which reads, 'Madame Star, Clairvoyant'. If you wish to enter the tent, turn to 394. If you would rather continue north, turn to 117. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "394",
+        "2": "117"
     }
 },
 "201": {
-    "text": "txt ",
+    "text": "Following Nicodemus's map, you start your long walk north to the guarded tower of Zanbar Bone, the Night Prince. You walk through woods and fields. You are able to relax a little in the pleasant countryside and breathe the fresh air with its wonderful scents. As the light fades you decide to camp under a huge elm tree. You cook a meal of stewed rabbit and mushrooms before settling down to along, deep sleep (add 2 STAMINA points). In the morning you look around for a yew tree and cut a long branch from it with which you make a bow to fire the silver arrow. As you test the bow for accuracy, you are suddenly aware of a white dove sitting on a low branch near by. There is a small piece of paper attached to its foot which it lets you remove without flying off. There is a message on the paper which reads: Dear Friend, I am afraid I must be getting too old to be of use to anybody. I regret that I have misinformed you about the compound needed to kill Zanbar Bone. You must use only two of the three ingredients I told you, but I cannot remember which two. I can only suggest you try Hag's hair and black pearls together, or the Hag's hair and lotus flower together, or the black pearls and lotus flower together. Apologies. Good luck, N. You throw the message on the ground and curse. You change your mind a dozen times before making a decision. Finally you make your choice, and grind the two ingredients together on a flat stone. You place the compound in a leather pouch, hoping you have made the correct decision. You set off again, but it is not long before your surroundings ' become less welcoming, the trees are twisted or stunted and there are no birds to be heard - you must be approaching the domain of the Night Prince. Suddenly to your left you hear rustling and grunting in the bushes. It is a wandering monster which has been attracted by your scent. Roll one die and consult the table below to see what creature has appeared. Fight this creature as usual. Die roll Creature SKILL STAMINA ORC 5 GIANT SNAKE 6 WOLF 5 PYGMY 4 APE MAN 7 AW BNRCAVE TROLL 8 DAU NFA If you win, turn to 138.",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "138"
     }
 },
 "202": {
-    "text": "txt ",
+    "text": "The guard replies that he will send for an escort to take you to Nicodemus. He reaches up to a small bell on the wall of the guardhouse and rings it three times. Almost immediately two other guards come running out of the house, and you are surprised when they each grab hold of one of your arms. The guard with the pike looks up to the sky and laughs, saying, 'So you want to see Nicodemus, do you? How would you like to see the inside of a dungeon cell instead? Guards, take this fool away to be shackled, and throw away the key.' Will you: Allow yourself to be taken away? Turn to 151 Attempt to fight the guards? Turn to 69 Try to bribe the guards? Turn to 276 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "151",
+        "2": "69",
+        "3": "276"
     }
 },
 "203": {
-    "text": "txt ",
+    "text": "Zanbar Bone walks towards you, trying to touch _ your exposed skin. You throw down your sword _ and notch the silver arrow to your bow. You have _ only one chance. You take aim and release the bow- _ string. Test your Luck. If you are Lucky, the arrow finds its mark and pierces the Night Prince through his robed chest (turn to 244). If you are Unlucky, the arrow misses the Night Prince and he advances to touch your arm. His skeletal fingers are draining your life away. You are now one of his undead servants. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "244",
+        "2": "GAME OVER"
     }
 },
 "204": {
-    "text": "txt ",
+    "text": "You drop the goblet and pull your hand away. The scorpion scurries a metre across the floor before you step on it with your boot. If you have not done so already, you may lift goblet B (turn to 209) or goblet C (turn to 43). If you have lost interest in the goblets, you may either walk through the archway (turn to 107) or climb the stairs (turn to 60). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "209",
+        "2": "43",
+        "3": "107",
+        "4": "60"
     }
 },
 "205": {
-    "text": "txt ",
+    "text": "After replacing the manhole cover you set off east again. Everything seems a little too quiet and you begin to feel nervous. Ahead you see that Stable _ Street turns sharply to the left. If you wish to walk -round the corner, turn to 44. If you wish to walk back to the junction and turn right into Tower Street, turn to 127. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "44",
+        "2": "127"
     }
 },
 "206": {
-    "text": "txt ",
+    "text": "The Dwarf explains that they are playing a simple winner-takes-all dice game. The stakes are 2 Gold Pieces. Each person will stake 2 Gold Pieces and roll two dice. The person rolling the highest number |collects the 8 Gold Pieces. To play, roll two dice. three times for the three Dwarfs and make a note of each total. Next, roll two dice for yourself. If your own total is higher than each of the other three totals, you win 6 Gold Pieces from the Dwarfs. If the |total is less than any of the other three totals, you |lose 2 Gold Pieces. You may play four times if you -wish to before the Dwarfs get bored and leave the tavern. At the end of the game you leave the tavern yourself to head north (turn to 296). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "296"
     }
 },
 "207": {
-    "text": "txt ",
+    "text": "The staircase ends at a door. You turn the handle slowly and the door opens, much to your surprise, into open air. You walk outside on to the flat roof of the tower. Suddenly you are aware of movement in the sky and look up to see two large birds in the moonlight with long beaks and talons swooping down on you. There is no time to run for cover, and you must fight the DEATH HAWKS. SKILL STAMINA First DEATH HAWK 4 5 Second DEATH HAWK 4 4 Fight them one at a time. If you win, turn to 314. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "314"
     }
 },
 "208": {
-    "text": "txt ",
+    "text": "The Goblin's pockets contain 2 Gold Pieces, a clove | of garlicand some old knucklebones. Take what you wish and head east again along Clog Street (turn to 317). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "317"
     }
 },
 "209": {
-    "text": "txt ",
+    "text": "Underneath the goblet lies a small pile of Gold Pieces. You count 12 in all and put them in your backpack. If you have not done so already, you may lift goblet A (turn to 175) or goblet C (turn to 43). If you are not interested in the goblets, you may either walk through the archway (turn to 107) or climb the stairs (turn to 60). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "175",
+        "2": "43",
+        "3": "107",
+        "4": "60"
     }
 },
 "210": {
-    "text": "txt ",
+    "text": "Her gaze is so hypnotic that you are unable to look away. You are defenceless and cannot resist as she embraces you and slowly sinks her fangs into your neck to drink your blood. You drift into an unconscious sleep, and when you awake you are unaware of your previous existence - you have become a Vampire yourself! ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "GAME OVER"
     }
 },
 "211": {
-    "text": "txt ",
+    "text": "The plums are sweet and juicy and taste delicious. Add 1 STAMINA point. You wipe your mouth with the back of your hand and continue west (turn to 307). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "307"
     }
 },
 "212": {
-    "text": "txt ",
+    "text": "You are relieved that the noise of your fight did not attract any more guards, but not wishing to tempt providence you dash into the city (turn to 74). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "74"
     }
 },
 "213": {
-    "text": "txt ",
+    "text": "A man wearing a white apron is sitting at a bench busily polishing a silver goblet. There are several silver objects in a glass cupboard secured by an iron grill at the back of the shop. You may: Talk to the silversmith Turn to 248 Attack him with your sword Turn to 135 Leave the shop and continue east Turn to 100 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "248",
+        "2": "135",
+        "3": "100"
     }
 },
 "214": {
-    "text": "txt ",
+    "text": "As soon as you touch the battle-axe, the Suit of Armour starts to move. In a series of quick, jerky movements it swings the battle-axe in an attempt to strike you. Test your Luck. If you are Lucky, you manage to jump back out of reach of the swinging axe (turn to 158). If you are Unlucky, the blade cuts into your left arm (turn to 379). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "158",
+        "2": "379"
     }
 },
 "215": {
-    "text": "txt ",
+    "text": "The lizard-like creature starts to speak in a low, hissing voice by asking whether you would like to buy one of its famous scorpion brooches. If you wish to buy one, turn to 315. If you would rather refuse politely, go back down the stairs and leave the house to head north, turn to 334. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "315",
+        "2": "334"
     }
 },
 "216": {
-    "text": "txt ",
+    "text": "Clog Street is very narrow and lined with terraced cottages and the occasional shop. To your left you see what looks like a small boy lying face down on the cobblestones, groaning loudly. A hood is pulled over his head and you cannot see his face. A wooden hoop and stick lie by his side. If you wish to stop to help, turn to 72. If you would rather walk on, turn to 317. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "72",
+        "2": "317"
     }
 },
 "217": {
-    "text": "txt ",
+    "text": "You walk all day until you reach the hill shown on Nicodemus's map upon which the Night Prince's tower stands. All is quiet and there is an unpleasant smell of decay in the air. Shadows start to creep along the ground as the moon rises into the night sky and you see the foreboding silhouetted shape of Zanbar Bone's tower pointing up into the sky like a black finger. You check all your possessions before drawing your sword and marching towards the arched wooden entrance door. Suddenly you hear a shrill howl and swing round to see two pairs of eyes staring at you. They belong to MOON DOGS, Zanbar Bone's trained killer hounds. Fight them one ata time. SKILL STAMINA First MOON DOG 9 10 Second MOON DOG 11 9 If you win, turn to 259. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "259"
     }
 },
 "218": {
-    "text": "txt ",
+    "text": "The Dwarf smiles and extends his arm to you, saying, 'An enemy of Nicodemus is a friend of mine. Welcome stranger.' You tell Wraggins that you do not know where Nicodemus lives and he explains that the wizard lives alone in a small hut under Singing Bridge, which crosses Catfish River to the old part of the city and harbour. He explains that the bridge is in the middle of the city and that most streets lead to it. You thank the Dwarf for his information and leave his shop to continue west along Key Street (turn to 300). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "300"
     }
 },
 "219": {
-    "text": "txt ",
+    "text": "The larger of the two Trolls tells you that his name is Sourbelly and it is his duty to track down unwelcome visitors to Port Blacksand. He looks at the pass and says, 'You don't look much like a merchant to me. Are you one of those fancy folk who have been attending the spice sales in Pepper Street?' If you wish to answer 'Yes', turn to 150. If you wish to answer 'No', turn to 393. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "150",
+        "2": "393"
     }
 },
 "220": {
-    "text": "txt ",
+    "text": "The key fits the lock securing the grill enclosing the glass cupboard. It clicks open and you are able to 'take any of the items you wish. You find nothing else of interest in the shop, so you walk outside and continue east (turn to 100). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "100"
     }
 },
 "221": {
-    "text": "txt ",
+    "text": "The alley is narrow and dark and runs south some twenty metres before coming toa dead end ata wall. The Dwarfs are nowhere to be seen. You start walking slowly back up the alley when suddenly a large net falls on you from above. It is weighted and you stumble to the ground, completely entangled. Then you become aware of the three Dwarfs standing above you, chuckling to themselves. Their hands reach through the netting and you watch helplessly as they rummage through your backpack. They seem interested only in your gold. Eventually they walk off and leave you to wriggle free. You have lost all your gold. Lose 2 LUCK points. Returning to the street, you turn left and head west (turn to 396). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "396"
     }
 },
 "222": {
-    "text": "txt ",
+    "text": "On the right-hand side the houses are separated from the street by a wooden fence with shrubs, trees, bushes and flowers behind it. There is a turnstile in the middle of the fence, by the side of which is a sign reading: 'Public Gardens. Entry Fee 1 Gold Piece'. If you wish to go into the gardens, turn to 370. If you would rather keep on walking, turn to 133. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "370",
+        "2": "133"
     }
 },
 "223": {
-    "text": "txt ",
+    "text": "Sweat breaks out on your forehead - you choose a pill and swallow it. Roll one die. If you roll any number between 2 and 6, you have chosen a harmless pill. The man reaches into a pouch on his cord belt and hands you 20 Gold Pieces. He then bids you farewell and tells you to come back soon. You leave the room and walk back up the alley to Candle Street (turn to 165). A roll of 1 means you die quickly from the poisoned pill and your adventure ends here. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "165",
+        "2": "GAME OVER"
     }
 },
 "224": {
-    "text": "txt ",
+    "text": "Sitting on a stool at the back of the shop is an old bespectacled Dwarf. He is busy cutting a key ona cast-iron treadle machine which squeaks and grinds noisily. You cough to get his attention, but he does not look up from his work. Finally the machine comes to a halt and the Dwarf asks you what you want. You may either ask him if he has any skeleton keys for sale (turn to 66) or ask him if he knows where Nicodemus lives (turn to 236). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "66",
+        "2": "236"
     }
 },
 "225": {
-    "text": "txt ",
+    "text": "Each VAGABOND boasts that he can-kill you singlehanded. They decide to fight you one at a time. SKILL STAMINA First VAGABOND 7, 5 Second VAGABOND 6 iy: Third VAGABOND 5 6 If you win, turn to 397. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "397"
     }
 },
 "226": {
-    "text": "txt ",
+    "text": "You manage to break free from the pirate's grip and draw your sword. You step backwards towards the door as the PIRATES leap from their bunks to grab their cutlasses. The room is cramped and you fight them one at a time. SKILL STAMINA First PIRATE 6 6 Second PIRATE 5 4 Third PIRATE 7 4 If you win, turn to 111. You may Escape by backing out through the door and fleeing from the ship north up Harbour Street (turn to 78). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "78"
     }
 },
 "227": {
-    "text": "txt ",
+    "text": "The street soon makes another sharp turn to the right and you find yourself walking east. Outside one of the houses to your left is a pile of rubbish and broken objects. On top of the pile is a pair of old boots that look about your size. If you wish to try them on, turn to 362. If you wish to keep walking east, turn to 103. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "362",
+        "2": "103"
     }
 },
 "228": {
-    "text": "txt ",
+    "text": "The key fits the lock, which clicks open as you turn . it. You open the door and enter a beautiful marblefloored hallway. On three of the four walls hang portraits of evil-looking men and women, but on the far wall hang two iron shields. The crest on one is a tower and on the other a unicorn. A spiral staircase leads up from the centre of the hallway to a floor above. Will you: Take the shield with the tower crest? Turn to 125 Take the shield with the unicorn crest? Turn to 374 Climb the spiral staircase? Turn to 21",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "125",
+        "2": "374",
+        "3": "21"
     }
 },
 "229": {
-    "text": "txt ",
+    "text": "As you advance towards him the man swallows the key and throws the egg at you. Test your Luck. If you are Lucky, the egg misses you and breaks against a wall to release a green-coloured gas (turn to 23). If you are Unlucky, the egg breaks against your chest and you breathe in some of the green-coloured gas released (turn to 343). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "23",
+        "2": "343"
     }
 },
 "230": {
-    "text": "txt ",
+    "text": "You scratch around in the cracks in the wall and find a loose stone. The old man watches intently as you pull the stone out of the wall. Peering into the hole you see an iron key. You place it in the lock of your cell and are amazed to feel it turn. Add 1 Luck point. With the cell door open you put the key back in the hole in the wall and replace the stone. You leave your cell and pick up your sword off the table. Then you call out to the guards, telling them that you think they are stupid and that you have seen more life on a Troll's breakfast plate than in them. Quickly provoked, the GUARDS rush down the stairs and are surprised to see you waiting for them, sword drawn. You fight them one ata time. SKILL STAMINA First CITY GUARD Of: 6 Second CITY GUARD 7 5 If you win, you climb the stairs (turn to 54).",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "54"
     }
 },
 "231": {
-    "text": "txt ",
+    "text": "Outside on the landing you may either enter the black door (turn to 96) or walk back to the stairs to climb up to the next floor (turn to 197). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "96",
+        "2": "197"
     }
 },
 "232": {
-    "text": "txt ",
+    "text": "The door opens into a small room, in the centre of which stands a steaming tub of hot water. If you wish to hide behind the door inside the room to see who is about to take a bath, turn to 12. If you would rather close the door, turn to 383. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "12",
+        "2": "383"
     }
 },
 "233": {
-    "text": "txt ",
+    "text": "The sparkling water is refreshing but not as medicinal as the small boy claimed. Add 1 STAMINA point to your total. You shake your fist at the boy in mock anger, and set off north (turn to 247). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "247"
     }
 },
 "234": {
-    "text": "txt ",
+    "text": "The tiny man smiles and says, 'Ah well, if that's all you want, then that's simple enough. He's on the fourth floor in the room with the black door.' Then he waves his arms at you and disappears in a small puff of smoke. You stand up and walk back down the stairs to the floor where there are two doors adjacent to each other on the landing. You breathe in deeply and turn the handle of the black door (turn to 96).",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "96"
     }
 },
 "235": {
-    "text": "txt ",
+    "text": "You decide not to risk any further possible danger to yourself and crawl out of the room. You stand up, walk over to the staircase and climb up to the next floor (turn to 65). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "65"
     }
 },
 "236": {
-    "text": "txt ",
+    "text": "Your question produces a suspicious look on the face of the Dwarf and he raises one eyebrow. Then he says, 'I know Nicodemus but what do you want of him?' You may reply by telling him either that you are on a mission from Silverton and need the help of Nicodemus (turn to 57), or that you want to kill Nicodemus (turn to 218). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "57",
+        "2": "218"
     }
 },
 "237": {
-    "text": "txt ",
+    "text": "You rub the jewel in the ring and point it at the Leaf Beasts. A blast of fire shoots out of the ring and burns a large hole in the nearest Leaf Beast. It makes a whistling cry and backs away. You seize your opportunity and dash through their broken defence. You run to the turnstile clutching the lotus and make your escape into Stable Street (turn to 133). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "133"
     }
 },
 "238": {
-    "text": "txt ",
+    "text": "On the right side of the street you see a small alleyway between two houses. The alley soon ends at a doorway with six skulls painted on it; one black and five white. If you wish to walk down the alley and open the door, turn to 27. If you would rather continue east, turn to 139. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "27",
+        "2": "139"
     }
 },
 "239": {
-    "text": "txt ",
+    "text": "Behind you comes the sound of running feet. You look round and see a group of town guards chasing after you. As you stop to think where to run next, a boy runs out of a house and shouts, 'Follow me!' You have no better plan in mind so you run after him. The boy races down to the bottom of Mill Street and turns left into Goose Street. He stops at a cart laden with hay and starts to talk frantically to a kind-faced old man, saying, 'Uncle! Uncle! This brave person killed Sourbelly. We must help him to _ escape.' The old man speaks calmly to the boy, saying, 'Indeed we owe our friend a favour. Quick, jump into the cart.' You climb into the cart and cover yourself with hay. You lie completely motionless as you hear the running guards approach. They stop to speak to the old thatcher, but he sends them run- _ ning off down Goose Street. After they are gone he whispers to you that he will take you to safety. You hear him climb on to the cart and urge his horse into a slow trot. The cart bounces noisily along the cobbled street but you feel comfortable in the hay. The cart stops and starts a few times, and you hear questioning voices. About half an hour later the cart stops again and the thatcher calls out, “You can come out now.' You poke your head out of the hay and are surprised to see that you are on the edge of a wood. To the west you can see the daunting shape of Port Blacksand. You jump out of the cart and thank the thatcher for his trouble. He says goodbye to you and wheels his cart round to return to Port Blacksand. Do you have all the items required to slay the Night Prince, and have you been tattooed? If you have, turn to 201. If you are missing any of the items, or have not been tattooed, turn to 299.",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "201",
+        "2": "299"
     }
 },
 "240": {
-    "text": "txt ",
+    "text": "The man hands you the gold and puts the gems under the counter. If you now wish to inquire about the price of his rings, turn to 36. If you have had enough of transactions for the time being, you leave the shop and head west (turn to 196). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "36",
+        "2": "196"
     }
 },
 "241": {
-    "text": "txt ",
+    "text": "Inside the shop you see a tall, thin man with pointed ears and fair hair, pouring hot wax from an iron pan into a mould. The candle-maker is an Elf. As he turns to you to speak, you notice his slanted eyes, which are ice blue. For some reason they appear very cold to you. He tells you that all his coloured candles cost 1 Gold Piece each. You may buy as many as you wish. He then asks you if you would like to see one of his magic candles in the back room. If you wish to see one, turn to 63. If you would rather leave the shop and head east, turn to 280. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "63",
+        "2": "280"
     }
 },
 "242": {
-    "text": "txt ",
+    "text": "The boy hurriedly picks up his barrow and dashes off, saying he is late for market. You eat an apple but it is sour. Your stomach starts to hurt and the pain develops into cramp. You do not feel very well at all. Lose 1 STAMINA point. You throw the other apples away and continue west (turn to 307). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "307"
     }
 },
 "243": {
-    "text": "txt ",
+    "text": "“You have suffered a terrible burn. Lose 5 STAMINA points. If you are still alive, you decide to lie still and feign death. Behind you the fat man is still chortling to himself. You hear him walk over to you and then feel a sharp pain as he kicks you in the ribs. Satisfied that you really are dead, he walks up the stairs. In considerable pain, you crawl along the floor to the door. Without making a sound you crawl outside. Hauling yourself to your feet you stagger off up the street (turn to 304). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "304"
     }
 },
 "244": {
-    "text": "txt ",
+    "text": "The Night Prince is paralysed, but not for long. He can summon unearthly powers to defend himself, and you must act quickly. What compound will you rub into his eyes? Will you try: Hag's hair and black pearls? Turn to 9 Black pearls and lotus flower? Turn to 129 Lotus flower and Hag's hair? Turn to 337 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "9",
+        "2": "129",
+        "3": "337"
     }
 },
 "245": {
-    "text": "txt ",
+    "text": "You enter a large room with brown walls and a straw-covered floor. There is a musty smell hanging in the air which reminds you of the dirty old Cave Trolls that live on the northern borders. In the middle of the room is a table made from half a barrel with some roughly made stools round it. A high archway leads through the room to the back of the house, from where you hear a low murmuring voice. If you want to walk through the archway, turn to 178. If you wish to leave the house and continue north, turn to 282. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "178",
+        "2": "282"
     }
 },
 "246": {
-    "text": "txt ",
+    "text": "As you walk warily down the narrow cobbled street, you are suddenly confronted by a little old man who dashes out of one of the houses. He pulls a dirty bottle out of a canvas bag. As he speaks, you can't help staring at the large wart on his nose, with its tuft of hair. He smiles and asks if you would like to pay 2 Gold Pieces for a drink of his wonderful healing potion. If you wish to pay fora drink, turn to 98. If you would rather keep going east, turn to 363.",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "98",
+        "2": "363"
     }
 },
 "247": {
-    "text": "txt ",
+    "text": "The street makes a sharp turn to the left and continues west for some distance. Turning the corner, you are suddenly jumped on by three short, stocky assailants who were hiding down an alley. Two grab your legs and one tries to knock you out witha cudgel. Test your Luck. If you are Lucky, you manage to duck to avoid the blow (turn to 384). If you are Unlucky, the cudgel lands heavily on the back of your head, knocking you unconscious (turn to 134). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "384",
+        "2": "134"
     }
 },
 "248": {
-    "text": "txt ",
+    "text": "You ask Ben Borryman if he has any silver arrows for sale. He replies that he does not, but will make one for you at a cost of 10 Gold Pieces or two magic items. If you can afford his asking price, turn to 85. If you cannot afford to pay the price, turn to 42. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "85",
+        "2": "42"
     }
 },
 "249": {
-    "text": "txt ",
+    "text": "The Serpent Queen's head darts about you very quickly as she tries to bite you with her poisonous fangs. She will be difficult to defeat. SERPENT QUEEN SKILL 9 STAMINA 7 If you win, turn to 295. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "295"
     }
 },
 "250": {
-    "text": "txt ",
+    "text": "A small bell rings as the door opens and a creature wearing a brown apron over his clothing hurries through the archway from the back room into the shop to stand behind the counter. He appears human-like but has very ugly facial features and pointed teeth. You realize he is a crossbreed, half man, half orc. A sharp hand-axe hangs from his belt to remind you that Port Blacksand is unlikely to be a friendly place in which to do business. Will you: Inquire about the herbs? Turn to 183 Ask if the Man-Orc knows of Nicodemus? Turn to 342 Attack the Man-Orc? Turn to 5 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "183",
+        "2": "342",
+        "3": "5"
     }
 },
 "251": {
-    "text": "txt ",
+    "text": "One of the small people stops and looks down at you. He mistakes you for a town guard and calls out to his accomplices to run for cover. Then he points a short crossbow at you and fires a bolt. Test your Luck. If youare Lucky, the bolt thuds into the ground at your feet (turn to 269). If you are Unlucky, the bolt lodges deeply in your shoulder (turn to 330).xt ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "269",
+        "2": "330"
     }
 },
 "252": {
-    "text": "txt ",
+    "text": "The carriage is not going to stop! Suddenly the four horses, their eyes wide with terror, are almost on top of you. You must dive to one side to avoid being run down. Test your Luck. If you are Lucky, you escape injury from the horses as you land in the gutter (turn to 275). If you are Unlucky, you are trampled underfoot by one of the horses (turn to 155). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "275",
+        "2": "155"
     }
 },
 "253": {
-    "text": "txt ",
+    "text": "The SNAKES are not very tough opponents for a person trained in the art of swordsmanship. Treat them as a single creature. However, each Attack Round that they inflict a wound on you, 4 points must be subtracted from your STAMINA score because of their poisonous bite. SNAKES SKILL 5 STAMINA 5 If you win, you may leave the house by the front door (turn to 75). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "75"
     }
 },
 "254": {
-    "text": "txt ",
+    "text": "A horrified look spreads across the Vampire's face when she sees the clove of garlic in your hand. She retreats into a corner of the room trying to escape the pungent smell, which negates her blood- 'sucking powers. You back out of the room taking the key to the door with you, and lock it from the outside. You then run over to the staircase and climb the stairs to the next floor (turn to 310). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "310"
     }
 },
 "255": {
-    "text": "txt ",
+    "text": "The guards eye you suspiciously but let you walk on after seeing your pass. You walk on quickly north (turn to 227). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "227"
     }
 },
 "256": {
-    "text": "txt ",
+    "text": "The houses on the right-hand side of the street are small and weather-beaten. Old women sit outside on the front steps cleaning fish and mending fishing nets. They are large and jolly, talking to each other and frequently rolling about, bellowing with laughter. The fishermen do not appear to be at home. The street and the quayside come to an end at a great iron anchor. You turn round and walk back towards the junction. If you wish to stop to talk with the women, turn to 320. If you wish to ignore them and walk straight back to the junction, turn to 369. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "320",
+        "2": "369"
     }
 },
 "257": {
-    "text": "txt ",
+    "text": "If you are wearing the Ring of the Golden Eye, turn to 385. If not, turn to 70. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "385",
+        "2": "70"
     }
 },
 "258": {
-    "text": "txt ",
+    "text": "Stepping over the Fire Imp, you walk back to the stairs to see if its master is still in the house. You descend the stairs slowly, sword drawn. When you reach the bottom you are somewhat surprised to see a fat man, richly dressed, sitting in an ornate chair looking directly at you. He appears very relaxed, quite unperturbed by your drawn sword. Then he speaks, slowly and coldly, saying, 'For killing my pet you shall pay with your life.' He raises his right hand in the air and from his outstretched fingers shoot ragged white bolts of lightning. If you are wearing an ivory skull around your neck, turn to 318. If you do not have this item, turn to 47.",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "318",
+        "2": "47"
     }
 },
 "259": {
-    "text": "txt ",
+    "text": "You wipe the blood from your sword and walk to the wooden door. You try the handle, but it is locked. If you have a skeleton key, turn to 228. Otherwise you may either pull on a cord hanging down in front of the door (turn to 4) or attempt to charge the door open with your shoulder (turn to 365). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "228",
+        "2": "4",
+        "3": "365"
     }
 },
 "260": {
-    "text": "txt ",
+    "text": "The guards take their bribe and let you go. As you walk north you hear the angry shouts of the captured murderer behind you. You hurry onin case he tries to implicate you (turn to 222). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "222"
     }
 },
 "261": {
-    "text": "txt ",
+    "text": "'This city is ruled by Lord Azzur and he is a mean man. When you preside over the chaotic inhabitants of Port Blacksand you have to be mean. And he's the meanest. I should warn you that if you are found without a pass, you are as good as dead. I would get one if I were you, pretty quickly.' He then makes a sweeping gesture of the arm and you walk past him into the city (turn to 74). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "74"
     }
 },
 "262": {
-    "text": "txt ",
+    "text": "Wiping the foul-tasting soup from your lips with the back of your hand, you storm out of the house, leaving the crazy ladies to their argument. Once outside you set off east again (turn to 375).",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "375"
     }
 },
 "263": {
-    "text": "txt ",
+    "text": "Despite the light from the burning lanterns on the landing, you are unable to see anything inside the room; it is completely black. If you have a golden owl, turn to 153. If you do not, turn to 281. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "153",
+        "2": "281"
     }
 },
 "264": {
-    "text": "txt ",
+    "text": "Before you are able to speak a word, the Ogre's voice booms out, saying, 'Somebody has stolen all my food. Will you give me some of yours?' If you wish to give the Ogre some of your food, deduct 2 from the Provisions on your Adventure Sheet and turn to 121. If you wish to refuse his request, turn to SOT ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "121",
+        "2": "357"
     }
 },
 "265": {
-    "text": "txt ",
+    "text": "With your sword still dripping with the blood of the Rats you walk further along the tunnel. The ledge you are walking along is narrow and slippery, and you have to tread carefully so as not to fall into the slow-flowing sewage channel. The tunnel gradually bends round to the right and as you follow it round, the silence is suddenly shattered by the sound of running feet and a wailing scream. Coming straight at you, wild-eyed, with flailing arms and contorted face, uttering demon sorcery, is a white-haired old woman dressed in rags. She is a Hag. Do you possess a Potion of Mind Control? If you have this item, turn to 82. If you do not, turn to 390. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "82",
+        "2": "390"
     }
 },
 "266": {
-    "text": "txt ",
+    "text": "The Bays on your side are angry with you for losing the match. Some of their supporters rush over and start to jostle you. By the time you manage to drag yourself over to the wall, everyone in the arena seems to have pushed you around. Lose two items from your backpack. Eventually you climb back over the wall and walk to the junction to head west along Harbour Street (turn to 91). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "91"
     }
 },
 "267": {
-    "text": "txt ",
+    "text": "The two guards holding you look at each other and then at the other guard for a decision. He nods at them and they release their grip on you. As you pay him the 10 Gold Pieces he gives you a piercing look, saying, 'If Lord Azzur finds out that you are in the city without a pass, you're as good as dead. And as for Nicodemus, find him yourself.' Suppressing an urge to draw your sword, you turn and walk into the city. Turn to 74.",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "74"
     }
 },
 "268": {
-    "text": "txt ",
+    "text": "The silk curtains in front of the archway are pulled aside and a strange creature steps into the room. It has a snake's head, which sits oddly on the shoulders of a young woman wearing a lavish gown. Its mouth opens and a forked tongue darts in and out as the Serpent Queen starts to accuse you, shouting, 'I ordered no flowers from Mrs Pipe, and she certainly would not send any as a gift. What trickery is this, rogue?' You start to panic, deciding what to do next. If you wish to run to the front door, turn to 32. If you wish to draw your sword to attack the Serpent Queen, turn to 249. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "32",
+        "2": "249"
     }
 },
 "269": {
-    "text": "txt ",
+    "text": "The little man with the crossbow curses before run- ning into the building on your left. There does not appear to be an easy way to catch him, so you walk under the bridge and continue east (turn to 30). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "30"
     }
 },
 "270": {
-    "text": "txt ",
+    "text": "As you draw your sword the innkeeper lets out a loud whistle. A trap-door behind the bar flies open and you hear low grunting. An ugly head pops up through the door and you watch as the large green body of a TROLL emerges from a cellar. He is carrying a wooden club. The innkeeper points at you and the Troll lumbers slowly round the bar swinging his club in the air. All the tavern's customers start to chant, 'Fight! Fight! Fight!' and stand up to form a ring round you and the Troll. You are forced to fight. TROLL SKILL 8 STAMINA 8 If you manage to kill the Troll, turn to 26. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "26"
     }
 },
 "271": {
-    "text": "txt ",
+    "text": "Asleep in their bunks are three pirates. Their room is small and contains only clothing and a few personal possessions. It looks as if the pirates have been drinking and gambling - there is an uncorked bottle of rum, a mug and a pack of cards on top of a barrel in the centre of the room. You see that one of the pirates is wearing a small leather pouch around his neck. If you wish to creep up and try to cut it loose, turn to 162. If you would rather close the door again, and not take any risks, turn to 284. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "162",
+        "2": "284"
     }
 },
 "272": {
-    "text": "txt ",
+    "text": "You manage to squeeze yourself between the dead Centipede and the roof of the tunnel. You walk further down the tunnel and see that it ends at an iron grill through which the sewage water runs. If you wish to try to remove the grill, turn to 377. If you wish to walk back to the entrance hole, turn to 174. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "377",
+        "2": "174"
     }
 },
 "273": {
-    "text": "txt ",
+    "text": "Inspecting the scorpion you see that it is a brooch. You decide to pin it to your leather tunic. It isa lucky charm. Add 2 Luck points to your total. What will you do next? You may, if you have not already done so, pick up the silver scorpion (turn to 13). If you would rather ignore it, you may either climb the stairs (turn to 8e), or leave the house and head north (turn to 334). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "13",
+        "2": "80",
+        "3": "334"
     }
 },
 "274": {
-    "text": "txt ",
+    "text": "The guards are pleased that you have caught their wanted man. They tell you that he is an escaped murderer. The chief guard hands you 5 Gold Pieces, saying, 'Here's your reward. But you won't be getting another one - he won't escape again.' You watch for a short while as they lead the shouting murderer away, before continuing north along Stable Street (turn to 222). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "222"
     }
 },
 "275": {
-    "text": "txt ",
+    "text": "You stand up and brush yourself down, thinking that you would like to meet this Lord Azzur another day. The carriage races out of view and you set off west again (turn to 171). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "171"
     }
 },
 "276": {
-    "text": "txt ",
+    "text": "You tell the guards that you will make it worth their while if they release you and allow you entry into the city. How much will you offer them? Five Gold Pieces? Turn to 109 Ten Gold Pieces? Turn to 267 Fifteen Gold Pieces? Turn to 41 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "109",
+        "2": "267",
+        "3": "41"
     }
 },
 "277": {
-    "text": "txt ",
+    "text": "You walk quickly over to the staircase and climb up to the next floor (turn to 207). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "207"
     }
 },
 "278": {
-    "text": "txt ",
+    "text": "Although many of the items in the room are extremely valuable, they are not of much use to you on your quest. However, something strange catches your eye. On a mahogany card table lie three upturned silver goblets. One is inscribed with the letter A, another with B and another with C. Will you: Pick up goblet A? Turn to 175 Pick up goblet B? Turn to 209 Pick up goblet C? Turn to 43 Walk through the archway? Turn to 107 Climb the stairs? Turn to 60 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "175",
+        "2": "209",
+        "3": "43",
+        "4": "107",
+        "5": "60"
     }
 },
 "279": {
-    "text": "txt ",
+    "text": "He takes the money and motions you to sit down on a wooden stool. After a long and painful process of repeatedly pricking your forehead with a sharp needle he applies the indelible inks. You look in a mirror on the wall and find your new appearance somewhat strange. You shrug your shoulders and leave the shop; you then walk back up the lane and turn left into Mill Street (turn to 307). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "307"
     }
 },
 "280": {
-    "text": "txt ",
+    "text": "Further along the street on the left is another shop. A sign outside reads 'Ben Borryman, Silversmith'. If you wish to enter the shop, turn to 213. If you would rather keep going east, turn to 100. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "213",
+        "2": "100"
     }
 },
 "281": {
-    "text": "txt ",
+    "text": "If you wish to grope your way into the room, turn to 391. If you wish to walk back to the staircase to climb to the next floor, turn to 65. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "391",
+        "2": "65"
     }
 },
 "282": {
-    "text": "txt ",
+    "text": "On the right-hand side of the street you see a large wooden barrel and a small boy sitting beside it on a stool. If you wish to talk to the boy, turn to 119. If you wish to keep walking north, turn to 247. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "119",
+        "2": "247"
     }
 },
 "283": {
-    "text": "txt ",
+    "text": "There is nothing useful to be found on the dead creature, so you decide to press on northwards (turn to 217). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "217"
     }
 },
 "284": {
-    "text": "txt ",
+    "text": "If you have not done so already, you may either open the other door (turn to 232) or leave the ship to continue your search of Port Blacksand, walking north up Harbour Street (turn to 78). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "232",
+        "2": "78"
     }
 },
 "285": {
-    "text": "txt ",
+    "text": "You make a rapid search through the guards' possessions and find 7 Gold Pieces, a set of keys and a piece of stale bread. Make a note of what you wish to keep and set off north again (turn to 227). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "227"
     }
 },
 "286": {
-    "text": "txt ",
+    "text": "You point the ring at the advancing Mummy and rub the jewel. A jet of fire flies out of the ring and the Mummy is consumed by flames. It drops to the floor and in a few moments there is nothing left but a few charred fragments. Turn to 163. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "163"
     }
 },
 "287": {
-    "text": "txt ",
+    "text": "The food stalls are selling fruit, vegetables, meat and hot soup, corn and chestnuts for hungry shoppers. You may eat some hot food if you wish. Pay 1 Gold Piece and increase your STAMINA by 2 points. Walking north along the west side of the square you see a man dressed in purple velvet playing a lyre. If you wish to stop and listen, turn to 3. If you would rather walk past him, turn to 398. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "3",
+        "2": "398"
     }
 },
 "288": {
-    "text": "txt ",
+    "text": "Nobody spends a night asleep at Zanbar Bone's tower and lives. In the middle of the night a jet of gas, which poisons you almost immediately, is released from the headboard on the bed. Then Zanbar Bone's witches and servants raise you into an undead world in which you will serve for ever as a Spirit Stalker. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "GAME OVER"
     }
 },
 "289": {
-    "text": "txt ",
+    "text": "The Man-Orc takes your Gold Piece and spins it in the air with a flick of the thumb, catching it in the pocket of his apron. He then starts to pick his teeth with a sharpened twig and finally says, 'I know nothing about him.' If you wish to fight the impudent Man-Orc, turn to 5. If you would rather contain your anger, leave the shop and head north again, turn to 93. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "5",
+        "2": "93"
     }
 },
 "290": {
-    "text": "txt ",
+    "text": "You try to walk nonchalantly past the Trolls, but they suspect something odd about you and call you over to them. They ask you where you live and you reply that you are in Port Blacksand on a trading mission. The Trolls laugh scornfully and ask to see your pass. If you have a merchant's pass, turn to 219. If you do not, turn to 335. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "219",
+        "2": "335"
     }
 },
 "291": {
-    "text": "txt ",
+    "text": "As the guard realizes what you are doing he thrusts his pike at you. Test your Luck. If you are Lucky, he misses and you are able to run past him into the city (turn to 74). If you are Unlucky, the pike pierces your arm. Lose 2 STAMINA points and turn to 10. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "74",
+        "2": "10"
     }
 },
 "292": {
-    "text": "txt ",
+    "text": "You walk into a lavishly furnished room containing objets d'art and curios. Standing before you is a young woman dressed in a black silk gown. She has long black hair and bright red lips. She smiles and motions you to sit down in one of the armchairs. You refuse to sit down, only too aware that she is one of Zanbar Bone's servants. She walks towards _ you open-armed as though she is about to embrace you, and when she smiles again, you see two fanglike teeth which can only belong toa Vampire. If you have some garlic, turn to 254. If you do not have any garlic, turn to 210. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "254",
+        "2": "210"
     }
 },
 "293": {
-    "text": "txt ",
+    "text": "She explains that she has just picked one of her golden flowers. There are ten golden petals on the flower, and you are told that if dipped in dog's blood, each petal, plucked and thrown on the ground, will change into a Gold Piece. Mrs Pipe asks for any magic item, piece of armour or food (two portions of your Provisions) in exchange for the golden flower. If you wish to trade with Mrs Pipe, make the necessary changes to your Adventure Sheet. Whether you trade or not, you then leave the shop and head west (turn to 24). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "24"
     }
 },
 "294": {
-    "text": "txt ",
+    "text": "At the top of the gangplank stands one of the ship's crew. On seeing you he draws his cutlass and tells you to get off the ship. If you wish to walk back down the gangplank, along the jetty and turn left up Harbour Street, turn to 78. If you wish to draw your sword to deal with this pirate, turn to 386. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "78",
+        "2": "386"
     }
 },
 "295": {
-    "text": "txt ",
+    "text": "You sheathe your sword and start to search the Serpent Queen's house. You find a brown leather bag which you pick up and shake. The contents make a jingling sound. Inside you find 12 Gold Pieces. Add 1 LUCK point. You leave the house and continue your walk along Stable Street (turn to 333). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "333"
     }
 },
 "296": {
-    "text": "txt ",
+    "text": "Walking towards you down the street are two men wearing black robes which cover them completely except for their eyes. On seeing you they nod at each other and draw their swords; they are THIEVES hoping to rob you of your possessions and you must defend yourself. Fight them one at a time. SKILL STAMINA First THIEF 7 7 Second THIEF 8 6 If you win, turn to 147. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "147"
     }
 },
 "297": {
-    "text": "txt ",
+    "text": "There is nothing of use to you in the room. The smell of the Zombies and the debris is terrible, so you decide to leave immediately. You walk back to the staircase to climb up to the next floor (turn to 207). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "207"
     }
 },
 "298": {
-    "text": "txt ",
+    "text": "You feel the effects of poison creeping through your body. Lose 4 STAMINA points. If you are still alive you manage to reach the door to escape (turn to 75). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "75"
     }
 },
 "299": {
-    "text": "txt ",
+    "text": "It would be extremely dangerous for you to enter Port Blacksand again, especially as many of the town guards would recognize you. There is nothing else you can do but to make the long walk back to Silverton to report that you have failed in your mission. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "GAME OVER"
     }
 },
 "300": {
-    "text": "txt ",
+    "text": "The street makes a sudden right turn and heads north. You pass a cluster of small houses and are aware of unseen people watching you walk by. Then the door to one of the houses opens and a small boy dressed in rags runs out and hands you a piece of paper. Without stopping, he runs off and disappears round the corner. The paper has a message on it which reads 'Arrows from six bows are pointed at you. Leave 10 Gold Pieces in the middle of the street and keep walking.' If you want to obey the instruction, make the necessary deduction on your Adventure Sheet, lose 2 LUCK points and turn to 347. If you want to keep walking without leaving the gold, turn to 137.",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "347",
+        "2": "137"
     }
 },
 "301": {
-    "text": "txt ",
+    "text": "There is a battle-axe held in the iron-plated glove of the armour. If you wish to take the battle-axe, turn to 214. If you wish to push the suit of armour on to the floor to make sure it is not a booby-trap, turn to 185. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "214",
+        "2": "185"
     }
 },
 "302": {
-    "text": "txt ",
+    "text": "You show the man the two gems. Holding them up to the light he examines them carefully with a small magnifying glass. He turns to face you and offers you 9 Gold Pieces for the two. If you wish to accept the offer, turn to 240. If you wish to haggle for a better deal, turn to 345. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "240",
+        "2": "345"
     }
 },
 "303": {
-    "text": "txt ",
+    "text": "You bend over the motionless body of the dead Hag and you cut off a tuft of her hair with your sword. You put the hair safely in your backpack and walk back down the tunnel to the entrance hole (turn to 104). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "104"
     }
 },
 "304": {
-    "text": "txt ",
+    "text": "You arrive at a four-way junction in the street. The street leading west is called Key Street and the street leading east is called Clock Street. Ahead you see that Market Street continues north and a crowd of people are walking up it cheering loudly and waving their arms in the air. You decide to follow them (turn to 148). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "148"
     }
 },
 "305": {
-    "text": "txt ",
+    "text": "You point the mirror at the Spirit Stalker, but it does not stop him advancing. Again he manages to touch your flesh and burn you. Lose 2 STAMINA points. If you are still alive, you may either fire your silver arrow at him (turn to 189) or fire your Ring of Ice at him (turn to 382). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "189",
+        "2": "382"
     }
 },
 "306": {
-    "text": "txt ",
+    "text": "The two guards look at each other in horror and run out of the cell up the stairs, screaming 'Plague!' at the top of their voices. Smiling to yourself you walk calmly out of the cell and pick up your sword off the table. Upstairs you find that the guards have fled; a search of the room reveals 2 Gold Pieces and a merchant's pass to trade in Port Blacksand. Taking your findings, you move over to the door and creep outside into the city (turn to 74). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "74"
     }
 },
 "307": {
-    "text": "txt ",
+    "text": "Walking towards you along the street are two huge guards wearing the black uniform of Lord Azzur. As they get closer you see that they are Trolls, brutal mercenaries employed by Lord Azzur as Imperial Elite Guards. To your right there is a tree which reaches almost to the top of the city wall. If you wish to risk walking past the Trolls, turn to 290. If you wish to climb the tree in order to get over the wall, turn to 11. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "290",
+        "2": "11"
     }
 },
 "308": {
-    "text": "txt ",
+    "text": "There is nothing to be found in the alleyway so you return to Harbour Street and turn left (turn to 180). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "180"
     }
 },
 "309": {
-    "text": "txt ",
+    "text": "You shake the WOLF off your arm and draw your sword. The wolf snarls and leaps at you again. WOLF SKILL 5 STAMINA 5 If you win, turn to 97. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "97"
     }
 },
 "310": {
-    "text": "txt ",
+    "text": "You climb up to the third floor and see another door at the end of the landing. If you wish to open the door, turn to 263. If you wish to climb to the next floor, turn to 65. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "263",
+        "2": "65"
     }
 },
 "311": {
-    "text": "txt ",
+    "text": "As you start your fight with the GUARD, you see two more armed men appear from a stone guardhouse by the gate. They draw their swords and await the outcome of your battle. CITY GUARD SKILL 8 STAMINA 7 If you defeat the first city guard, you must now fight the other two as a pair. Both will have a separate attack on you in each Attack Round, but you must choose which of the two you will fight. Attack your nominated target as in a normal battle. Against the other you will throw for your Attack Strength in the normal way, but you will not wound him if your Attack Strength is greater - you must just count this as though you have parried his blow. Of course if his Attack Strength is greater, he will have wounded you in the normal way. SKILL STAMINA CITY GUARD 6 6 CITY GUARD 4 5 If you win, turn to 74. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "74"
     }
 },
 "312": {
-    "text": "txt ",
+    "text": "You notice that the Ape Man's left hand is curled into a fist. You prise open the fingers and find a tiny 'gold trinket in the shape of an owl. It is a magic talisman which will allow you to see in the dark. You place the owl carefully in your pocket and continue your journey (turn to 217). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "217"
     }
 },
 "313": {
-    "text": "txt ",
+    "text": "You retrieve your sword from the dead man's chest and hurry out of the house. Relieved to be in the open air again you set off north (turn to 304). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "304"
     }
 },
 "314": {
-    "text": "txt ",
+    "text": "You sit down to rest and plan what to do next. As you slump down on the cold stone floor, you inadvertently knock over a glass jar you hadn't seen before, which rolls against the wall and shatters. From the broken jar a small man some fifteen centimetres high steps out and walks over to you. He looks up at you with his hands on his hips and ina barely audible voice says, 'Thank you very much. I've been trapped in that infernal jar for the last hundred years. Now how can I repay you?' If you want to ask the whereabouts of Zanbar Bone turn to 234. If you wish to ask if he can heal some of your - wounds, turn to 94. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "234",
+        "2": "94"
     }
 },
 "315": {
-    "text": "txt ",
+    "text": "The creature leads you downstairs to the room below and asks if you require fortune or good health. It takes the gold and silver scorpions out of their bowls and tells you that they are magic brooches. Each costs 6 Gold Pieces but you may only buy one. If you wish fortune, turn to 8. If you wish good health, turn to 132. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "8",
+        "2": "132"
     }
 },
 "316": {
-    "text": "txt ",
+    "text": "Once again you walk into the tattooist's shop and are greeted by Jimmy Quicktint. He is obviously pleased that you are back to give him some business (turn to 279). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "279"
     }
 },
 "317": {
-    "text": "txt ",
+    "text": "One of the shops to your left is a candle-maker's. There are many different coloured candles burning brightly in the window. If you wish to enter the shop, turn to 241. If you wish to continue east, turn to 280. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "241",
+        "2": "280" 
     }
 },
 "318": {
-    "text": "txt ",
+    "text": "The skull somehow attracts and absorbs all the _ power of the lightning bolt, leaving you unharmed. The fat man is angry but powerless and you are able to leave the house by the front door. Once outside you set off north again (turn to 304). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "304"
     }
 },
 "319": {
-    "text": "txt ",
+    "text": "You enter a room which is dark and very cold. The walls and floor are made of rough stone and the room is empty except for a decorated sarcophagus. There is a strong musty smell in the air. If you want to open the sarcophagus, turn to 352. If you wish to walk outside again, turn to 231. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "352",
+        "2": "231"
     }
 },
 "320": {
-    "text": "txt ",
+    "text": "The jolly fishwives' plump cheeks are as round and shiny as red apples. You ask if they own any of the items you need, but they all frown and shake their heads together. Then one tells you that there isa tale that Hags have been seen disappearing down sewers to catch rats for their stew-pots. However, she has never seen a Hag herself. You decide to leave the ladies; you then walk back to the junction and turn left into Clog Street (turn to 216). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "216"
     }
 },
 "321": {
-    "text": "txt ",
+    "text": "At the bottom of the ladder you realize, much to your disgust, that you are standing in a sewer. There are torches along the tunnel wall, giving a very dim light, and droplets of water make eerie sounds as they fall into the sewage water. If you wish to walk north along the tunnel, turn to 356. If you wish to walk south, turn to 118. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "356",
+        "2": "118"
     }
 },
 "322": {
-    "text": "txt ",
+    "text": "You walk back into the shop; behind the counter you find a small wooden money box. Inside it are 11 Gold Pieces, which you put into your backpack. You decide that it is time to leave the shop and head north (turn to 93). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "93"
     }
 },
 "323": {
-    "text": "txt ",
+    "text": "The blacksmith looks surprised at your unprovoked aggression and pulls another red-hot iron bar from the fire with his gloved hand. He is very angry and lunges at you with the bar. BLACKSMITH SKILL 9 STAMINA 9 If the blacksmith wounds you during any Attack Round, you must subtract 3 points from your sTaMINA score because of the burn caused by the iron bar. If you win, turn to 395. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "395"
     }
 },
 "324": {
-    "text": "txt ",
+    "text": "The box shatters and you see two gems, 15 Gold Pieces and a white silk glove lying amidst the broken pieces of wood. If you wish to try on the glove, turn to 8g. If you wish to leave the house, taking only the gems and the gold, and continue north, turn to 282. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "8g",
+        "2": "282"
     }
 },
 "325": {
-    "text": "txt ",
+    "text": "You follow the old man through the swinging doors of the Hog and Frog tavern. He tells you to sit down at a small table in a corner while he shuffles over to the bar to buy the drinks. There are several shiftylooking characters sitting at nearby tables but they do not seem interested in you. Soon the old man comes back to the table carrying two wooden mugs filled to the brim with cider. Once seated, he opens his leather bag and places two small pots on the table. He opens one and rubs the white cream in the pot on his wounds. He smiles and tells you that he is a chemist by trade and that you should rub some of the cream on your wounds too. You take his advice and are surprised to feel the healing effect of the cream work quickly. Add 5 sTAMINA points. After finishing your drink, you say goodbye to the chemist, leave the tavern and head north (turn to 348).",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "348"
     }
 },
 "326": {
-    "text": "txt ",
+    "text": "Ahead the alleyway is strewn with rubbish and discarded possessions. Suddenly you hear growling and you see movement amongst the rubbish. You draw your sword just in time as two WILD DOGS, each a metre and a half long, leap at you. Fight both dogs at the same time. . ' SKILL STAMINA First WILD DOG 4 4 Second WILD DOG 4 3 Both dogs will make a separate attack on you in each Attack Round, but you must choose which of the two you will fight. Attack your chosen dog'as ina normal battle. Against the other you will throw for your Attack Strength in the normal way, but you will not wound it if your Attack Strength is greater; you must just count this as though you have defended yourself against its bite. Of course if its Attack Strength is greater, it will wound you. If you win, turn to 184. You may Escape by running back up the alleyway and turning west into Harbour Street (turn to 180).",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "184",
+        "2": "180"
     }
 },
 "327": {
-    "text": "txt ",
+    "text": "You feel like a pincushion and although the pain is almost unbearable, you manage to stagger on down the street. Ahead to your right you see the door of one of the houses opening and a little girl looking out apprehensively. She beckons you to enter the house. If you wish to enter the house, turn to 126. If you wish to continue walking north, turn to 164. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "126",
+        "2": "164"
     }
 },
 "328": {
-    "text": "txt ",
+    "text": "You take the silver item out of your backpack and hand it to the Serpent Queen. She is delighted and thanks you for delivering it to her. She shows you to the front door and tips you 2 Gold Pieces. Outside you set off north ny Stable Street (turn to 333). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "333"
     }
 },
 "329": {
-    "text": "txt ",
+    "text": "The smell by the water's edge is terrible. Above, you hear the sound of footsteps crossing the wooden bridge. Built into the foundations of the bridge is a wooden hut. Drawn curtains obstruct your view into the hut but you know you are not welcome when you read the words 'Keep Out' painted on the door in large red letters. You draw in a deep breath and knock on the door. You hear muttering and the shuffling of feet and suddenly the door is thrown open. Before you stands a white-haired old man with a long beard, wearing long white robes. He looks at you sternly and says, 'Explain yourself to Nicodemus.' You are elated at finding Nicodemus and tell him about Zanbar Bone's reign of terror in the town of Silverton and why Owen Carralif asked you to find his old friend to help them. _ Nicodemus frowns and walks back inside his hut, telling you to follow him. He sits down in a rocking chair and starts to speak in a calm voice. 'I am old and tired and wish for no more adventure. | live here under Singing Bridge in Port Blacksand to escape the pleas for aid from people fallen on hard times. Hence no one bothers me. But I do wish to help my old friend Owen. I will tell you how to defeat the Night Prince, Zanbar Bone. Listen carefully. Remember, you may defeat him only after sunset. In daylight hours he exists on another plane. No doubt he will have his servants to protect him, but should you get past them, you will need something special to deal with Bone himself. To protect yourself from his entrancing stare, you must have a white unicorn in a yellow sun tattooed on your forehead. Normal weapons will not harm him. First, you must shoot him through the heart with a silver arrow. This will paralyse him but not kill him. Then you must quickly rub the ground compound ~ of black pearl, Hag's hair and a lotus flower in his open eyes. With luck, he will decay before you in seconds. If your arrow misses, I'm afraid you will die the moment he touches you. The items for the compound can all be found in Port Blacksand if you search hard enough. I regret I cannot accompany you.' Nicodemus then draws you a map of how to reach Zanbar Bone's guarded tower from Port Blacksand. He stands up, shakes your hand and wishes you well. You leave his hut, climb the steps and cross the bridge over Catfish River. Bridge Street continues north a short distance before ending at a junction. If you wish to walk west down Harbour Street, turn to 91. If you wish to turn east down Candle Street, turn to 238.",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "91",
+        "2": "238"
     }
 },
 "330": {
-    "text": "txt ",
+    "text": "Lose 3 STAMINA points. If you are still alive you manage with great pain to pull the bolt from your shoulder. As you bandage your wound the little man runs off into the building on your left. There _ does not appear to be an easy way to catch him so you walk under the bridge and continue east (turn to 30). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "30"
     }
 },
 "331": {
-    "text": "txt ",
+    "text": "As you approach the man, he suddenly springs up and screams at the top of his voice. He produces a dagger from his ragged clothing and leaps at you. His wild eyes belong to a man insane or possessed and you must fight him. MAD MAN SKILL 5 STAMINA 5 If you win, turn to 86. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "86"
     }
 },
 "332": {
-    "text": "txt ",
+    "text": "The beggar tips his hat in gratitude and mumbles a few words. Add 1 Luck point before continuing west (turn to 124). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "124"
     }
 },
 "333": {
-    "text": "txt ",
+    "text": "You soon reach a junction in the street. Stable Street continues north and to your left you see Tower Street leading west. You decide to keep going north (turn to 76). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "76"
     }
 },
 "334": {
-    "text": "txt ",
+    "text": "Walking towards you down the street are two town |guards. They stop in front of you and demand to see |your papers. If you possess a merchant's pass, turn |to 255. If you do not, turn to 99g. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "255",
+        "2": "99"
     }
 },
 "335": {
-    "text": "txt ",
+    "text": "The larger of the two Trolls tells you that you are' under arrest for being in Port Blacksand without authorization. He tells you that he is feeling gen- ~ erous, however, and offers you a choice. You can pay a fine of all the gold in your backpack and be thrown out of the city, or spend a year with rats and cockroaches in a dirty dungeon cell. The other Troll bursts out laughing, saying, 'Generous? Ho! Ho! Ho! Ah, Sourbelly, you've got such a sense of humour' If you wish to pay the fine and be thrown out of the city, turn to 367. If you wish to resist arrest, turn to 73. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "367",
+        "2": "73"
     }
 },
 "336": {
-    "text": "txt ",
+    "text": "Once inside the shop you realize why the windows are barred - it is a jeweller's shop. Standing behind the glass counter is a huge bald-headed man with an eye-patch covering his left eye. He gives you a welcoming smile but the sight of his ugly mouth with its few black-stained teeth does not inspire confidence. A large battle-axe hangs conveniently behind the man to deter any would-be robbers. On display are several ornate rings inset with diamonds, emeralds and rubies. The man asks whether you are buying or selling. Will you: Ask the price of the rings? Turn to 36 Offer to sell him gems (if you have them)? Turn to 302 Attack him with your sword? Turn to 170",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "36",
+        "2": "302",
+        "3": "170"
     }
 },
 "337": {
-    "text": "txt ",
+    "text": "Congratulations - you have killed Zanbar Bone, the infamous Night Prince. He decays before your eyes, becoming nothing more than a small pile of powder on the floor (turn to 400). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "400"
     }
 },
 "338": {
-    "text": "txt ",
+    "text": "You have just swallowed a Potion of Misfortune. Reduce your Luck by 3 points. Hoping for better luck ahead you set off north again (turn to 105). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "105"
     }
 },
 "339": {
-    "text": "txt ",
+    "text": "The man looks at you and smiles, saying, 'We do not get many visitors in these parts, but | am sure my master would wish you to havea room for the night. Do come in.' He steps back and you follow him into a beautiful marble-floored hallway. There are portraits and shields hanging on the walls and a spiral staircase leads up to the floor above. He asks you to follow him up the staircase and offers to carry your backpack for you, which you allow him to do. You can see that the staircase winds its way all the way up to the top of the tower, but the man steps off at the first floor and walks along the landing to a door. He opens it and walks into a large room, placing your backpack on a made-up bed. He tells you that this is your room for the night and walks out, telling you that you will meet his master at breakfast. If you wish to lock the door and go to bed, turn to 288. If you wish to explore the tower after waiting a few minutes, turn to 77.",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "288",
+        "2": "77"
     }
 },
 "340": {
-    "text": "txt ",
+    "text": "Once more you poke the wire inside the lock and finally it turns. Add 1 Luck point. Raising the lid of the chest you see, to your delight, 25 Gold Pieces and a magnificent shield. If you use this shield in battle, it will increase your Attack Strength by 1 during each Attack Round. You may now either climb the stairs to the floor above (turn to 60) or leave the house to head north (turn to 304). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "60",
+        "2": "304"
     }
 },
 "341": {
-    "text": "txt ",
+    "text": "You decide that you are going to have to make a run for it or risk being put in jail. You take 5 Gold Pieces out of your backpack and throw them on the floor. The guards bend down to pick them up and you run north as fast as you can. As you run off, the escaped murderer starts to yell and two of the guards chase after you. In an alleyway to your left you see a large open barrel which you dive into. You hear the guards run past but you wait a few minutes before climbing out of the barrel. You look up and down Stable Street and all is clear. Once more you set off north (turn to 222).",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "222"
     }
 },
 "342": {
-    "text": "txt ",
+    "text": "The Man-Orc tells you that for 1 Gold Piece he will tell you all he knows. If you want to pay for his information, turn to 289. If you would rather leave the shop and continue your walk north, turn to 93. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "289",
+        "2": "93"
     }
 },
 "343": {
-    "text": "txt ",
+    "text": "You fall to the floor, unconscious. Lose 3 STAMINA points. If you are still alive, you awake to find yourself lying outside the shop in Clog Street. You will find that any silver items you had are now missing. You stand up and set off angrily along the street (turn to 100). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "100"
     }
 },
 "344": {
-    "text": "txt ",
+    "text": "You step out into the middle of the street and wait. Suddenly a pair of horses come galloping into view pulling an ornate gold carriage. The driver sees you and, cracking his whip, yells, 'Make way for Lord Azzur!' If you wish to step out of the path of the oncoming carriage, turn to 58. If you wish to stay where you are, turn to 252. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "58",
+        "2": "252"
     }
 },
 "345": {
-    "text": "txt ",
+    "text": "The man frowns and thumps his fist down on top of the counter, shouting, 'This is not a bazaar! If you do not like my prices, take your custom elsewhere. Now get out of my shop before I slice you in two.' Will you: Calm him down and accept his offer? Turn to 240 Walk out of the shop and head west? Turn to 196 Attack him with your sword? Turn to 170 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "240",
+        "2": "196",
+        "3": "170"
     }
 },
 "346": {
-    "text": "txt ",
+    "text": "The distance to the ground is too great even for a great warrior like yourself. You land badly and break your neck. Your adventure ends here. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "GAME OVER"
     }
 },
 "347": {
-    "text": "txt ",
+    "text": "You hurry on down the street but glance back after hearing cries of jubilation behind you. Some people are linked arm in arm and are dancing in a circle round your 10 Gold Pieces. You curse this thieving city and press on north (turn to 112). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "112"
     }
 },
 "348": {
-    "text": "txt ",
+    "text": "Tower Street makes a sharp turn to the right, going east between tall buildings. An iron bridge crosses overhead between two of the buildings and you see movement on it. Small cloaked people are carrying laden sacks between the buildings, apparently in a great hurry. If you wish to call out to them, turn to 251. If you wish to walk under the bridge and continue east, turn to 30. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "251",
+        "2": "30"
     }
 },
 "349": {
-    "text": "txt ",
+    "text": "Suddenly you are confronted by a small winged creature, no more than a metre in length, hovering before you. It is red in colour and has two horns protruding from its head and a small tail hanging down from its back. It will be difficult to defeat as it flies quickly about your head spitting fire at you! FIRE IMP SKILL 9 STAMINA 4 If you win, turn to 258. You may Escape by jumping out of the window to the street below (turn to 192). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "258",
+        "2": "192"
     }
 },
 "350": {
-    "text": "txt ",
+    "text": "You open your backpack and pretend to search for the flowers. The Serpent Queen starts to fidget and you can see her becoming increasingly impatient. You cannot think of a good plan and start to panic. If you wish to run to the front door, turn to 32. If you wish to draw your sword to attack the Serpent Queen, turn to 249. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "32",
+        "2": "249"
     }
 },
 "351": {
-    "text": "txt ",
+    "text": "You take 10 Gold Pieces out of your backpack and place them on the palm of the hand outstretched before you. The old man then reaches into his inner clothing and pulls out an iron key, telling you that it will unlock your cell. Almost in disbelief you take the key and place it in the lock. Incredibly, the lock turns. You look back at the old man and ask him if he wishes to escape with you. He smiles and shakes his head, saying that he is happy where he is. You leave the cell and, picking up your sword, climb the stairs to the floor above. The two guards are relaxing over a game of cards. You wave your sword in the air and charge at them. They grab their swords to defend themselves and fight you one at a time. SKILL STAMINA First CITY GUARD 6 6 Second CITY GUARD 7 5 If you win, turn to 54. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "54"
     }
 },
 "352": {
-    "text": "txt ",
+    "text": "You lift the lid of the sarcophagus and see a human body completely encased in old bandages. The light, although dim, has disturbed the sleep of a MUMMY, anditsits up, turning its head from side to side. It senses where you are and starts to climb out of its sarcophagus. It walks towards you with its arms extended. If you wish to fight the Mummy, turn to 193. If you have a Lantern, you may throw it at the Mummy (turn to 106). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "193",
+        "2": "106"
     }
 },
 "353": {
-    "text": "txt ",
+    "text": "You try to turn the large brass handle on the door but it is locked. If you have an iron key, turn to 181. If you do not, you may either try to force the door open (turn to 389) or return to the street to head north (turn to 304). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "181",
+        "2": "389",
+        "3": "304"
     }
 },
 "354": {
-    "text": "txt ",
+    "text": "The tattooist looks at you with a bored expression on his face and says, 'Well, you don't expect me to do it for free, do you? If you've got anything worth selling, go next door. My step-brother lives there and he's a pawnbroker. Tell him I sent you and maybe he'll give you a good price.' You walk outside and knock on the wooden door of the next house. A squint-eyed man opens the door and you _ tell him that you want to sell some items so that you can afford to have a tattoo. The man asks you to come into his house and you enter a room piled high with all kinds of objects, furniture, armour, curios and pottery. He explains that he has a stall in the market which he rents once a week. He then tells you what he is currently interested in buying, and the prices he is offering: Silver goblet 8 Gold Pieces Skeleton key 15 Gold Pieces Scorpion brooch 10 Gold Pieces Magic ring 12 Gold Pieces Silver bracelet 5 Gold Pieces Helmet 7 Gold Pieces Silver flute 5 Gold Pieces Eye-patch 1 Gold Piece Knucklebones 1 Gold Piece Mirror 1 Gold Piece You may sell the pawnbroker any of your possessions. You bid him farewell and walk outside. If you have enough money for the price of a tattoo, turn to 316. If you still cannot afford one, you will have to come back again later. You walk back up the lane and turn left into Mill Street (turn to 307).",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "316",
+        "2": "307"
     }
 },
 "355": {
-    "text": "txt ",
+    "text": "You turn on the two guards who were holding you and, before they realize what is happening, you smash their heads together, knocking them unconscious. You dash into the city (turn to 74). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "74"
     }
 },
 "356": {
-    "text": "txt ",
+    "text": "Ahead you hear the sound of squealing and frantic splashing. Long shadows are cast by moving objects coming towards you. Then you see the sleek, glistening shapes of three GIANT RATS only a few metres away from you. You draw your sword hastily and fight each of the Rats in turn. SKILL STAMINA First RAT 4 4 Second RAT 5 4 Third RAT 5 5 If you win, turn to 28. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "28"
     }
 },
 "357": {
-    "text": "txt ",
+    "text": "The OGRE is mad with hunger and picks up a large bone off the floor. He raises it above his head and lumbers towards you. You must fight him. OGRE SKILL 8 STAMINA 9 If you defeat him, turn to 71. After the third Attack Round, you may Escape by running out of the house and heading north (turn to 282). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "71",
+        "2": "282"
     }
 },
 "358": {
-    "text": "txt ",
+    "text": "It's a close shave, but you just manage to grip the edge of the wall with your fingertips. You pull yourself up and climb on to a stone walkway along the top of the city wali. On either side of you are stone towers rising above the battlements, spaced some hundred metres apart. There are doors in the towers, both of which are suddenly flung open as more guards run out to capture you. There is a twenty-metre drop on the other side of the wall. Will you: Jump to freedom? Turn to 346 Fix a Climbing Rope (if you have one) to the wall and climb down the other side? Turn to 108 Face the oncoming guards? Turn to 56 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "346",
+        "2": "108",
+        "3": "56"
     }
 },
 "359": {
-    "text": "txt ",
+    "text": "All the Bays on your side rush over to you and slap your hands with theirs. They are overjoyed at their victory. Supporters run over and start handing you gifts. Eventually you manage to wriggle free from your admirers and find a place to sit down to inspect your gifts. You have been given 8 Gold Pieces, a bottle containing a clear liquid labelled 'Potion of Mind Control', a silver flute, a bunch of bananas, a piece of chalk and an eye-patch. You eat the bananas (add 2 STAMINA points) and place the rest of the items in your backpack. You climb back over the wall before the Bays start another game, walk back to the junction and head west along Harbour Street (turn to 91). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "91"
     }
 },
 "360": {
-    "text": "txt ",
+    "text": "During your fight with the Wolf Dogs, Wraggins runs out of the front of the shop, perhaps to fetch help. If you wish to stay and search the shop, turn to 123. If you would rather hurry out and continue west along Key Street, turn to 300. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "123",
+        "2": "300"
     }
 },
 "361": {
-    "text": "txt ",
+    "text": "The mindless ZOMBIES step slowly towards you with their sticks raised in the air. Fight them one ata time. SKILL STAMINA First ZOMBIE 6 6 Second ZOMBIE 6 7 If you win, turn to 297. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "297"
     }
 },
 "362": {
-    "text": "txt ",
+    "text": "The boots fit perfectly and walking about you feel very sure-footed. They are magic elven boots. Add1 SKILL point to your total and set off east again (turn. to 103). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "103"
     }
 },
 "363": {
-    "text": "txt ",
+    "text": "In the middle of the street you see a large manhole cover. If you wish to lift the manhole cover to see where it leads to, turn to 48. If you wish to keep walking east, turn to 205. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "48",
+        "2": "205"
     }
 },
 "364": {
-    "text": "txt ",
+    "text": "The gaunt-faced man looks thoroughly miserable. He sees you and shrinks back, telling you that it is not worth robbing him because he has no money. You tell him that you do not wish to rob him but are seeking an old wizard named Nicodemus. He stares at you with a surprised expression on his face and says, 'For 2 Gold Pieces, I'll tell you where he is.' You decide to trust the man and pay him for his information. He pockets the gold and says, 'You are standing on top of him! Nicodemus lives in a hut underneath this bridge.' He throws back his head and lets out a shrill laugh before hobbling off on his crutches, obviously pleased with himself. You shake your head and walk over to the steps that lead down beneath the bridge (turn to 329). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "329"
     }
 },
 "365": {
-    "text": "txt ",
+    "text": "You charge the door several times before it splinters. Unfortunately, you injure your shoulder in the process. Lose 1 SKILL point. Through the broken door you see a thin, pale-skinned-man with dark, hollow eyes, wearing a servant's uniform. Ina cold, hissing voice he says, 'Really, do you have to make such a dramatic entry? Could you not have pulled the bell cord like everybody else?' If you wish to apologize and tell him that you are a lost traveller, turn to 339. If you wish to attack him with your sword, turn to 35. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "339",
+        "2": "35"
     }
 },
 "366": {
-    "text": "txt ",
+    "text": "You pay for the smoking mixture and leave the shop. Outside you pack your pipe with the smoking mixture and light it. The smoke is dark and tastes awful. You start to cough and your chest is gripped by a terrible pain. Lose 2 STAMINA points. You are unable to stop coughing, so you sit down on the street and try to calm down. You slump down against a wall between two barrels and gradually the coughing subsides. If you want to go back to the herbalist to complain, turn to 101. If you would rather walk north again, turn to 93. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "101",
+        "2": "93"
     }
 },
 "367": {
-    "text": "txt ",
+    "text": "The Trolls watch carefully as you open your backpack. You give them all your gold except for 1 Gold Piece which you manage to palm without their noticing. They then place themselves on either side of you and march you along Mill Street until you reach the city's North Gate at the junction with Goose Street. They tell the two guards on duty not to let you back into Port Blacksand. They give you a forceful boot up the backside and you land sprawling on the dusty road outside. Do you have all the items required to slay the Night Prince, and have you been tattooed? If you have, turn to 201. If you are missing any of the items, or have not been tattooed, turn to 299.",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "201",
+        "2": "299"
     }
 },
 "368": {
-    "text": "txt ",
+    "text": "Looking into a crystal ball, she seems to go into a trance. She tells you that you are searching for a man, a wise man with magical powers. She pauses for a moment and then draws in a deep breath before going on to tell you that the man you are looking for lives in a hut beneath a bridge to the north. She warns you to be careful when ap- - proaching the man, for he does not welcome strangers. Then she looks away from the crystal ball and asks you to leave. Her face seems to be hiding something. Has she seen some dreadful fate awaiting you? You decide to leave the tent and head north (turn to 117). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "117"
     }
 },
 "369": {
-    "text": "txt ",
+    "text": "Back at the junction you turn left into Clog Street and walk eastwards (turn to 216). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "216"
     }
 },
 "370": {
-    "text": "txt ",
+    "text": "You place the coin in the slot and walk through the turnstile. Although the flowers and shrubs are not outstanding, you are nevertheless surprised that such a place exists in Port Blacksand. The gardens are not very large, extending back some sixty metres to where some houses back on to them. There are two paths to follow, one of which runs around the edge of the gardens and one that leads directly into the centre, where there is some topiary - each shrub has been cut into the shape of an animal - and you decide to take a closer look. The path leads into a small paved area surrounded by the animal-shaped shrubs. In the middle there is a stone plinth upon which sits a large earthen bowl containing lotus flowers! There is a painted sign which reads 'Do Not Pick the Flowers'. The gardener is nowhere to be seen and there is nobody else about. If you wish to risk picking one of the flowers, turn to 14. If you would rather leave the gardens and continue north, turn to 133. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "14",
+        "2": "133"
     }
 },
 "371": {
-    "text": "txt ",
+    "text": "In the back room of the shop you find a glass jar ona dusty shelf labelled 'Healing Mixture'. If you wish to apply some of it to your wounds (if you suffered any), turn to 83. If you would rather continue searching the shop, turn to 322. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "83",
+        "2": "322"
     }
 },
 "372": {
-    "text": "txt ",
+    "text": "The houses in this section of Stable Street consist of two rows of terraces. They are all made of sandstone apart from one in the middle of the terrace to your right, which is made of brick and is painted white. The door is made of oak and a serpent's head is carved into it. If you wish to enter the white house, turn to 131. If you wish to keep walking north, turn to 333.",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "131",
+        "2": "333"
     }
 },
 "373": {
-    "text": "txt ",
+    "text": "You grimace as you feel the poison creep up your arm. Lose 4 STAMINA points and 1 SKILL point. If you are still alive, you may (if you have not done so already) lift goblet B (turn to 209) or goblet C (turn to 43). If you have lost interest in the goblets, you may either walk through the archway (turn to 107) or ° climb the stairs (turn to 60). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "209",
+        "2": "43",
+        "3": "107",
+        "4": "60"
     }
 },
 "374": {
-    "text": "txt ",
+    "text": "The shield was taken froma goodly knight who died | at the hand of Zanbar Bone. It was forged with good magic. Add 1 SKILL point. You walk over to the spiral staircase with your new shield and climb to the floor above (turn to 21). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "21"
     }
 },
 "375": {
-    "text": "txt ",
+    "text": "Eventually the street comes to a dead end at a high stone wall. There are stone steps leading to the top of the wall. On the other side of the wall you can hear grunts, growls and cheering. If you wish to ~ climb over the wall, turn to go. If you wish to walk back to the junction and head west down Harbour Street, turn to 91. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "90",
+        "2": "91"
     }
 },
 "376": {
-    "text": "txt ",
+    "text": "Eventually the street comes to a dead end at a high stone wall. There are stone steps leading to the top of the wall. On the other side of the wall you can hear grunts, growls and cheering. If you wish to ~ climb over the wall, turn to go. If you wish to walk back to the junction and head west down Harbour Street, turn to 91. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "90",
+        "2": "91"
     }
 },
 "377": {
-    "text": "txt ",
+    "text": "The iron grill is securely bolted to the brick wall and you are unable to remove it. However, above the grill you notice a dark recess where some bricks have been removed from the wall. It is too dark to see deep inside the recess. If you wish to put your hand into the dark hole, turn to 92. If you would rather walk back to the entrance hole, turn to 174. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "92",
+        "2": "174"
     }
 },
 "378": {
-    "text": "txt ",
+    "text": "Roll one die alternately for yourself and for the bare-chested man, to represent the cannon-ball passing between you. Repeat this process until a 1 is thrown, in which case the cannon-ball will have been dropped and the loser must pay the winner 5 Gold Pieces. After finishing the game you walk ona bit further (turn to 52). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "52"
     }
 },
 "379": {
-    "text": "txt ",
+    "text": "Lose 2 STAMINA points. Despite the pain in your arm you must act quickly to escape the advancing Suit of Armour. If you wish to open the door in front of you, turn to 122. If you wish to run back to the staircase to climb up to the next floor, turn to 207. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "122",
+        "2": "207"
     }
 },
 "380": {
-    "text": "txt ",
+    "text": "Despite its rotten taste, the soup includes herbs blended in an ancient tradition which are beneficial to health. Add 4 sTAMINA points. Feeling somewhat revitalized you decide to leave the ladies to their argument and head east (turn to 375). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "375"
     }
 },
 "381": {
-    "text": "txt ",
+    "text": "The guard frowns and says, 'A likely story, I'm sure. But I suppose you are just the same as all the rest _ inside this city. You may enter at your own peril or buy my,advice for. 3 Gold Pieces.' If you wish to head straight into the city, turn to 74. If you wish to buy the guard's advice, make the necessary deduction on your Adventure Sheet and turn to 261. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "74",
+        "2": "261"
     }
 },
 "382": {
-    "text": "txt ",
+    "text": "A jet of gas shoots out of the ring and turns to ice on contact with the Spirit Stalker, covering him com- pletely. It does not stop him advancing towards _ you, but it slows him down. You have time either to fire your silver arrow at him (turn to 189) or to reflect his stare in your mirror (turn to 305), as your Ring of Ice is useless. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "189",
+        "2": "305"
     }
 },
 "383": {
-    "text": "txt ",
+    "text": "If you have not done so already, you may open the other door (turn to 271) or leave the ship to continue your search of Port Blacksand, walking north up Harbour Street (turn to 78). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "271",
+        "2": "78"
     }
 },
 "384": {
-    "text": "txt ",
+    "text": "As the cudgel swings through the air above your head, you punch the Dwarf holding it. He lets out a scream and drops the cudgel. Feeling his bleeding nose and seeing the blood on his hand, he screams again and runs off down the alley. The other two Dwarfs holding your legs realize that you are not an easy victim and run off after their fellow-robber. If you wish to chase them down the alley, turn to 221. If you wish to set off west again, turn to 396. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "221",
+        "2": "396"
     }
 },
 "385": {
-    "text": "txt ",
+    "text": "A voice in your mind tells you that the chest is an illusion and does not exist. Also you see that the black cat is not what you thought it was. Before you stands a black-robed skeleton with green, translucent eyes, wearing a golden crown on its skull - Zanbar Bone! Before you have time to notch your arrow, the Night Prince pulls three teeth from his mouth and throws them on to the floor. They explode in puffs of smoke and out of them step three SKELETONS armed with swords. Fight them one at a time. SKILL STAMINA First SKELETON 6 F) Second SKELETON 8 6 Third SKELETON 7 7 If you win, turn to 203. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "203"
     }
 },
 "386": {
-    "text": "txt ",
+    "text": "The PIRATE seems pleased that you wish to fight him and grins, revealing a toothless mouth which unnerves you a little. PIRATE SKILIn7 STAMINA 5 If you win, turn to 20. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "20"
+        
     }
 },
 "387": {
-    "text": "txt ",
+    "text": "You are now wearing a brooch that slows you down in combat without your realizing it. Reduce your SKILL by 1 point. Finding nothing else of interest in the room you decide to go back down the stairs and leave the house to head north (turn to 334). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "334"
     }
 },
 "388": {
-    "text": "txt ",
+    "text": "You try with all your might to bend the bars securing the glass cupboard but you are unable to openit. Finding nothing else of interest in the shop, you walk outside and continue east (turn to 100). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "100"
     }
 },
 "389": {
-    "text": "txt ",
+    "text": "You push the door with your shoulder with all your might. Roll two dice. If the number rolled is less than or equal to your SKILL score, the door flies open (turn to 159). If the number rolled is greater than your SKILL, the door remains firmly shut. You decide not to risk injury to yourself and walk back to the street, continuing northwards (turn to 304). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "159",
+        "2": "304"
     }
 },
 "390": {
-    "text": "txt ",
+    "text": "The HAG is conjuring a spell which instils terrible fear in you. Your mind is full of illusions and you think you are being burned alive with a crowd of _ Skeletal faces looking on gleefully. You swing your sword around blindly trying to hack at the faces laughing at you. Test your Luck. If you are Lucky, a swipe from your sword cuts into the Hag (turn to 144). If you are Unlucky, your sword merely cuts through the air (turn to 59). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "144",
+        "2": "59"
     }
 },
 "391": {
-    "text": "txt ",
+    "text": "Unbeknown to you, there is a trip-wire across the doorway at your feet and a crossbow on the wall opposite, so that as you walk into the room you trigger the wire and this releases the crossbow bolt straight at you. Test your Luck. If you are Lucky, you trip over the wire and fall on the floor; the crossbow bolt flies over your head and through the door (turn to 235). If you are Unlucky, the bolt sinks into your chest (turn to 142). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "235",
+        "2": "142"
     }
 },
 "392": {
-    "text": "txt ",
+    "text": "The creature is outraged that you have stolen one of its brooches. It jumps up and you notice smoke curling up from its nostrils as its fury mounts. Suddenly a blast of fire shoots from its jaw and it moves towards you with outstretched claws. The blast misses you but you must fight the creature. LIZARDINE SKILL 8 STAMINA 8 As well as following the usual rules of battle, throw one die every Attack Round for the Lizardine's fiery breath. On a roll of 1, 2 or 3, it burns you for 1 point of damage to be subtracted from your sTAMINA. Ona roll of 4, 5 or 6 you manage to dodge the blast. You may use your LUCK against the fire and you may Escape by running back down the stairs and out of the house to head north (turn to 334). If you stay and win the battle, turn to 186. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "334",
+        "2": "186"
     }
 },
 "393": {
-    "text": "txt ",
+    "text": "You tell the Trolls that you are a weapon-maker and have been to the market to sell daggers to a stallholder there. Sourbelly sneers at you and says, 'Wellin that case you have finished your business in Port Blacksand. Allow us to escort you to the city gates.' If you wish to let them throw you out of the city, turn to 156. If you wish to attack the Trolls, turn to 73 ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "156",
+        "2": "73"
     }
 },
 "394": {
-    "text": "txt ",
+    "text": "Sitting behind a small table is a plump woman wearing bright yellow clothes and a shawl over her head. She smiles as you enter, bidding you to sit down. She tells you that a glimpse of the future will cost you 2 Gold Pieces. If you wish to pay to hear her predictions, turn to 368. If you would rather carry on unaided, leave the tent and head north (turn to 117). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "368",
+        "2": "117"
     }
 },
 "395": {
-    "text": "txt ",
+    "text": "The blacksmith was a good man. Lose 4 LUCK points. Feeling extremely guilty, you leave the stable and continue north (turn to 115). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "115"
     }
 },
 "396": {
-    "text": "txt ",
+    "text": "On the left side of the street is a flower shop. The window is filled with exotic and colourful flowers. If you wish to enter the shop, turn to 145. If you prefer to keep walking west, turn to 24. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "145",
+        "2": "24"
     }
 },
 "397": {
-    "text": "txt ",
+    "text": "No wonder the vagabonds wanted to rob you - they only have 1 Gold Piece between them. You find nothing else of interest in their pockets and so decide to set off north along Stable Street (turn to 372). ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "372"
     }
 },
 "398": {
-    "text": "txt ",
+    "text": "A small circle of people is standing around a barechested man. He is enormous and his muscles look as hard as iron. He is asking the crowd for a volunteer to play catch with a cannon-ball. He states that whoever drops the cannon-ball must pay the other 5 Gold Pieces. If you wish to take him on at his game, turn to 378. If you would rather walk on, turn to 52. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "378",
+        "2": "52"
     }
 },
 "399": {
-    "text": "txt ",
+    "text": "A rope ladder hangs down from the stern of the ship _ to the jetty. There is also a gangplank leading up the side of the ship. If you wish to board the ship by climbing the rope ladder, turn to 87. If you wish to walk straight up the gangplank, turn to 294. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "87",
+        "2": "294"
     }
 },
 "400": {
-    "text": "txt ",
+    "text": "You leave Zanbar Bone's black tower as quickly as you can, not wishing to spend another moment in the infernal place. Before leaving, however, you set it alight so that no evil entity may ever again use it for foul deeds. You sleep the rest of the night and long into the next morning in a hayfield, before setting off for Silverton in the afternoon. Battleweary and hungry, you arrive in Silverton the same evening. You are given a hero's welcome and gift after gift is bestowed upon you. A feast is arranged and there is laughter, music and drinking in all the streets. Finally, Owen Carralif makes a speech and presents you with a gold orb worth hundreds of Gold Pieces. The people of Silverton are joyous once again. ",
     "choices": {
-        "1": "a",
-        "2": "b"
+        "1": "THE END. You Win."
+    
     }
-}
   }
-  
+}
