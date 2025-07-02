@@ -7,8 +7,7 @@ from dotenv import load_dotenv, find_dotenv
 # --- Bot Setup ---
 intents = discord.Intents.default()
 intents.message_content = True
-bot = commands.Bot(command_prefix="!", intents=intents)
-
+bot = commands.Bot(command_prefix="!", intents=intents, help_command=None)
 # --- Global Data Loading ---
 try:
     with open("data/pages.json", "r", encoding="utf-8") as f:
