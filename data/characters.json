@@ -18,14 +18,14 @@
         "current_location": "74"
     },
     "local_player": {
-        "name": "Mikkel",
+        "name": "njfd",
         "user_id": "local_player",
-        "skill": 7,
+        "skill": 9,
         "stamina": 19,
-        "luck": 11,
-        "max_skill": 7,
+        "luck": 7,
+        "max_skill": 9,
         "max_stamina": 19,
-        "max_luck": 11,
+        "max_luck": 7,
         "inventory": [
             "Sword",
             "Leather Armour",
@@ -33,6 +33,6 @@
         ],
         "gold": 12,
         "provisions": 10,
-        "current_location": "1"
+        "current_location": "74"
     }
 }

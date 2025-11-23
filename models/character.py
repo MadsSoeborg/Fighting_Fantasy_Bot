@@ -50,6 +50,17 @@ class Character:
         if item_to_remove:
             self.inventory.remove(item_to_remove)
 
+    def eat_provision(self):
+        if self.provisions > 0:
+            if self.stamina >= self.max_stamina:
+                return "Your stamina is already full."
+            
+            self.provisions -= 1
+            self.heal(4) # 1 provision = 4 stamina
+            return f"You ate a meal. Stamina is now {self.stamina}/{self.max_stamina}. Provisions left: {self.provisions}"
+        else:
+            return "You have no provisions left!"
+
     def apply_effects(self, effects):
         summary = []
         if "stamina" in effects and effects["stamina"] != 0:

@@ -37,7 +37,8 @@ def main_menu():
 
         if choice == "1":
             clear_screen()
-            engine.create_character_flow()
+            if engine.create_character_flow():
+                engine.play()
         elif choice == "2":
             engine.play()
         elif choice == "3":

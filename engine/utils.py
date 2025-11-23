@@ -1,7 +1,6 @@
 import os
-import sys
-import time
 from colorama import Fore, Style, init
+import textwrap
 
 # Initialize colorama
 init(autoreset=True)
@@ -36,3 +35,10 @@ def print_success(text):
 
 def print_warning(text):
     print(f"{Fore.YELLOW}{text}{Style.RESET_ALL}")
+    
+def print_wrapped(text, width=70):
+    """Wraps text nicely to a specific width."""
+    text = textwrap.dedent(text).strip()
+    for paragraph in text.splitlines():
+        print(textwrap.fill(paragraph, width=width))
+    print()

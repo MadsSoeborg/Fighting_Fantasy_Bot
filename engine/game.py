@@ -1,8 +1,10 @@
 import json
 import time
 import os
+
+from colorama import Fore, Style
 from models.character import Character
-from engine.utils import clear_screen, print_header, print_bold, print_error, print_success, print_warning
+from engine.utils import clear_screen, print_header, print_bold, print_error, print_success, print_warning, print_wrapped
 
 class GameEngine:
     def __init__(self, story_data, enemy_data):
@@ -46,18 +48,25 @@ class GameEngine:
     # --- Core Game Logic ---
     def create_character_flow(self):
         print_header("Character Creation")
+        
+        # Check if character exists and ask to overwrite
         if self.load_character():
-            print_warning("You already have a character. Delete it first to start over.")
-            return
+            print_warning("A character already exists!")
+            confirm = input("Do you want to overwrite this save and start over? (y/n): ").lower()
+            if confirm != 'y':
+                return False # User cancelled
 
-        name = input("Enter your adventurer's name: ").strip()
+        name = input("\nEnter your adventurer's name: ").strip()
         if not name: name = "Adventurer"
         
+        # Create and save
         self.character = Character(name=name, user_id=self.user_id)
         self.save_character()
-        print_success(f"Welcome, {self.character.name}!")
+        
+        print_success(f"\nCharacter Created! Welcome, {self.character.name}.")
         print(self.character)
-        input("\nPress Enter to continue...")
+        input("\nPress Enter to begin your adventure...")
+        return True
 
     def show_stats(self):
         char = self.load_character()
@@ -110,25 +119,32 @@ class GameEngine:
 
     def display_page_text(self, page_data):
         print_header(f"Page {self.character.current_location}")
-        print(f"\n{page_data['text']}\n")
+        print_wrapped(page_data['text'])
 
     def handle_choice(self, page_data):
         self.display_page_text(page_data)
         choices = page_data["choices"]
-        
-        # Display options
         options = list(choices.keys())
         for i, text in enumerate(options, 1):
             print(f"{i}. {text}")
 
-        # Input Loop
+        print(f"\n{Fore.LIGHTBLACK_EX}[Commands: type number to choose, 'stats' to view info, 'eat' to heal, 'q' to quit]{Style.RESET_ALL}")
+
         while True:
+            choice_input = input(f"\n> ").strip().lower()
+            
+            if choice_input == 'q':
+                self.running = False
+                return
+            elif choice_input == 'stats':
+                print(self.character)
+                continue
+            elif choice_input == 'eat':
+                msg = self.character.eat_provision()
+                print_bold(msg)
+                continue
+            
             try:
-                choice_input = input(f"\nMake your choice (1-{len(options)}) or 'q' to quit: ").lower()
-                if choice_input == 'q':
-                    self.running = False
-                    return
-                
                 idx = int(choice_input) - 1
                 if 0 <= idx < len(options):
                     selected_text = options[idx]
@@ -137,12 +153,12 @@ class GameEngine:
                 else:
                     print_error("Invalid number.")
             except ValueError:
-                print_error("Please enter a number.")
+                print_error("Invalid input.")
 
     def handle_transaction(self, page_data):
         self.display_page_text(page_data)
         choices = page_data["choices"]
-        options = list(choices.items()) # List of tuples (text, data)
+        options = list(choices.items())
 
         for i, (text, data) in enumerate(options, 1):
             cost = data.get("cost", 0)
@@ -221,13 +237,6 @@ class GameEngine:
             self.character.current_location = page_data["outcomes"]["failure"]
         time.sleep(1.5)
 
-    def handle_condition_item(self, page_data):
-        # Hidden check
-        if self.character.has_item(page_data["check"]["item"]):
-            self.character.current_location = page_data["outcomes"]["success"]
-        else:
-            self.character.current_location = page_data["outcomes"]["failure"]
-
     def handle_combat(self, page_data):
         self.display_page_text(page_data)
         print_warning("⚔️  COMBAT BEGINS! ⚔️")
@@ -244,28 +253,53 @@ class GameEngine:
                 combat_rounds += 1
                 print(f"\n--- Round {combat_rounds} ---")
                 
+                # Roll logic
                 player_roll = self.character.roll_dice(2)
                 player_attack = player_roll + self.character.skill
-                
                 enemy_roll = self.character.roll_dice(2)
                 enemy_attack = enemy_roll + enemy['skill']
 
-                time.sleep(0.5)
-                print(f"You rolled {player_roll} (+{self.character.skill} Skill) = {player_attack}")
-                print(f"{enemy['name']} rolled {enemy_roll} (+{enemy['skill']} Skill) = {enemy_attack}")
+                print(f"You: {player_attack} (Roll: {player_roll}) vs Enemy: {enemy_attack} (Roll: {enemy_roll})")
                 time.sleep(0.5)
 
+                damage = 2
+
                 if player_attack > enemy_attack:
-                    enemy['stamina'] -= 2
-                    print_success(f"You hit! {enemy['name']} Stamina: {enemy['stamina']}")
+                    print_success(f"You hit the {enemy['name']}!")
+                    # Optional: Ask to Use Luck
+                    if self.character.luck > 0:
+                        use_luck = input(f"Test Luck to do extra damage? (Current Luck: {self.character.luck}) [y/n]: ").lower()
+                        if use_luck == 'y':
+                            if self.character.test_luck():
+                                print_success("Lucky! You do 4 damage!")
+                                damage = 4
+                            else:
+                                print_error("Unlucky! You do 1 damage.")
+                                damage = 1
+                    
+                    enemy['stamina'] -= damage
+                    print(f"{enemy['name']} Stamina: {enemy['stamina']}")
+
                 elif enemy_attack > player_attack:
-                    self.character.take_damage(2)
-                    print_error(f"You were hit! Your Stamina: {self.character.stamina}")
+                    print_error(f"The {enemy['name']} hits you!")
+                     # Optional: Ask to Use Luck
+                    if self.character.luck > 0:
+                        use_luck = input(f"Test Luck to reduce damage? (Current Luck: {self.character.luck}) [y/n]: ").lower()
+                        if use_luck == 'y':
+                            if self.character.test_luck():
+                                print_success("Lucky! You only take 1 damage!")
+                                damage = 1
+                            else:
+                                print_error("Unlucky! You take 3 damage!")
+                                damage = 3
+
+                    self.character.take_damage(damage)
+                    print(f"Your Stamina: {self.character.stamina}")
                 else:
-                    print("Draw!")
+                    print("Draw! No damage dealt.")
                 
                 if not self.character.is_dead() and enemy['stamina'] > 0:
-                    time.sleep(0.8) # Pause between rounds
+                    time.sleep(1) # Short pause
 
             if not self.character.is_dead():
                 print_success(f"You defeated {enemy['name']}!")
