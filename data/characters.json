@@ -16,23 +16,5 @@
         "gold": 14,
         "provisions": 10,
         "current_location": "74"
-    },
-    "local_player": {
-        "name": "njfd",
-        "user_id": "local_player",
-        "skill": 9,
-        "stamina": 19,
-        "luck": 7,
-        "max_skill": 9,
-        "max_stamina": 19,
-        "max_luck": 7,
-        "inventory": [
-            "Sword",
-            "Leather Armour",
-            "Backpack"
-        ],
-        "gold": 12,
-        "provisions": 10,
-        "current_location": "74"
     }
 }

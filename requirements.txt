@@ -1,2 +1,2 @@
 colorama
-python-dotenv
+pyfiglet

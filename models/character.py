@@ -63,26 +63,68 @@ class Character:
 
     def apply_effects(self, effects):
         summary = []
+        
+        # --- STAMINA ---
         if "stamina" in effects and effects["stamina"] != 0:
-            self.stamina = min(self.max_stamina, self.stamina + effects["stamina"])
-            summary.append(f"{'+' if effects['stamina'] > 0 else ''}{effects['stamina']} STAMINA")
+            # Prevent going above Max, but also prevent going below 0
+            new_val = self.stamina + effects["stamina"]
+            self.stamina = max(0, min(self.max_stamina, new_val))
+            
+            sign = '+' if effects['stamina'] > 0 else ''
+            summary.append(f"{sign}{effects['stamina']} STAMINA")
+
+        # --- SKILL ---
         if "skill" in effects and effects["skill"] != 0:
-            self.skill = min(self.max_skill, self.skill + effects["skill"])
-            summary.append(f"{'+' if effects['skill'] > 0 else ''}{effects['skill']} SKILL")
+            new_val = self.skill + effects["skill"]
+            self.skill = max(0, min(self.max_skill, new_val))
+            
+            sign = '+' if effects['skill'] > 0 else ''
+            summary.append(f"{sign}{effects['skill']} SKILL")
+
+        # --- LUCK ---
         if "luck" in effects and effects["luck"] != 0:
-            self.luck = min(self.max_luck, self.luck + effects["luck"])
-            summary.append(f"{'+' if effects['luck'] > 0 else ''}{effects['luck']} LUCK")
-        if "gold" in effects and effects["gold"] != 0:
-            self.gold += effects["gold"]
-            summary.append(f"{'+' if effects['gold'] > 0 else ''}{effects['gold']} Gold")
+            new_val = self.luck + effects["luck"]
+            # Luck can be restored, but never higher than Initial (Max) Luck
+            self.luck = max(0, min(self.max_luck, new_val))
+            
+            sign = '+' if effects['luck'] > 0 else ''
+            summary.append(f"{sign}{effects['luck']} LUCK")
+
+        # --- GOLD ---
+        if "gold" in effects:
+            # Special case for "lose all gold" or "set to 0"
+            if isinstance(effects["gold"], str) and effects["gold"] == "set_to_0":
+                val_change = self.gold * -1
+                self.gold = 0
+                summary.append("Lost all Gold")
+            elif isinstance(effects["gold"], int) and effects["gold"] != 0:
+                self.gold = max(0, self.gold + effects["gold"])
+                sign = '+' if effects['gold'] > 0 else ''
+                summary.append(f"{sign}{effects['gold']} Gold")
+
+        # --- ITEMS ---
         if "add_items" in effects:
             for item in effects["add_items"]:
                 self.add_item(item)
                 summary.append(f"Gained: {item}")
+        
         if "remove_items" in effects:
             for item in effects["remove_items"]:
                 self.remove_item(item)
                 summary.append(f"Lost: {item}")
+        
+        # Special logic for random item loss
+        if "lose_random_items" in effects:
+            count = effects["lose_random_items"]
+            lost = []
+            for _ in range(count):
+                if self.inventory:
+                    item = random.choice(self.inventory)
+                    self.inventory.remove(item)
+                    lost.append(item)
+            if lost:
+                summary.append(f"Lost random items: {', '.join(lost)}")
+
         return ", ".join(summary)
 
     def to_dict(self):
