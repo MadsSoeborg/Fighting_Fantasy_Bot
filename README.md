@@ -1,64 +1,60 @@
-# Fighting Fantasy Discord Bot
+# Fighting Fantasy: City of Thieves (CLI Edition)
 
-This is a Discord bot designed to let users play through the classic Fighting Fantasy gamebooks by Steve Jackson and Ian Livingstone. The bot manages character creation, stats, inventory, and story progression, bringing the single-player role-playing experience to a Discord server.
-
-This implementation is based on **Book 5: City of Thieves**.
+A text-based RPG engine that brings the classic *Fighting Fantasy* gamebook experience to your terminal. This project digitizes Steve Jackson and Ian Livingstone's **Book 5: City of Thieves**, managing all the dice rolling, inventory tracking, and combat mechanics so you can focus on surviving Port Blacksand.
 
 ## Features
 
-- **Interactive Story:** Play through the complete "City of Thieves" adventure by making choices.
-- **Character Management:** Create and manage your own unique adventurer with classic FF stats (SKILL, STAMINA, LUCK).
-- **Persistent State:** Your character's stats, inventory, and progress are automatically saved, so you can `!quit` and resume your adventure later with `!play`.
-- **Automated Mechanics:** The bot handles all dice rolls for combat, skill tests, and luck tests, letting you focus on the story.
-- **Data-Driven:** The entire adventure is powered by structured JSON files, making it easy to modify, fix, or even adapt for other Fighting Fantasy books.
+*   **Interactive Fiction:** Play through the complete text adventure. Your choices determine whether you survive or perish.
+*   **Automated Rules:** The engine handles all 2d6 dice rolls for Combat, *Test Your Luck*, and Skill checks instantly.
+*   **RPG Mechanics:** Automatically tracks your **SKILL**, **STAMINA**, **LUCK**, Gold, and Inventory.
+*   **Save System:** Your progress is auto-saved after every page. You can quit at any time and resume exactly where you left off.
+*   **Retro Visuals:** Features colored text output and ASCII art headers.
+*   **Data-Driven:** The entire story is powered by JSON files, making it easy to mod or fix.
+
+## Installation & Setup
+
+You need **Python 3** installed on your computer.
+
+1.  **Clone or Download** this repository.
+2.  Open your terminal (Command Prompt, PowerShell, or Terminal).
+3.  Navigate to the game folder:
+    ```bash
+    cd madssoeborg-fighting_fantasy_bot
+    ```
+4.  Install the required libraries (Colorama for colors, Pyfiglet for ASCII art):
+    ```bash
+    pip install -r requirements.txt
+    ```
+5.  **Run the Game:**
+    ```bash
+    python main.py
+    ```
 
 ## How to Play
 
-Interacting with the bot is simple. Once it's in your server, use the following commands in any channel the bot can see.
+Once the game is running, you will see the Main Menu.
 
-### Essential Commands
+### Main Menu
+*   **1. New Game:** Create a fresh character. (Warning: Overwrites existing save).
+*   **2. Continue:** Resume your adventure from the last page visited.
+*   **3. View Stats:** Check your character sheet.
+*   **4. Delete:** Wipe your save file.
 
-- `!create`
+### In-Game Controls
+When reading the story, you interact by typing commands into the terminal prompt `>`.
 
-  - Creates your adventurer with randomly rolled stats. This is the first step for any new player. You can only have one character at a time.
+*   **Make a Choice:** Type the **Number** of the option you want to take (e.g., `1`, `2`).
+*   **`s`** - **Show Stats:** Displays your current Health, Gold, Items, and Skills.
+*   **`e`** - **Eat Provision:** Consumes 1 Provision to heal 4 STAMINA points (cannot exceed initial Stamina).
+*   **`q`** - **Quit:** Saves and returns to the main menu/exits.
 
-- `!play`
+### Combat & Events
+*   **Combat:** Press `Enter` to advance rounds. The game handles attack rolls automatically.
+*   **Luck:** During combat or story events, you may be asked to *Test Your Luck*. Type `y` to burn a Luck point for a chance at a better outcome (e.g., dealing double damage).
 
-  - Starts your adventure or resumes from where you last stopped. The bot will present you with the current story page and your choices.
+## Cheat Code
+Struggling to survive?
+*   When creating a new character, name yourself `Ian Livingstone` to activate **God Mode** (Max stats + 50 Gold).
 
-- `!stats`
-
-  - Displays your current character sheet, including your SKILL, STAMINA, LUCK, Gold, Provisions, and Inventory.
-
-- `!info` or `!help`
-
-  - Shows a detailed help message explaining all the commands and how to interact with the game.
-
-- `!quit`
-
-  - Safely ends your current game session. Your progress is saved, and you can use `!play` to come back at any time.
-
-- `!delete`
-  - **Permanently deletes** your current character. Use this if you want to start a completely new game with a new character roll. This action cannot be undone.
-
-### Making Choices
-
-When the bot presents you with a story segment and a numbered list of choices, simply **type the number of your desired choice** into the chat and press Enter.
-
-> **Example:**
->
-> **Bot:**
->
-> ```
-> Page 1
-> ```
->
-> At the gate you are confronted by a tall guard... 'State the nature of your business...'
->
-> **1**. Tell him you wish to be taken to Nicodemus.
-> **2**. Tell him you wish to sell some stolen booty.
-> **3**. Attack him quickly with your sword.
->
-> **You type:** > `2`
-
-The bot will then process your choice and present the next part of the story.
+## Credits
+*   Based on the gamebook *City of Thieves* by Ian Livingstone.
