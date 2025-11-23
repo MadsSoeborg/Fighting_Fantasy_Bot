@@ -16,5 +16,23 @@
         "gold": 14,
         "provisions": 10,
         "current_location": "74"
+    },
+    "local_player": {
+        "name": "Mikkel",
+        "user_id": "local_player",
+        "skill": 7,
+        "stamina": 19,
+        "luck": 11,
+        "max_skill": 7,
+        "max_stamina": 19,
+        "max_luck": 11,
+        "inventory": [
+            "Sword",
+            "Leather Armour",
+            "Backpack"
+        ],
+        "gold": 12,
+        "provisions": 10,
+        "current_location": "1"
     }
 }

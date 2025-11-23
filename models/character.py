@@ -1,7 +1,8 @@
 import random
+from colorama import Fore, Style
 
 class Character:
-    def __init__(self, name, user_id):
+    def __init__(self, name, user_id="local_player"):
         self.name = name
         self.user_id = str(user_id)
         self.skill = self.roll_dice(1) + 6
@@ -45,13 +46,11 @@ class Character:
             self.inventory.append(item_name)
 
     def remove_item(self, item_name):
-        # Case-insensitive removal
         item_to_remove = next((item for item in self.inventory if item.lower() == item_name.lower()), None)
         if item_to_remove:
             self.inventory.remove(item_to_remove)
 
     def apply_effects(self, effects):
-        """Applies a dictionary of effects to the character."""
         summary = []
         if "stamina" in effects and effects["stamina"] != 0:
             self.stamina = min(self.max_stamina, self.stamina + effects["stamina"])
@@ -80,15 +79,17 @@ class Character:
 
     @classmethod
     def from_dict(cls, data):
-        char = cls(name=data['name'], user_id=data['user_id'])
+        char = cls(name=data['name'], user_id=data.get('user_id', 'local_player'))
         char.__dict__.update(data)
         return char
 
     def __str__(self):
         inventory_str = ', '.join(self.inventory) if self.inventory else "Empty"
         return (
-            f"**{self.name}**\n"
-            f"SKILL: `{self.skill}/{self.max_skill}` | STAMINA: `{self.stamina}/{self.max_stamina}` | LUCK: `{self.luck}/{self.max_luck}`\n"
-            f"Gold: `{self.gold}` | Provisions: `{self.provisions}`\n"
-            f"**Inventory**: {inventory_str}"
+            f"{Fore.YELLOW}{Style.BRIGHT}=== {self.name}'s Stats ==={Style.RESET_ALL}\n"
+            f"SKILL:   {self.skill}/{self.max_skill}\n"
+            f"STAMINA: {self.stamina}/{self.max_stamina}\n"
+            f"LUCK:    {self.luck}/{self.max_luck}\n"
+            f"Gold: {self.gold} | Provisions: {self.provisions}\n"
+            f"Inventory: {inventory_str}"
         )
