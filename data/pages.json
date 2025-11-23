@@ -987,7 +987,7 @@
     "text": "Do you have all the necessary items required to slay the Night Prince, and have you been tattooed?",
     "checks": [
       { "type": "item", "value": "Hag's Hair" },
-      { "type": "item", "value": "Black Pearls" },
+      { "type": "item", "value": "Six Black Pearls" },
       { "type": "item", "value": "Lotus Flower" },
       { "type": "item", "value": "Unicorn Tattoo" }
     ],
@@ -1480,10 +1480,14 @@
     "enemies": ["giant_centipede_1"],
     "outcomes": { "win": "272", "lose": "GAME_OVER" }
   },
+  "167_transact": {
+    "type": "transaction",
+    "choices": { "Buy healing mixture": { "cost": 4, "next": "167" } }
+  },
   "167": {
     "type": "effect",
     "text": "When you have paid the Man-Orc the 4 Gold Pieces, he explains that placing the herbs on a wound will help to heal it. Unfortunately the strength of the mixture varies. When required, roll 1 die. The number rolled is the number of STAMINA points that will be restored. Somewhat surprised at your good fortune you leave the shop and walk north. Add 1 LUCK point.",
-    "effects": { "gold": -4, "luck": 1, "add_items": ["Healing Herbs (1d6)"] },
+    "effects": { "luck": 1, "add_items": ["Healing Herbs (1d6)"] },
     "next": "93"
   },
   "168": {
